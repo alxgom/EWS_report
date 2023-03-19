@@ -1,0 +1,138 @@
+
+%cite jorrit paper on EWS
+\section{Categories of EWS}
+
+Most early warning signals  are based on the fact that, for most bifurcations, near the tipping point the system looses resilience and relaxation times become larger. 
+This implies a growth of variance, and higher statistical fluctuations, correlation times\footnote{And therefore change in the noise power spectrum.} and correlation lengths. 
+
+
+There are many reviews on EWS, like the ones by \cite{Scheffer2009, dakos2012_10.1371/journal.pone.0041010,Lucarini2014, Clements2018a,Feudel2018,Boettiger2013,Dutta2018,Bury2020}. 
+Here we provide a short update summary of the kinds of EWS that have been proposed.
+The EWS can be divided in four groups, depending in the method used, as follows:
+\begin{enumerate}
+
+
+\item{Metric Based}
+The following EWS are based on  metrics related to  properties of the time series\footnote{This is a slight update from the review made by \cite{dakos2012_10.1371/journal.pone.0041010}}. 
+\begin{itemize}
+	\item Statistical quantities:  Variance or standard deviation (SD),  coefficient of variation ($SD/mean$), skewness, kurtosis, unbiased kurtosis estimators, relative tail weight.
+	 These metrics measure a change in trend of the moments or percentiles of the distribution of an observable \citep{Xie2019,PhysRevE.100.013102,dakos2012_10.1371/journal.pone.0041010}.
+	 These metrics can be performed either on raw data or de-trended data. 
+	\item Spectral metrics: spectral density, spectral exponent, spectral ratio.
+	These metrics measure a change in the spectrum of the noise. In some cases they can also predict the type of bifurcation and the frequency of limit cycles in Hopf bifurcations \citep{Bury2020}.
+	\item Detrended fluctuation analysis indicator (DFA): It estimates a range of correlations by extracting the fluctuation of a time series of size $s$. If the time series is long-term power-law correlated, the fluctuation function $F(s)$ increases as a power law $F(s)\propto s^a$, where $a$ is the DFA coefficient, which is re-scaled to give the DFA indicator and tends towards $3/2$ close to the critical transition \citep{Peng1994,Livina2007}.
+	\item Lag autocorrelations: Autocorrelation at lag-1 $\lag_1$, Auto-regressive coefficient of $\lag_1$, Return Rate (inverse of $\lag_1$, or 1-($\lag_1$)). Auto-correlation at other lags. \cite{Pavithran2021} also looks at the variance of the autocorrelation at some lag  as EWS.
+	These metrics look at correlation in the temporal series to infer information on the stability of the system.
+	\item Mixed metrics: Extended spatio-temporal correlation at lag-1 \citep{Tirabassi2022}, a mix of spatial and temporal lag-1 auto-correlation.
+	There are two indexes proposed by \cite{Drake2010}: $W_1$ as the sum of the
+	standardized differences of each statistic calculated in their work, and $W_2$ was
+	calculated as the sum of the standardized deviations of each statistic from its long run average. 
+	\item Conditional Heteroskedasticity \citep{Seekell2011}: It correlates the variance at different times.
+	\item BDS test: Detects nonlinear serial dependence in time series. It fits the time series against linear models and test the null model on the residual noise to reject the i.i.d. hypothesis when near a critical transition \citep{Carpenter2011}.
+	\item Mean fractal detrended fluctuation analysis (MF-DFA): This is a generalization of DFA for non-stationary time series, which analyses the critical slowing down though Husrts exponents. These exponents uncover multi-fractal properties of the time series data near transitions. 
+	The Hurst exponent classifies the analyzed data between persistent ($0.5<H<1$), white noise ($H=0.5$) and anti-persitent $0<H<0.5$, with $H\rightarrow 0$ approaching the bifurcation and can be used also in chaotic systems \citep{Kaur2022,Bury2020,Pavithran2021}.
+	
+\end{itemize}
+
+
+\item{Model Based}
+EWS related to models or properties of nonlinear equations.
+
+\begin{itemize}
+	\item Non-parametric drift-diffusion-jump models (DDJ): It tries to fit parameters assuming an underlying drift-diffusion-model.
+	\[
+	dx_t=\mu(x_t,\dots,\la_t)dt+\sigma_D(x_t,\dots,\la_t)dW+d\left[ \sum_{n=1}^{N_t} Z_n\right] 
+	\]
+	where the coefficients are estimated by non-parametric regressions \citep{Ahn1988,Bandi2003,Carpenter2011a} and $Z$ refer to shock processes.
+	\item Time-varying AR(p) models: 
+	Here it is assumed that the systems evolves as 
+	\begin{equation}
+		x(t)=b_0(t-1)+\sum^{p_i=1}_i b_i(t-1)(x(t-i)-b_0(t-1))+\epsilon(t)\\
+		b_i(t)=\sum^{p_i=1} b_i(t-1)+\phi_i(t)
+	\end{equation}
+where $b_0$ is related to the mean of the time series, and $b_i$ determines the dynamics around the mean.   $\epsilon$ is a random variable from $N(0,\sigma_\epsilon)$ and the equation for $b_i$ means it does a random walk dictated by the variances $\sigma_i$ from $\phi_i$.
+
+	\item Threshold AR(p) models: This assumes a flickering between two states close to the transition, therefore it models the process like two AR(p) models switching at $x(t-1)=c$, where $c$ is a threshold to be defined, along with the parameters of the AR(p) models. 
+	\item \cite{Laitinen2021} proposes other autoregressive models for evolving stochastic systems.
+	\item Potential analysis: The idea behind this technique is reconstructing the local landscape of the associated potential assuming that 
+	\begin{equation}
+		dz=-\frac{dU}{dz}dt+\sigma dW
+	\end{equation}
+	where $dU/dz$ is a polynomial potential of even order, where the order of the best-fit polynomial reflects the number of potential stable states \citep{Livina2010,Livina2011}.
+
+	\item Ising, networks and percolation models: These models use network and percolation results display the loss of resilience of a grid of points, or a network of agents. This is done the correlation or functional networks.
+	Some network based precursors are the values of the degree (number of connections per node), assortativity (degree correlations), clustering, kurtosis rise, while the construction of functional networks through the Pearson correlation allows the study of percolation of the network as the system approaches the bifurcation,  through the study of the size of the largest connected component, the average cluster size, or the probability that a random node belongs to a component of a given size \citep{Rodriguez-Mendez2016a, Jager2017, Fullsack2022}.
+	Furthermore, \citep{Dakos2017} propose the use of block decomposition methods, based on Kolomogorov complexity to identify transitions.
+	Persistent homology and clustering have also been used to identify critical transition \citep{Mittal2017,Maletic2016} and is being applied  financial markets \citep{Gidea2020a,Ismail2022a}.
+	\citep{Zhang2022} mean field network....
+	
+	As a practical example, use of network properties has also been used as EWS for sudden deterioration of diseases \citep{Chen2012a}, in particular as a warning for  diabetes-1 \citep{Liu2013}, and transitions in thermoacustic systems\footnote{\citep{Murugesan2016} compares several network properties as EWS. } \citep{Murugesan2016}.
+	
+	Many of the mentioned EWS are related to results of information theory, however we should also mention work where the entropy of the signals are directly used as EWS. In \cite{Chen2020} Shannon and Kolmogorov-Sinai entropy are used as EWS in chaotic systems, and compared to the Lyapunov exponent of the attractor. 
+\end{itemize}
+\item{Ordinal analysis}
+%http://www.fisica.edu.uy/~cris/teaching/slides_masoller_uni.pdf
+The symbolic approach
+involves the transformation of a time series, $x(t)$, into a sequence of symbols, $s(t)$, by using an appropriated
+codification rule. Complexity measures have been proposed to characterize the resulting symbolic sequence, a very popular one
+being the permutation entropy (PE).
+By measuring the entropy of the 'phrases' that results from the symbolic codification it is possible to characterize the different regimes and even predict regime changes
+\citep{Masoller2015,Rubido2018,Boaretto2021}.
+
+\item{Extreme Event Theory based}
+EWS based on extreme value theory proposed by \cite{Lucarini2014}. Of which there are two equivalent approaches, one based on Generalized Extreme Value (GEV), and the Generalized Pareto Distribution (GPD). 
+
+This metric is based on a change of convergence to the GEV (and GPD) of the block maxima distribution at the bifurcation. 
+They have shown that, approaching the bifurcation, a system's GEV convergence with additive white noise goes to being linked to a GEV with positive shape parameter to negative going through zero at the bifurcation \citep{Faranda2014}. 
+
+
+  
+
+\item{AI based}
+
+Lately there has been some developments on the use of deep learning algorithms trained on models with phase transitions that can be used as early warning tools \citep{Bury2021}.
+In this model, the deep learning algorithm is trained on numerical simulations from an Ising model, where the system goes through several phase transitions of order $1$ and $2$. 
+Since this phase transitions are linked to dynamical bifurcations,  the mechanisms for this are universal, this has been shown to predict bifurcations on test systems where is was not trained. 
+This algorithms can be applied to spatial data obtained from satellite images, for example for arctic ice loss. 
+
+Another recent development using Deep learning is the EWSnet network \citep{Deb2022}, a network trained on sets of different dynamical systems with a wide variety of bifurcations. 
+
+\end{enumerate}
+
+
+\subsection{EWS performance}
+
+There are several things that can affect the performance of an early warning signal. Not only there are considerations inherent to the dynamical system, like the type of bifurcation, the source of noise, or the speed of the bifurcation parameter; but there are also data acquisition(sample frequency, sample spacing, available variables) and data treatment(type of detrending, length and type window either for detrending and for analysis) complexities to take into account. 
+
+\begin{itemize}
+	\item Time series performance
+	\begin{itemize}
+		\item Detrending 
+		\begin{itemize} 
+			\item Window size: In any detrending, the choice of window size affects the resulting detrended solution. De-trending on a small window can lead to keeping higher more fluctuations than wanted, too large a window (compared to the change on the bifurcation parameter) means keeping biases trends on the analyzed data. \citep{Jager2019}
+			\item Window kernel: There are several types of detrending in the literature. From average moving window, to using a Gaussian kernel or  Lowess \citep{Dakos2008, Bury2020,Lenton2012} fit\footnote{Implementations of this detrending algorithms for Python can be found in the package ewstools: \url{https://github.com/ThomasMBury/ewstools}.}.  
+		\end{itemize}
+		\item Sample frequency: Sample frequency can affect EWS, specifically autocorrelation based signals, since they require interpolation to be estimated as a time series at constant intervals \citep{10.1086/681573}
+		\item Noise: It has been shown that colored noise can have a negative impact on some EWS. In particular, signals  on additive or multiplicative noise, for the same underlying system, can display different behaviors  \citep{Kaur2022,Dutta2018,10.1086/681573}. 
+		As shown by \cite{Boerlijst2013}, it is also relevant in which variable the noise is present. In this case, they show how EWS might be absent in the case of the absence of noise in the system's dominant eigenvalue for a saddle-nose bifurcation. And even then it there might not be EWS.
+		An in depth  analysis on how the choice of observable and in which variable de noise is present is realized by \cite{Patterson2021}, where the effect of asymmetric noise is also explored.
+		\item Analysis window: Some investigations on the importance of the lenght of the analysis window are done by \cite{Dutta2018}.
+		\item Bifurcation parameter speed: a few work have been written where it is shown that the speed of the sweeping of the control parameter influences the quility and even the ability to have EWS as shown in \cite{Marcucci2019} and \cite{Kaur2022a}.		
+	\end{itemize}
+	
+	For a larger review on performance of EWS, particularly for spatial EWS, we refer to \cite{Clements2018a,Feudel2018, Thompson2011}.
+	
+	\item Uncertainty estimation
+	\subitem Different types of bootstrapping and it's efficiency and validity in the presence of data with heavy tails. For an example of EWS calculated using bootstrapping we refer to \cite{Bury2020}.
+	
+	\subitem Prediction reliability: Once a definition for a warning is made, the performance of the EWS can be tested by studying the ratios of false positives and false negatives by using an receiver operator characteristics (ROC) test as done by \citep{Boettiger2012a,Bury2020,Romano2018}.
+	
+
+\end{itemize}
+
+
+\citep{Boettiger2012, Boettiger2013a}
+
+
+Up to now we have mostly discussed in a sort of review manner, the developments on EWS that can be found in the literature. 
+

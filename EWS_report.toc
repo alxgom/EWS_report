@@ -1,0 +1,54 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Tipping mechanisms, and early warning signals.}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Critical slowing down and resilience}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Estimation for linearly stable systems in critical bifurcations}{8}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Types of tipping}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Dynamical bifurcations, or B-tipping}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Pure stochastic tipping, or N-tipping}{12}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Rate induced bifurcations, or R-tipping}{12}{subsection.2.2.3}%
+\contentsline {subsubsection}{Intuitive interpretation}{13}{section*.14}%
+\contentsline {subsection}{\numberline {2.2.4}Shock induced bifurcations, or S-tipping}{14}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Categories of EWS}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}EWS performance}{17}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}The connection between extreme events and transitioning systems}{19}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Tail related metrics}{19}{subsection.2.4.1}%
+\contentsline {subsubsection}{Relative tail weight}{19}{section*.16}%
+\contentsline {subsubsection}{Extension to consider heavy-tailed distributions on the left side of the PDF}{20}{section*.18}%
+\contentsline {subsubsection}{Kurtosis and unbiased estimators}{21}{section*.19}%
+\contentsline {subsection}{\numberline {2.4.2}Common values}{21}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Convergence}{22}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Bootstrapping}{23}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Stochastic differential equations (SDE)}{25}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Ornstein-Uhlenbeck stochastic process}{26}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Augmented stochastic system (ASS)}{27}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Defining an adiabatic sweeping}{28}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}Tracking timescale, and loss of symmetry in the augmented system}{32}{section.2.6}%
+\contentsline {section}{\numberline {2.7}adiabatic number}{36}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Simulation and analysis methodology.}{36}{section.2.8}%
+\contentsline {section}{\numberline {2.9}examples:}{37}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Custom (change name)}{37}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Sub-critical pitchfork}{38}{subsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.9.3}Super-critical pitchfork}{38}{subsection.2.9.3}%
+\contentsline {subsection}{\numberline {2.9.4}Abundance}{38}{subsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.9.5}Hopf bifurcation}{38}{subsection.2.9.5}%
+\contentsline {subsection}{\numberline {2.9.6}Fold bifurcation}{38}{subsection.2.9.6}%
+\contentsline {subsection}{\numberline {2.9.7}Sharp transition (1) }{38}{subsection.2.9.7}%
+\contentsline {section}{\numberline {2.10}Conclusions}{38}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Outlook and remaining questions}{39}{section.2.11}%
+\contentsline {section}{\numberline {2.12}List of symbols}{41}{section.2.12}%
+\contentsline {chapter}{Appendices}{49}{section*.44}%
+\contentsline {chapter}{\numberline {A}EWS appendix}{50}{appendix.a.A}%
+\contentsline {subsection}{\numberline {A.0.1}Rogue events index}{50}{subsection.a.A.0.1}%
+\contentsline {section}{\numberline {A.1}Pitchfork toy model}{51}{section.a.A.1}%
+\contentsline {section}{\numberline {A.2}paradox?}{53}{section.a.A.2}%
+\contentsline {section}{\numberline {A.3}Stochastic adiabatic timescale}{53}{section.a.A.3}%
+\contentsline {section}{\numberline {A.4}Extreme events}{54}{section.a.A.4}%
+\contentsline {section}{\numberline {A.5}Extreme events from mathematics}{54}{section.a.A.5}%
+\contentsline {section}{\numberline {A.6}Bootstraping exponential }{55}{section.a.A.6}%
+\contentsline {section}{\numberline {A.7}leftover}{56}{section.a.A.7}%
+\contentsline {section}{\numberline {A.8}Non equilibrium variance}{57}{section.a.A.8}%
+\contentsline {section}{\numberline {A.9}Upper constraint of the integration scheme.}{57}{section.a.A.9}%
+\contentsline {subsection}{\numberline {A.9.1}Sharp transition mockup}{58}{subsection.a.A.9.1}%
+\contentsline {subsubsection}{Simulation of an experimental transition.}{58}{section*.56}%
+\contentsline {section}{\numberline {A.10}Overshoot tipping with high noise}{60}{section.a.A.10}%
+\contentsline {section}{\numberline {A.11}triangle}{62}{section.a.A.11}%

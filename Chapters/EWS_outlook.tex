@@ -1,0 +1,86 @@
+\section{Outlook and remaining questions}
+
+\begin{itemize}
+	\item Along this chapter the noise has always been 'forcing' the observable. However, it seem plausible that in many systems, the noise is either present at the same time in the control parameter, or is only present in the control parameter. 
+	Otherwise it seems like the noise is only present due to the measuring, or due to some internal hidden mechanism, instead on having a well defined mechanics for the behavior of the system and having a control parameter with an internal variability. 
+	For example, measurement from laser intensity can be noisy because of environmental noise, but also because the energy source has variability. 
+	In a climate dynamic that is controlled by the temperature, or the solar constant in the case of energy balance model, the noise can be due to internal dynamics, but in can also stem from the internal dynamics of the control parameter (Solar dynamics, local temperature fluctuations, etc.. )
+	
+	At the time of writing it is not clear if this can have any important effect, but we expect that white noise in a control parameter might present itself as colored noise in the observable (as there is a nonlinear dependence), which can have implications for EWS signals \citep{Dutta2018,Bury2020}, and it might be relevant when considering theoretical developments as the control is not longer a fully deterministic variable. 
+	
+	This can also have influence in the capacity of having earlier warning as the noise on the control parameter would allow the system to 'tip its toes' into the tipping, while not being (on average) at the tipping point, possibly allowing for earlier warnings.
+	
+	As shown by \cite{Patterson2021} the directionality, and how the noise is presented in each parameter has great implications for the  the quality of the EWS, even when the noise is directly applied to the dynamical variables.
+	
+	which brings us to the next open question:
+	
+	\item What is the extension for our adiabatic definition for higher dimensional systems? This is specially interesting for R-tipping since there, the effect depends on having well defined the speed of the forcing parameter. 
+	In this case the adiabatic definition will also have directionality as in \cite{Patterson2021}.
+	
+	So far the deductions for sweeped systems that we have found assume some adiabatic/ergodic behavior in their deduction. As example,  \cite{Romano2018} has a mathematical deduction for a 1-dimensional ASS system and the goodness of EWS, however they also assume the sweeping rate to be small enough to consider adiabatic behavior. 
+	
+	\item Many works have been developed for either additive or multiplicative noise and how this might effect the EWS, to our knowledge there is no work in systems with several sources of noise, for example a systems that evolves with an underlying white noise, but also with stochastic shocks present, and how this shocks might modify the EWS signals.
+	
+	\item Questions for Lucarini (or others): Using kurtosis or other metrics instead .  R-tipping and van der pol oscillator.
+	
+	\item 
+	Since the relaxation time changes through the evolution, it would be numerically cheaper to not have an evenly spaced signal, but to change the resolution of time according to the relaxation time.
+
+	\item Prove that some EWS in stochastic systems with a changing parameter do not work  when the pullback attractor does not follow the stable path.   
+	
+	Rate-Induced Tipping in Discrete-Time Dynamical Systems-Claire Kiers
+	
+
+	
+
+	\item Does overshooting a bifurcation like and returning quick as in \cite{Ritchie2021} still work in higher dimensions?. In 1D this might work since the system is forced to come back due to the forward stability when returning the control parameter, however in higher dimensions the system might prefer to avoid crossing the unstable branch through another path.
+	
+	\item Is there an effective return time near a bifurcation? how can it be estimated?
+
+	
+	
+	\item Variance might change without getting close to the bifurcation, and it is also not bounded nor has a steady state. 
+	
+	\item cluster machine learning and topological things. \cite{Gidea2020}
+	
+	\item kurtosis,skew,kr,etc.. might be better for a slow moving variable since there is an equilibrium better defined
+			
+	\item Skewnes/kurtosis in the ornstein picture are related to ghosting.
+		
+	\item To optimize the signal quality of the EWS, it could be possible to develop a sliding window that changes depending on an estimate of the lag-1.  Since the correlation time changes, the moving windows width and bandwidth should also change to have better statistics.
+	
+	\item 	There is something better than bootstrapping? I understand it's supposed to be 'sub-optimal' for biased statistics like kurtosis, there are ways to implement saddle point or edgeworth approximations that would work better?
+	
+	\item It would be useful to develop an automatic estimate of when the bootstrapping is close to reproducing a normal distribution since different statistics might need different number of bootstraping resamples. 
+	An early attempt to develop this using the Pearson coefficient from scipy.stats.normaltest so far has been very slow, which might be due to some moments not converging well enough for reasonable amounts of computation.
+	\item I wonder the distribution of time the system spends above or below the mean can be used as indicator. (and the time length distribution for this values.)
+	
+	
+	\item $dx^*/dt=nonlinear non-inertial acceleration.  $
+	
+	augmented system (in 1d) should be 
+	
+	\begin{equation}
+		\begin{aligned}
+			d x&=f(x,\lambda)dt+\sigma dW,\\
+			\dot \lambda&= c_\lambda >0.
+		\end{aligned}
+	\end{equation}
+	
+	which in our case
+	\begin{equation}
+		\begin{aligned}
+			d x&=[f(x,\lambda)- \frac{d x^*}{dt } ]dt+\sigma dW,\\
+		\end{aligned}
+	\end{equation}
+	
+	
+	\item Complex, continous 1D equations as stand in for discrete systems?
+	
+	\item Null bandwith\cite{Kaur2022}.
+	\item what happens when adding noise to the forcing. since i suspect this might be the most common case.
+	\item Develop an ROC (receiver-operating characteristics) method to judge the metrics similar to what was done by \cite{Bury2020,Romano2018}. Alternatively it could be possible to do a test like the one done by \cite{Kaur2022} where they shown violin plots for the Kendal-$\tau$ values over several realization of their case studies.
+		
+		\item 
+		for the detrending for the CSD low moments metrics it makes sense to use an average based detrending since we want to recover OU based results. However it might be better to use other detrending approaches for studies with higher moments related to the tails of the data. Like the detrending used in \cite{}.
+\end{itemize}

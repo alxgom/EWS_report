@@ -1,0 +1,1063 @@
+\begin{thebibliography}{115}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[()]{}
+B58adc2b4ad15e4e3d42e8aa9f14513b @ doi.org.
+\newblock URL \url{https://doi.org/10.1017/S0022112001006498}.
+
+\bibitem[Ahn and Thompson(1988)]{Ahn1988}
+Chang~Mo Ahn and Howard~E. Thompson.
+\newblock Jump-diffusion processes and the term structure of interest rates.
+\newblock \emph{The Journal of Finance}, 43:\penalty0 155, 3 1988.
+\newblock ISSN 00221082.
+\newblock \doi{10.2307/2328329}.
+
+\bibitem[Alberti et~al.(2022)Alberti, Daviaud, Donner, Dubrulle, Faranda, and
+  Lucarini]{Alberti2021}
+Tommaso Alberti, Francois Daviaud, Reik~V. Donner, Berengere Dubrulle, Davide
+  Faranda, and Valerio Lucarini.
+\newblock Chameleon attractors in turbulent flows.
+\newblock \emph{SSRN Electronic Journal}, 12 2022.
+\newblock \doi{10.2139/ssrn.4191328}.
+\newblock URL \url{https://arxiv.org/abs/2112.10488v1}.
+
+\bibitem[Ashwin and Ditlevsen(2015)]{Ashwin}
+Peter Ashwin and Peter Ditlevsen.
+\newblock The middle pleistocene transition as a generic bifurcation on a slow
+  manifold.
+\newblock \emph{Climate Dynamics}, 45:\penalty0 2683--2695, 2015.
+\newblock ISSN 14320894.
+\newblock \doi{10.1007/s00382-015-2501-9}.
+
+\bibitem[Ashwin et~al.(2012)Ashwin, Wieczorek, Vitolo, and Cox]{Ashwin2012}
+Peter Ashwin, Sebastian Wieczorek, Renato Vitolo, and Peter Cox.
+\newblock Tipping points in open systems: bifurcation, noise-induced and
+  rate-dependent examples in the climate system.
+\newblock \emph{Philos. Trans. R. Soc. Lond. A: Math. Phys. Eng. Sci.},
+  370:\penalty0 1166--1184, 3 2012.
+\newblock ISSN 1364503X.
+\newblock \doi{10.1098/rsta.2011.0306}.
+
+\bibitem[Ashwin et~al.(2017)Ashwin, Perryman, and Wieczorek]{Kees2017a}
+Peter Ashwin, Clare Perryman, and Sebastian Wieczorek.
+\newblock Parameter shifts for nonautonomous systems in low dimension:
+  Bifurcation- and rate-induced tipping.
+\newblock \emph{Nonlinearity}, 30:\penalty0 2185--2210, 4 2017.
+\newblock ISSN 13616544.
+\newblock \doi{10.1088/1361-6544/aa675b}.
+\newblock URL \url{https://doi.org/10.1088/1361-6544/aa675b
+  https://iopscience.iop.org/article/10.1088/1361-6544/aa675b
+  https://iopscience.iop.org/article/10.1088/1361-6544/aa675b/meta}.
+
+\bibitem[Bandi and Nguyen(2003)]{Bandi2003}
+Federico~M. Bandi and Thong~H. Nguyen.
+\newblock On the functional estimation of jump-diffusion models.
+\newblock \emph{Journal of Econometrics}, 116:\penalty0 293--328, 9 2003.
+\newblock ISSN 03044076.
+\newblock \doi{10.1016/S0304-4076(03)00110-6}.
+
+\bibitem[Bathiany et~al.(2016)Bathiany, Dijkstra, Crucifix, Dakos, Brovkin,
+  Williamson, Lenton, and Scheffer]{Bathiany2016}
+Sebastian Bathiany, Henk Dijkstra, Michel Crucifix, Vasilis Dakos, Victor
+  Brovkin, Mark~S. Williamson, Timothy~M. Lenton, and Marten Scheffer.
+\newblock Beyond bifurcation: using complex models to understand and predict
+  abrupt climate change.
+\newblock \emph{Dynamics and Statistics of the Climate System}, 1:\penalty0
+  dzw004, 1 2016.
+\newblock \doi{10.1093/CLIMSYS/DZW004}.
+\newblock URL
+  \url{https://academic.oup.com/climatesystem/article/1/1/dzw004/2562885}.
+
+\bibitem[Boaretto et~al.(2021)Boaretto, Budzinski, Rossi, Prado, Lopes, and
+  Masoller]{Boaretto2021}
+B.~R.R. Boaretto, R.~C. Budzinski, K.~L. Rossi, T.~L. Prado, S.~R. Lopes, and
+  C.~Masoller.
+\newblock Discriminating chaotic and stochastic time series using permutation
+  entropy and artificial neural networks.
+\newblock \emph{Scientific Reports}, 11:\penalty0 1--10, 8 2021.
+\newblock ISSN 20452322.
+\newblock \doi{10.1038/s41598-021-95231-z}.
+\newblock URL \url{https://www.nature.com/articles/s41598-021-95231-z}.
+
+\bibitem[Boerlijst et~al.(2013)Boerlijst, Oudman, and de~Roos]{Boerlijst2013}
+Maarten~C. Boerlijst, Thomas Oudman, and André~M. de~Roos.
+\newblock Catastrophic collapse can occur without early warning: Examples of
+  silent catastrophes in structured ecological models.
+\newblock \emph{PLoS ONE}, 8:\penalty0 e62033, 4 2013.
+\newblock ISSN 19326203.
+\newblock \doi{10.1371/journal.pone.0062033}.
+\newblock URL
+  \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062033}.
+
+\bibitem[Boers et~al.(2017)Boers, Marwan, Barbosa, and Kurths]{Boers2017}
+Niklas Boers, Norbert Marwan, Henrique M~J Barbosa, and Jürgen Kurths.
+\newblock A deforestation-induced tipping point for the south american monsoon
+  system.
+\newblock \emph{Scientific Reports}, 7:\penalty0 41489, 1 2017.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/srep41489}.
+\newblock URL \url{https://doi.org/10.1038/srep41489}.
+
+\bibitem[Boettiger and Hastings(2012{\natexlab{a}})]{Boettiger2012}
+Carl Boettiger and Alan Hastings.
+\newblock Early warning signals and the prosecutor's fallacy.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  279:\penalty0 4734--4739, 2012{\natexlab{a}}.
+\newblock ISSN 14712954.
+\newblock \doi{10.1098/rspb.2012.2085}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rspb.2012.2085}.
+
+\bibitem[Boettiger and Hastings(2012{\natexlab{b}})]{Boettiger2012a}
+Carl Boettiger and Alan Hastings.
+\newblock Quantifying limits to detection of early warning for critical
+  transitions.
+\newblock \emph{Journal of the Royal Society Interface}, 9:\penalty0
+  2527--2539, 10 2012{\natexlab{b}}.
+\newblock ISSN 17425662.
+\newblock \doi{10.1098/rsif.2012.0125}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rsif.2012.0125}.
+
+\bibitem[Boettiger and Hastings(2013)]{Boettiger2013a}
+Carl Boettiger and Alan Hastings.
+\newblock No early warning signals for stochastic transitions: Insights from
+  large deviation theory, 8 2013.
+\newblock ISSN 14712954.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rspb.2013.1372}.
+
+\bibitem[Boettiger et~al.(2013)Boettiger, Ross, and Hastings]{Boettiger2013}
+Carl Boettiger, Noam Ross, and Alan Hastings.
+\newblock Early warning signals: The charted and uncharted territories.
+\newblock \emph{Theoretical Ecology}, 6:\penalty0 255--264, 2013.
+\newblock ISSN 18741738.
+\newblock \doi{10.1007/s12080-013-0192-6}.
+
+\bibitem[Bono et~al.(2020)Bono, Arnau, Alarcón, and Blanca]{Bono_2019}
+Roser Bono, Jaume Arnau, Rafael Alarcón, and Maria~J. Blanca.
+\newblock Bias, precision, and accuracy of skewness and kurtosis estimators for
+  frequently used continuous distributions.
+\newblock \emph{Symmetry}, 12:\penalty0 19, 12 2020.
+\newblock ISSN 20738994.
+\newblock \doi{10.3390/SYM12010019}.
+\newblock URL \url{http://dx.doi.org/10.3390/sym12010019}.
+
+\bibitem[Burnley(1871)]{burnley1871}
+James Burnley.
+\newblock Phases of bradford life: A series of pen and ink sketches, 1871.
+
+\bibitem[Burrage et~al.(2004)Burrage, Burrage, and Tian]{Burrage}
+K.~Burrage, P~M Burrage, and T~Tian.
+\newblock Numerical methods for strong solutions of stochastic differential
+  equations: An overview.
+\newblock volume 460, pages 373--402, 2004.
+\newblock \doi{10.1098/rspa.2003.1247}.
+
+\bibitem[Bury et~al.(2020)Bury, Bauch, and Anand]{Bury2020}
+T.~M. Bury, C.~T. Bauch, and M.~Anand.
+\newblock Detecting and distinguishing tipping points using spectral early
+  warning signals.
+\newblock \emph{Journal of the Royal Society Interface}, 17, 9 2020.
+\newblock ISSN 17425662.
+\newblock \doi{10.1098/RSIF.2020.0482}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0482}.
+
+\bibitem[Bury et~al.(2021)Bury, Sujith, Pavithran, Scheffer, Lenton, Anand, and
+  Bauch]{Bury2021}
+Thomas~M. Bury, R.~I. Sujith, Induja Pavithran, Marten Scheffer, Timothy~M.
+  Lenton, Madhur Anand, and Chris~T. Bauch.
+\newblock Deep learning for early warning signals of tipping points.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 118:\penalty0 e2106140118, 9 2021.
+\newblock ISSN 10916490.
+\newblock \doi{10.1073/pnas.2106140118}.
+\newblock URL \url{https://www.pnas.org/doi/abs/10.1073/pnas.2106140118}.
+
+\bibitem[Béjot and Kasparian(2011)]{Bejot2011}
+P.~Béjot and J.~Kasparian.
+\newblock Conical emission from laser filaments and higher-order kerr effect in
+  air.
+\newblock \emph{Optics Letters, Vol. 36, Issue 24, pp. 4812-4814}, 36:\penalty0
+  4812--4814, 12 2011.
+\newblock ISSN 1539-4794.
+\newblock \doi{10.1364/OL.36.004812}.
+\newblock URL \url{https://opg.optica.org/ol/abstract.cfm?uri=ol-36-24-4812}.
+
+\bibitem[Cai et~al.(2016)Cai, Lenton, and Lontzek]{Cai2016}
+Yongyang Cai, Timothy~M Lenton, and Thomas~S Lontzek.
+\newblock Risk of multiple interacting tipping points should encourage rapid
+  co2 emission reduction.
+\newblock \emph{Nature Climate Change}, 6:\penalty0 520--525, 5 2016.
+\newblock ISSN 1758-6798.
+\newblock \doi{10.1038/nclimate2964}.
+\newblock URL \url{https://doi.org/10.1038/nclimate2964}.
+
+\bibitem[Carpenter and Brock(2011)]{Carpenter2011a}
+S.~R. Carpenter and W.~A. Brock.
+\newblock Early warnings of unknown nonlinear shifts: A nonparametric approach.
+\newblock \emph{Ecology}, 92:\penalty0 2196--2201, 12 2011.
+\newblock ISSN 00129658.
+\newblock \doi{10.1890/11-0716.1}.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/full/10.1890/11-0716.1
+  https://onlinelibrary.wiley.com/doi/abs/10.1890/11-0716.1
+  https://esajournals.onlinelibrary.wiley.com/doi/10.1890/11-0716.1}.
+
+\bibitem[Carpenter et~al.(2011)Carpenter, Cole, Pace, Batt, Brock, Cline,
+  Coloso, Hodgson, Kitchell, Seekell, Smith, and Weidel]{Carpenter2011}
+S.~R. Carpenter, J.~J. Cole, M.~L. Pace, R.~Batt, W.~A. Brock, T.~Cline,
+  J.~Coloso, J.~R. Hodgson, J.~F. Kitchell, D.~A. Seekell, L.~Smith, and
+  B.~Weidel.
+\newblock Early warnings of regime shifts: A whole-ecosystem experiment.
+\newblock \emph{Science}, 332:\penalty0 1079--1082, 5 2011.
+\newblock ISSN 00368075.
+\newblock \doi{10.1126/science.1203672}.
+\newblock URL \url{https://www.science.org/doi/10.1126/science.1203672}.
+
+\bibitem[Cencini et~al.(2009)Cencini, Cecconi, and Vulpiani]{Cencini2009}
+Massimo Cencini, Fabio Cecconi, and Angelo Vulpiani.
+\newblock \emph{Chaos: From Simple Models to Complex Systems}.
+\newblock World Scientific Publishing Co., 1 2009.
+\newblock ISBN 9789814277662.
+\newblock \doi{10.1142/7351/SUPPL_FILE/7351_CHAP01.PDF}.
+
+\bibitem[Chen et~al.(2020)Chen, Nazarimehr, Jafari, Tlelo-Cuautle, and
+  Hussain]{Chen2020}
+Lianyu Chen, Fahimeh Nazarimehr, Sajad Jafari, Esteban Tlelo-Cuautle, and
+  Iqtadar Hussain.
+\newblock Investigation of early warning indexes in a three-dimensional chaotic
+  system with zero eigenvalues.
+\newblock \emph{Entropy}, 22:\penalty0 341, 3 2020.
+\newblock ISSN 10994300.
+\newblock \doi{10.3390/e22030341}.
+\newblock URL \url{https://www.mdpi.com/1099-4300/22/3/341}.
+
+\bibitem[Chen et~al.(2012)Chen, Liu, Liu, Li, and Aihara]{Chen2012a}
+Luonan Chen, Rui Liu, Zhi~Ping Liu, Meiyi Li, and Kazuyuki Aihara.
+\newblock Detecting early-warning signals for sudden deterioration of complex
+  diseases by dynamical network biomarkers.
+\newblock \emph{Scientific Reports}, 2:\penalty0 1--8, 3 2012.
+\newblock ISSN 20452322.
+\newblock \doi{10.1038/srep00342}.
+\newblock URL \url{https://www.nature.com/articles/srep00342}.
+
+\bibitem[Clements and Ozgul(2018)]{Clements2018a}
+Christopher~F. Clements and Arpat Ozgul.
+\newblock Indicators of transitions in biological systems.
+\newblock \emph{Ecology Letters}, 21:\penalty0 905--919, 6 2018.
+\newblock ISSN 1461-0248.
+\newblock \doi{10.1111/ELE.12948}.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/10.1111/ele.12948}.
+
+\bibitem[Clements et~al.(2015)Clements, Drake, Griffiths, Ozgul, van Nes, and
+  Kalisz]{10.1086/681573}
+Christopher~F Clements, John~M Drake, Jason~I Griffiths, Arpat Ozgul, Associate
+  Editor: Egbert~H van Nes, and Editor:~Susan Kalisz.
+\newblock Factors influencing the detectability of early warning signals of
+  population collapse.
+\newblock \emph{The American Naturalist}, 186:\penalty0 50--58, 2015.
+\newblock ISSN 00030147, 15375323.
+\newblock URL \url{http://www.jstor.org/stable/10.1086/681573}.
+
+\bibitem[Coulson et~al.(2004)Coulson, Rohani, and Pascual]{Coulson2004}
+Tim Coulson, Pejman Rohani, and Mercedes Pascual.
+\newblock Skeletons, noise and population growth: The end of an old debate?
+\newblock \emph{Trends in Ecology and Evolution}, 19:\penalty0 359--364, 2004.
+\newblock ISSN 01695347.
+\newblock \doi{10.1016/j.tree.2004.05.008}.
+\newblock URL \url{https://pubmed.ncbi.nlm.nih.gov/16701286/}.
+
+\bibitem[Dakos and Soler-Toscano(2017)]{Dakos2017}
+Vasilis Dakos and Fernando Soler-Toscano.
+\newblock Measuring complexity to infer changes in the dynamics of ecological
+  systems under stress.
+\newblock \emph{Ecological Complexity}, 32:\penalty0 144--155, 12 2017.
+\newblock ISSN 1476945X.
+\newblock \doi{10.1016/j.ecocom.2016.08.005}.
+
+\bibitem[Dakos et~al.(2008)Dakos, Scheffer, Nes, Brovkin, Petoukhov, and
+  Held]{Dakos2008}
+Vasilis Dakos, Marten Scheffer, Egbert H.~Van Nes, Victor Brovkin, Vladimir
+  Petoukhov, and Hermann Held.
+\newblock Slowing down as an early warning signal for abrupt climate change.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 105:\penalty0 14308--14312, 9 2008.
+\newblock ISSN 00278424.
+\newblock \doi{10.1073/pnas.0802430105}.
+
+\bibitem[Dakos et~al.(2012)Dakos, Carpenter, Brock, Ellison, Guttal, Ives,
+  Kéfi, Livina, Seekell, van Nes, and
+  Scheffer]{dakos2012_10.1371/journal.pone.0041010}
+Vasilis Dakos, Stephen~R. Carpenter, William~A. Brock, Aaron~M. Ellison,
+  Vishwesha Guttal, Anthony~R. Ives, Sonia Kéfi, Valerie Livina, David~A.
+  Seekell, Egbert~H. van Nes, and Marten Scheffer.
+\newblock Methods for detecting early warnings of critical transitions in time
+  series illustrated using simulated ecological data.
+\newblock \emph{PLoS ONE}, 7:\penalty0 1--20, 2012.
+\newblock ISSN 19326203.
+\newblock \doi{10.1371/journal.pone.0041010}.
+\newblock URL \url{https://doi.org/10.1371/journal.pone.0041010}.
+
+\bibitem[Deb et~al.(2022)Deb, Sidheekh, Clements, Krishnan, and Dutta]{Deb2022}
+Smita Deb, Sahil Sidheekh, Christopher~F. Clements, Narayanan~C. Krishnan, and
+  Partha~S. Dutta.
+\newblock Machine learning methods trained on simple models can predict
+  critical transitions in complex natural systems.
+\newblock \emph{Royal Society Open Science}, 9, 2022.
+\newblock ISSN 20545703.
+\newblock \doi{10.1098/rsos.211475}.
+\newblock URL \url{https://royalsocietypublishing.org/doi/10.1098/rsos.211475}.
+
+\bibitem[Drake and Griffen(2010)]{Drake2010}
+John~M. Drake and Blaine~D. Griffen.
+\newblock Early warning signals of extinction in deteriorating environments.
+\newblock \emph{Nature}, 467:\penalty0 456--459, 9 2010.
+\newblock ISSN 00280836.
+\newblock \doi{10.1038/nature09389}.
+\newblock URL \url{https://www.nature.com/articles/nature09389}.
+
+\bibitem[Dutta et~al.(2018)Dutta, Sharma, and Abbott]{Dutta2018}
+Partha~Sharathi Dutta, Yogita Sharma, and Karen~C. Abbott.
+\newblock Robustness of early warning signals for catastrophic and
+  non-catastrophic transitions.
+\newblock \emph{Oikos}, 127:\penalty0 1251--1263, 9 2018.
+\newblock ISSN 16000706.
+\newblock \doi{10.1111/oik.05172}.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/full/10.1111/oik.05172
+  https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.05172
+  https://onlinelibrary.wiley.com/doi/10.1111/oik.05172}.
+
+\bibitem[Eom and Jo(2015)]{Eom2015}
+Young~Ho Eom and Hang~Hyun Jo.
+\newblock Tail-scope: Using friends to estimate heavy tails of degree
+  distributions in large-scale complex networks.
+\newblock \emph{Scientific Reports}, 5:\penalty0 1--9, 5 2015.
+\newblock ISSN 20452322.
+\newblock \doi{10.1038/srep09752}.
+\newblock URL \url{https://www.nature.com/articles/srep09752}.
+
+\bibitem[Faranda et~al.(2014)Faranda, Lucarini, Manneville, and
+  Wouters]{Faranda2014}
+Davide Faranda, Valerio Lucarini, Paul Manneville, and Jeroen Wouters.
+\newblock On using extreme values to detect global stability thresholds in
+  multi-stable systems: The case of transitional plane couette flow.
+\newblock \emph{Chaos, Solitons and Fractals}, 64:\penalty0 26--35, 7 2014.
+\newblock ISSN 09600779.
+\newblock \doi{10.1016/j.chaos.2014.01.008}.
+
+\bibitem[Fedele et~al.(2016)Fedele, Brennan, León, Dudley, and
+  Dias]{Fedele2016}
+Francesco Fedele, Joseph Brennan, Sonia Ponce~De León, John Dudley, and
+  Frédéric Dias.
+\newblock Real world ocean rogue waves explained without the modulational
+  instability.
+\newblock \emph{Scientific Reports 2016 6:1}, 6:\penalty0 1--11, 6 2016.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/srep27715}.
+\newblock URL \url{https://www.nature.com/articles/srep27715}.
+
+\bibitem[Feudel et~al.(2018)Feudel, Pisarchik, and Showalter]{Feudel2018}
+Ulrike Feudel, Alexander~N. Pisarchik, and Kenneth Showalter.
+\newblock Multistability and tipping: From mathematics and physics to climate
+  and brain - minireview and preface to the focus issue.
+\newblock \emph{Chaos}, 28:\penalty0 033501, 3 2018.
+\newblock ISSN 10541500.
+\newblock \doi{10.1063/1.5027718}.
+\newblock URL \url{https://aip.scitation.org/doi/abs/10.1063/1.5027718}.
+
+\bibitem[Füllsack et~al.(2022)Füllsack, Reisinger, Kapeller, and
+  Jäger]{Fullsack2022}
+Manfred Füllsack, Daniel Reisinger, Marie Kapeller, and Georg Jäger.
+\newblock Early warning signals from the periphery: A model suggestion for the
+  study of critical transitions.
+\newblock \emph{Journal of Computational Social Science}, 5:\penalty0 665--685,
+  5 2022.
+\newblock ISSN 24322725.
+\newblock \doi{10.1007/s42001-021-00142-8}.
+\newblock URL \url{https://doi.org/10.1007/s42001-021-00142-8}.
+
+\bibitem[Gidea et~al.(2020{\natexlab{a}})Gidea, Goldsmith, Katz, Roldan, and
+  Shmalo]{Gidea2020}
+Marian Gidea, Daniel Goldsmith, Yuri Katz, Pablo Roldan, and Yonah Shmalo.
+\newblock Topological recognition of critical transitions in time series of
+  cryptocurrencies.
+\newblock \emph{Physica A: Statistical Mechanics and its Applications},
+  548:\penalty0 123843, 6 2020{\natexlab{a}}.
+\newblock ISSN 03784371.
+\newblock \doi{10.1016/j.physa.2019.123843}.
+
+\bibitem[Gidea et~al.(2020{\natexlab{b}})Gidea, Goldsmith, Katz, Roldan, and
+  Shmalo]{Gidea2020a}
+Marian Gidea, Daniel Goldsmith, Yuri Katz, Pablo Roldan, and Yonah Shmalo.
+\newblock Topological recognition of critical transitions in time series of
+  cryptocurrencies.
+\newblock \emph{Physica A: Statistical Mechanics and its Applications},
+  548:\penalty0 123843, 6 2020{\natexlab{b}}.
+\newblock ISSN 03784371.
+\newblock \doi{10.1016/j.physa.2019.123843}.
+
+\bibitem[Gomel et~al.(2019{\natexlab{a}})Gomel, Boyer, Metayer, and
+  Tredicce]{Alexis1}
+Alexis Gomel, Jean~Marc Boyer, Cyrille Metayer, and Jorge~R Tredicce.
+\newblock Extreme events in lasers with modulation of the field polarization.
+\newblock \emph{Advances in Condensed Matter Physics}, -, 2019{\natexlab{a}}.
+\newblock ISSN 1687-8108.
+\newblock \doi{https://doi.org/10.1155/2019/76328521}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0370157313000963}.
+
+\bibitem[Gomel et~al.(2019{\natexlab{b}})Gomel, Boyer, Metayer, and
+  Tredicce]{Gomel2019}
+Alexis Gomel, Jean~Marc Boyer, Cyrille Metayer, and Jorge~R. Tredicce.
+\newblock Extreme events in lasers with modulation of the field polarization.
+\newblock \emph{Advances in Condensed Matter Physics}, 2019,
+  2019{\natexlab{b}}.
+\newblock ISSN 16878124.
+\newblock \doi{10.1155/2019/7632852}.
+\newblock URL \url{https://www.hindawi.com/journals/acmp/2019/7632852/}.
+
+\bibitem[Guttal and Jayaprakash(2008)]{Guttal2008}
+Vishwesha Guttal and Ciriyam Jayaprakash.
+\newblock Changing skewness: An early warning signal of regime shifts in
+  ecosystems.
+\newblock \emph{Ecology Letters}, 11:\penalty0 450--460, 5 2008.
+\newblock ISSN 1461023X.
+\newblock \doi{10.1111/j.1461-0248.2008.01160.x}.
+
+\bibitem[Halekotte and Feudel(2020)]{Halekotte2020}
+Lukas Halekotte and Ulrike Feudel.
+\newblock Minimal fatal shocks in multistable complex networks.
+\newblock \emph{Scientific Reports}, 10:\penalty0 1--13, 7 2020.
+\newblock ISSN 20452322.
+\newblock \doi{10.1038/s41598-020-68805-6}.
+\newblock URL \url{https://www.nature.com/articles/s41598-020-68805-6}.
+
+\bibitem[Harris et~al.(2020)Harris, Hay, and Drake]{doi:10.1098/rsbl.2019.0713}
+Mallory~J. Harris, Simon~I. Hay, and John~M. Drake.
+\newblock Early warning signals of malaria resurgence in kericho, kenya.
+\newblock \emph{Biology Letters}, 16:\penalty0 20190713, 2020.
+\newblock ISSN 1744957X.
+\newblock \doi{10.1098/rsbl.2019.0713}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2019.0713}.
+
+\bibitem[Hernández-Campos et~al.(2004)Hernández-Campos, Marron,
+  Samorodnitsky, and Smith]{Hernandez-Campos}
+Félix Hernández-Campos, J.~S. Marron, Gennady Samorodnitsky, and F.~D. Smith.
+\newblock Variable heavy tails in internet traffic.
+\newblock \emph{Performance Evaluation}, 58:\penalty0 261--284, 2004.
+\newblock ISSN 01665316.
+\newblock \doi{10.1016/j.peva.2004.07.008}.
+
+\bibitem[Hoadley(1883)]{Hoadley1883}
+J.~C. Hoadley.
+\newblock A tilting water meter for purposes of experiment.
+\newblock \emph{Journal of The Franklin Institute}, pages 273--278, 1883.
+\newblock URL
+  \url{moz-extension://fe91d4c7-a2d3-4069-a7c4-8efe15e99ba5/enhanced-reader.html?openApp&pdf=https%3A%2F%2Fia800708.us.archive.org%2Fview_archive.php%3Farchive%3D%2F22%2Fitems%2Fcrossref-pre-1909-scholarly-works%2F10.1016%25252F0016-0032%25252884%25252990266-7.z}.
+
+\bibitem[Ismail et~al.(2022)Ismail, Noorani, Ismail, and Razak]{Ismail2022a}
+Mohd~Sabri Ismail, Mohd Salmi~Md Noorani, Munira Ismail, and Fatimah~Abdul
+  Razak.
+\newblock Early warning signals of financial crises using persistent homology
+  and critical slowing down: Evidence from different correlation tests.
+\newblock \emph{Frontiers in Applied Mathematics and Statistics}, 8:\penalty0
+  63, 6 2022.
+\newblock ISSN 22974687.
+\newblock \doi{10.3389/fams.2022.940133}.
+
+\bibitem[Jackson et~al.(2001)Jackson, Kirby, Berger, Bjorndal, Botsford,
+  Bourque, Bradbury, Cooke, Erlandson, Estes, Hughes, Kidwell, Lange, Lenihan,
+  Pandolfi, Peterson, Steneck, Tegner, and Warner]{Jackson2001}
+J.~B.C. Jackson, M.~X. Kirby, W.~H. Berger, K.~A. Bjorndal, L.~W. Botsford,
+  B.~J. Bourque, R.~H. Bradbury, R.~Cooke, J.~Erlandson, J.~A. Estes, T.~P.
+  Hughes, S.~Kidwell, C.~B. Lange, H.~S. Lenihan, J.~M. Pandolfi, C.~H.
+  Peterson, R.~S. Steneck, M.~J. Tegner, and R.~R. Warner.
+\newblock Historical overfishing and the recent collapse of coastal ecosystems,
+  7 2001.
+\newblock ISSN 00368075.
+\newblock URL \url{https://www.science.org/doi/10.1126/science.1059199}.
+
+\bibitem[Jäger and Füllsack(2019)]{Jager2019}
+Georg Jäger and Manfred Füllsack.
+\newblock Systematically false positives in early warning signal analysis.
+\newblock \emph{PLOS ONE}, 14:\penalty0 e0211072, 2 2019.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/JOURNAL.PONE.0211072}.
+\newblock URL
+  \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211072}.
+
+\bibitem[Jäger et~al.(2017)Jäger, Hofer, Kapeller, and Füllsack]{Jager2017}
+Georg Jäger, Christian Hofer, Marie Kapeller, and Manfred Füllsack.
+\newblock Hidden early-warning signals in scale-free networks.
+\newblock \emph{PLoS ONE}, 12:\penalty0 e0189853, 12 2017.
+\newblock ISSN 19326203.
+\newblock \doi{10.1371/journal.pone.0189853}.
+\newblock URL
+  \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189853}.
+
+\bibitem[Kasparian et~al.(2009)Kasparian, Béjot, Wolf, and
+  Dudley]{Kasparian_pareto}
+Jérôme Kasparian, Pierre Béjot, Jean-Pierre Wolf, and John~M Dudley.
+\newblock Optical rogue wave statistics in laser filamentation.
+\newblock \emph{Opt. Express}, 17:\penalty0 12070--12075, 7 2009.
+\newblock \doi{10.1364/OE.17.012070}.
+\newblock URL
+  \url{http://www.opticsexpress.org/abstract.cfm?URI=oe-17-14-12070}.
+
+\bibitem[Kaur and Dutta(2022{\natexlab{a}})]{Kaur2022}
+Taranjot Kaur and Partha~Sharathi Dutta.
+\newblock Effects of noise correlation and imperfect data sampling on
+  indicators of critical slowing down.
+\newblock \emph{Theoretical Ecology}, 15:\penalty0 129--142, 6
+  2022{\natexlab{a}}.
+\newblock ISSN 18741746.
+\newblock \doi{10.1007/S12080-022-00532-2/FIGURES/7}.
+\newblock URL
+  \url{https://link.springer.com/article/10.1007/s12080-022-00532-2}.
+
+\bibitem[Kaur and Dutta(2022{\natexlab{b}})]{Kaur2022a}
+Taranjot Kaur and Partha~Sharathi Dutta.
+\newblock Critical rates of climate warming and abrupt collapse of ecosystems.
+\newblock \emph{Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences}, 478, 8 2022{\natexlab{b}}.
+\newblock ISSN 14712946.
+\newblock \doi{10.1098/rspa.2022.0086}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0086}.
+
+\bibitem[Kiers and Jones(2020)]{Kiers2020a}
+Claire Kiers and Christopher~K.R.T. Jones.
+\newblock On conditions for rate-induced tipping in multi-dimensional dynamical
+  systems.
+\newblock \emph{Journal of Dynamics and Differential Equations}, 32:\penalty0
+  483--503, 3 2020.
+\newblock ISSN 15729222.
+\newblock \doi{10.1007/s10884-019-09730-9}.
+\newblock URL
+  \url{https://link.springer.com/article/10.1007/s10884-019-09730-9}.
+
+\bibitem[Kim and White(2004)]{KIM200456}
+Tae-Hwan Kim and Halbert White.
+\newblock On more robust estimation of skewness and kurtosis.
+\newblock \emph{Finance Research Letters}, 1:\penalty0 56--73, 2004.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/S1544-6123(03)00003-5}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1544612303000035}.
+
+\bibitem[Kopp et~al.(2016)Kopp, Shwom, Wagner, and Yuan]{Kopp2016}
+Robert~E. Kopp, Rachael~L. Shwom, Gernot Wagner, and Jiacan Yuan.
+\newblock Tipping elements and climate–economic shocks: Pathways toward
+  integrated assessment, 8 2016.
+\newblock ISSN 23284277.
+
+\bibitem[Kéfi et~al.(2013)Kéfi, Dakos, Scheffer, Nes, and
+  Rietkerk]{doi:10.1111/j.1600-0706.2012.20838.x}
+Sonia Kéfi, Vasilis Dakos, Marten Scheffer, Egbert H.~Van Nes, and Max
+  Rietkerk.
+\newblock Early warning signals also precede non-catastrophic transitions.
+\newblock \emph{Oikos}, 122:\penalty0 641--648, 2013.
+\newblock ISSN 00301299.
+\newblock \doi{10.1111/j.1600-0706.2012.20838.x}.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0706.2012.20838.x}.
+
+\bibitem[Laitinen et~al.(2021)Laitinen, Dakos, and Lahti]{Laitinen2021}
+Ville Laitinen, Vasilis Dakos, and Leo Lahti.
+\newblock Probabilistic early warning signals.
+\newblock \emph{Ecology and Evolution}, 11:\penalty0 14101--14114, 10 2021.
+\newblock ISSN 20457758.
+\newblock \doi{10.1002/ECE3.8123}.
+
+\bibitem[Lenton et~al.(2012)Lenton, Livina, Dakos, Nes, and
+  Scheffer]{Lenton2012}
+T.~M. Lenton, V.~N. Livina, V.~Dakos, E.~H.~Van Nes, and M.~Scheffer.
+\newblock Early warning of climate tipping points from critical slowing down:
+  Comparing methods to improve robustness.
+\newblock \emph{Philosophical Transactions of the Royal Society A:
+  Mathematical, Physical and Engineering Sciences}, 370:\penalty0 1185--1204, 3
+  2012.
+\newblock ISSN 1364503X.
+\newblock \doi{10.1098/rsta.2011.0304}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0304}.
+
+\bibitem[Lenton(2011)]{Lenton2011}
+Timothy~M. Lenton.
+\newblock Early warning of climate tipping points.
+\newblock \emph{Nature Climate Change}, 1:\penalty0 201--209, 6 2011.
+\newblock ISSN 1758678X.
+\newblock \doi{10.1038/nclimate1143}.
+\newblock URL \url{https://doi.org/10.1038/nclimate1143}.
+
+\bibitem[Liu et~al.(2013)Liu, Liu, Zhao, and Chen]{Liu2013}
+Xiaoping Liu, Rui Liu, Xing~Ming Zhao, and Luonan Chen.
+\newblock Detecting early-warning signals of type 1 diabetes and its leading
+  biomolecular networks by dynamical network biomarkers.
+\newblock \emph{BMC Medical Genomics}, 6:\penalty0 1--10, 5 2013.
+\newblock ISSN 17558794.
+\newblock \doi{10.1186/1755-8794-6-S2-S8}.
+\newblock URL
+  \url{https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-6-S2-S8}.
+
+\bibitem[Livina and Lenton(2007)]{Livina2007}
+V.~N. Livina and T.~M. Lenton.
+\newblock A modified method for detecting incipient bifurcations in a dynamical
+  system.
+\newblock \emph{Geophysical Research Letters}, 34, 2 2007.
+\newblock ISSN 00948276.
+\newblock \doi{10.1029/2006GL028672}.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/full/10.1029/2006GL028672
+  https://onlinelibrary.wiley.com/doi/abs/10.1029/2006GL028672
+  https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2006GL028672}.
+
+\bibitem[Livina et~al.(2010)Livina, Kwasniok, and Lenton]{Livina2010}
+V.~N. Livina, F.~Kwasniok, and T.~M. Lenton.
+\newblock Potential analysis reveals changing number of climate states during
+  the last 60 kyr.
+\newblock \emph{Climate of the Past}, 6:\penalty0 77--82, 2010.
+\newblock ISSN 18149332.
+\newblock \doi{10.5194/cp-6-77-2010}.
+
+\bibitem[Livina et~al.(2011)Livina, Kwasniok, Lohmann, Kantelhardt, and
+  Lenton]{Livina2011}
+V.~N. Livina, F.~Kwasniok, G.~Lohmann, J.~W. Kantelhardt, and T.~M. Lenton.
+\newblock Changing climate states and stability: From pliocene to present.
+\newblock \emph{Climate Dynamics}, 37:\penalty0 2437--2453, 12 2011.
+\newblock ISSN 09307575.
+\newblock \doi{10.1007/s00382-010-0980-2}.
+\newblock URL
+  \url{https://link.springer.com/article/10.1007/s00382-010-0980-2}.
+
+\bibitem[Londoño et~al.(2015)Londoño, Neild, and Cooper]{Londono2015}
+Julián~M. Londoño, Simon~A. Neild, and Jonathan~E. Cooper.
+\newblock Identification of backbone curves of nonlinear systems from resonance
+  decay responses.
+\newblock \emph{Journal of Sound and Vibration}, 348:\penalty0 224--238, 7
+  2015.
+\newblock ISSN 10958568.
+\newblock \doi{10.1016/j.jsv.2015.03.015}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0022460X15002333?via%3Dihub}.
+
+\bibitem[Lucarini et~al.(2014)Lucarini, Faranda, Wouters, and
+  Kuna]{Lucarini2014}
+Valerio Lucarini, Davide Faranda, Jeroen Wouters, and Tobias Kuna.
+\newblock Towards a general theory of extremes for observables of chaotic
+  dynamical systems.
+\newblock \emph{Journal of Statistical Physics}, 154:\penalty0 723--750, 2
+  2014.
+\newblock ISSN 00224715.
+\newblock \doi{10.1007/s10955-013-0914-6}.
+\newblock URL \url{https://doi.org/10.1007/s10955-013-0914-6}.
+
+\bibitem[Maletić et~al.(2016)Maletić, Zhao, and Rajković]{Maletic2016}
+Slobodan Maletić, Yi~Zhao, and Milan Rajković.
+\newblock Persistent topological features of dynamical systems.
+\newblock 26:\penalty0 053105, 5 2016.
+\newblock \doi{10.1063/1.4949472}.
+\newblock URL \url{https://aip.scitation.org/doi/abs/10.1063/1.4949472}.
+
+\bibitem[Mannella(2002)]{Mannella2002}
+Riccardo Mannella.
+\newblock Integration of stochastic differential equations on a computer.
+\newblock \emph{International Journal of Modern Physics C}, 13:\penalty0
+  1177--1194, 11 2002.
+\newblock ISSN 01291831.
+\newblock \doi{10.1142/S0129183102004042}.
+
+\bibitem[Marconi et~al.(2020)Marconi, Métayer, Acquaviva, Boyer, Gomel,
+  Quiniou, Masoller, Giudici, and Tredicce]{Marconi2020a}
+M.~Marconi, C.~Métayer, A.~Acquaviva, J.~M. Boyer, A.~Gomel, T.~Quiniou,
+  C.~Masoller, M.~Giudici, and J.~R. Tredicce.
+\newblock Testing critical slowing down as a bifurcation indicator in a
+  low-dissipation dynamical system.
+\newblock \emph{Physical Review Letters}, 125, 2020.
+\newblock ISSN 10797114.
+\newblock \doi{10.1103/PhysRevLett.125.134102}.
+
+\bibitem[Marcucci et~al.(2019)Marcucci, Pierangeli, Agranat, Lee, DelRe, and
+  Conti]{Marcucci2019}
+Giulia Marcucci, Davide Pierangeli, Aharon~J. Agranat, Ray~Kuang Lee, Eugenio
+  DelRe, and Claudio Conti.
+\newblock Topological control of extreme waves.
+\newblock \emph{Nature Communications}, 10:\penalty0 5090, 2019.
+\newblock ISSN 20411723.
+\newblock \doi{10.1038/s41467-019-12815-0}.
+
+\bibitem[Masoller et~al.(2015)Masoller, Hong, Ayad, Gustave, Barland, Pons,
+  Gómez, and Arenas]{Masoller2015}
+Cristina Masoller, Yanhua Hong, Sarah Ayad, Francois Gustave, Stephane Barland,
+  Antonio~J Pons, Sergio Gómez, and Alex Arenas.
+\newblock Quantifying sudden changes in dynamical systems using symbolic
+  networks.
+\newblock \emph{New Journal of Physics}, 17:\penalty0 23068, 2015.
+\newblock ISSN 13672630.
+\newblock \doi{10.1088/1367-2630/17/2/023068}.
+
+\bibitem[McKay et~al.(2022)McKay, Staal, Abrams, Winkelmann, Sakschewski,
+  Loriani, Fetzer, Cornell, Rockström, and Lenton]{McKay2022}
+David~I.Armstrong McKay, Arie Staal, Jesse~F. Abrams, Ricarda Winkelmann, Boris
+  Sakschewski, Sina Loriani, Ingo Fetzer, Sarah~E. Cornell, Johan Rockström,
+  and Timothy~M. Lenton.
+\newblock Exceeding 1.5°c global warming could trigger multiple climate
+  tipping points.
+\newblock \emph{Science}, 377, 9 2022.
+\newblock ISSN 10959203.
+\newblock \doi{10.1126/SCIENCE.ABN7950/SUPPL_FILE/SCIENCE.ABN7950_DATA_S1.ZIP}.
+\newblock URL \url{https://www.science.org/doi/10.1126/science.abn7950}.
+
+\bibitem[Mindlin and Laje(2005)]{Mindlin2005}
+Gabriel Mindlin and Rodrigo Laje.
+\newblock \emph{The Physics of Birdsong}.
+\newblock Springer-Verlag, 2005.
+\newblock \doi{10.1007/3-540-28249-1}.
+
+\bibitem[Mittal and Gupta(2017)]{Mittal2017}
+Khushboo Mittal and Shalabh Gupta.
+\newblock Topological characterization and early detection of bifurcations and
+  chaos in complex systems using persistent homology.
+\newblock \emph{Chaos}, 27:\penalty0 1--9, 5 2017.
+\newblock ISSN 10541500.
+\newblock \doi{10.1063/1.4983840}.
+\newblock URL \url{https://aip.scitation.org/doi/abs/10.1063/1.4983840}.
+
+\bibitem[Murugesan and Sujith(2016)]{Murugesan2016}
+Meenatchidevi Murugesan and R.~I. Sujith.
+\newblock Detecting the onset of an impending thermoacoustic instability using
+  complex networks.
+\newblock \emph{Journal of Propulsion and Power}, 32:\penalty0 707--712, 1
+  2016.
+\newblock ISSN 15333876.
+\newblock \doi{10.2514/1.B35914}.
+\newblock URL \url{https://arc.aiaa.org/doi/10.2514/1.B35914}.
+
+\bibitem[Onorato et~al.(2013)Onorato, Residori, Bortolozzo, Montina, and
+  Arecchi]{2013PhR...528...47O}
+M.~Onorato, S.~Residori, U.~Bortolozzo, A.~Montina, and F.~T. Arecchi.
+\newblock Rogue waves and their generating mechanisms in different physical
+  contexts.
+\newblock \emph{Physics Reports}, 528:\penalty0 47--89, 7 2013.
+\newblock ISSN 03701573.
+\newblock \doi{10.1016/j.physrep.2013.03.001}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0370157313000963}.
+
+\bibitem[Onorato et~al.(2011)Onorato, Proment, and Toffoli]{Onorato2011}
+Miguel Onorato, Davide Proment, and Alessandro Toffoli.
+\newblock Triggering rogue waves in opposing currents.
+\newblock \emph{Physical Review Letters}, 107:\penalty0 184502, 2011.
+\newblock ISSN 00319007.
+\newblock \doi{10.1103/PhysRevLett.107.184502}.
+
+\bibitem[Onorato et~al.(2021)Onorato, Cavaleri, Randoux, Suret, Ruiz,
+  de~Alfonso, and Benetazzo]{Onorato2021}
+Miguel Onorato, Luigi Cavaleri, Stephane Randoux, Pierre Suret, Maria~Isabel
+  Ruiz, Marta de~Alfonso, and Alvise Benetazzo.
+\newblock Observation of a giant nonlinear wave-packet on the surface of the
+  ocean.
+\newblock \emph{Scientific Reports}, 11:\penalty0 23606, 12 2021.
+\newblock ISSN 20452322.
+\newblock \doi{10.1038/s41598-021-02875-y}.
+\newblock URL \url{https://doi.org/10.1038/s41598-021-02875-y}.
+
+\bibitem[Parry et~al.(2022)Parry, Ritchie, and Cox]{Parry2022}
+Isobel Parry, Paul Ritchie, and Peter Cox.
+\newblock Evidence of amazon rainforest dieback in cmip6 models.
+\newblock 3 2022.
+\newblock ISSN 21904987.
+\newblock \doi{10.5194/esd-13-1667-2022}.
+\newblock URL \url{http://arxiv.org/abs/2203.11744}.
+
+\bibitem[Patterson et~al.(2021)Patterson, Strang, and Abbott]{Patterson2021}
+Amy~Chian Patterson, Alexander~G. Strang, and Karen~C. Abbott.
+\newblock When and where we can expect to see early warning signals in
+  multispecies systems approaching tipping points: Insights from theory.
+\newblock \emph{American Naturalist}, 198:\penalty0 E12--E26, 7 2021.
+\newblock ISSN 15375323.
+\newblock \doi{10.1086/714275}.
+\newblock URL \url{https://www.journals.uchicago.edu/doi/10.1086/714275}.
+
+\bibitem[Pavithran et~al.(2021)Pavithran, Unni, and Sujith]{Pavithran2021}
+Induja Pavithran, Vishnu~R. Unni, and R.~I. Sujith.
+\newblock Critical transitions and their early warning signals in
+  thermoacoustic systems, 7 2021.
+\newblock ISSN 19516401.
+\newblock URL
+  \url{https://link.springer.com/article/10.1140/epjs/s11734-021-00214-w}.
+
+\bibitem[Peng et~al.(1994)Peng, Buldyrev, Havlin, Simons, Stanley, and
+  Goldberger]{Peng1994}
+C.~K. Peng, S.~V. Buldyrev, S.~Havlin, M.~Simons, H.~E. Stanley, and A.~L.
+  Goldberger.
+\newblock Mosaic organization of dna nucleotides.
+\newblock \emph{Physical Review E}, 49:\penalty0 1685--1689, 1994.
+\newblock ISSN 1063651X.
+\newblock \doi{10.1103/PhysRevE.49.1685}.
+\newblock URL \url{https://pubmed.ncbi.nlm.nih.gov/9961383/}.
+
+\bibitem[Perryman and Wieczorek(2014)]{Perryman2014a}
+Clare Perryman and Sebastian Wieczorek.
+\newblock Adapting to a changing environment: Non-obvious thresholds in
+  multi-scale systems.
+\newblock \emph{Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences}, 470, 10 2014.
+\newblock ISSN 14712946.
+\newblock \doi{10.1098/rspa.2014.0226}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rspa.2014.0226}.
+
+\bibitem[Pierini and Ghil(2021)]{Pierini2021}
+Stefano Pierini and Michael Ghil.
+\newblock Tipping points induced by parameter drift in an excitable ocean
+  model.
+\newblock \emph{Scientific Reports 2021 11:1}, 11:\penalty0 1--14, 5 2021.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/s41598-021-90138-1}.
+\newblock URL \url{https://www.nature.com/articles/s41598-021-90138-1}.
+
+\bibitem[qiang Xie et~al.(2019)qiang Xie, ping He, Gu, Mei, and shan
+  Zhao]{Xie2019}
+Xiao qiang Xie, Wen ping He, Bin Gu, Ying Mei, and Shan shan Zhao.
+\newblock Can kurtosis be an early warning signal for abrupt climate change?
+\newblock \emph{Climate Dynamics}, 52:\penalty0 6863--6876, 6 2019.
+\newblock ISSN 1432-0894.
+\newblock \doi{10.1007/s00382-018-4549-9}.
+\newblock URL \url{https://doi.org/10.1007/s00382-018-4549-9}.
+
+\bibitem[Ritchie et~al.(2016)Ritchie, Sieber, Ritchie, and Sieber]{Ritchie2016}
+Authors Ritchie, P~; Sieber, Paul Ritchie, and Jan Sieber.
+\newblock Early-warning indicators for rate-induced tipping, 2016.
+\newblock URL \url{http://hdl.handle.net/10871/24560}.
+
+\bibitem[Ritchie et~al.(2021)Ritchie, Clarke, Cox, and
+  Huntingford]{Ritchie2021}
+Paul~D.L. Ritchie, Joseph~J. Clarke, Peter~M. Cox, and Chris Huntingford.
+\newblock Overshooting tipping point thresholds in a changing climate, 4 2021.
+\newblock ISSN 14764687.
+\newblock URL \url{https://www.nature.com/articles/s41586-021-03263-2}.
+
+\bibitem[Rodríguez-Méndez et~al.(2016)Rodríguez-Méndez, Eguíluz,
+  Hernández-García, and Ramasco]{Rodriguez-Mendez2016a}
+Víctor Rodríguez-Méndez, Víctor~M.M. Eguíluz, Emilio Hernández-García,
+  and José~J. Ramasco.
+\newblock Percolation-based precursors of transitions in extended systems.
+\newblock \emph{Scientific Reports}, 6:\penalty0 1--11, 7 2016.
+\newblock ISSN 20452322.
+\newblock \doi{10.1038/srep29552}.
+\newblock URL \url{https://www.nature.com/articles/srep29552}.
+
+\bibitem[Romano and Kuehn(2018)]{Romano2018}
+Francesco Romano and Christian Kuehn.
+\newblock Analysis and predictability of tipping points with leading-order
+  nonlinear term.
+\newblock \emph{International Journal of Bifurcation and Chaos}, 28, 8 2018.
+\newblock ISSN 02181274.
+\newblock \doi{10.1142/S0218127418501031}.
+
+\bibitem[Rubido et~al.(2018)Rubido, Grebogi, and Baptista]{Rubido2018}
+Nicolás Rubido, Celso Grebogi, and Murilo~S. Baptista.
+\newblock Entropy-based generating markov partitions for complex systems.
+\newblock \emph{Chaos}, 28:\penalty0 033611, 3 2018.
+\newblock ISSN 10541500.
+\newblock \doi{10.1063/1.5002097}.
+\newblock URL \url{https://aip.scitation.org/doi/abs/10.1063/1.5002097}.
+
+\bibitem[Sarkar et~al.(2019)Sarkar, Sinha, Levine, Jolly, and
+  Dutta]{Sarkar2019}
+Sukanta Sarkar, Sudipta~Kumar Sinha, Herbert Levine, Mohit~Kumar Jolly, and
+  Partha~Sharathi Dutta.
+\newblock Anticipating critical transitions in epithelial-hybrid-mesenchymal
+  cell-fate determination.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 116:\penalty0 26343--26352, 12 2019.
+\newblock ISSN 10916490.
+\newblock \doi{10.1073/pnas.1913773116}.
+\newblock URL \url{https://www.pnas.org/doi/abs/10.1073/pnas.1913773116}.
+
+\bibitem[SCHEFFER(2020)]{SCHEFFER2020a}
+MARTEN SCHEFFER.
+\newblock \emph{Critical Transitions in Nature and Society}.
+\newblock 2020.
+\newblock ISBN 9781400833276.
+\newblock \doi{10.2307/j.ctv173f1g1}.
+
+\bibitem[Scheffer et~al.(2009)Scheffer, Bascompte, Brock, Brovkin, Carpenter,
+  Dakos, Held, Nes, Rietkerk, and Sugihara]{Scheffer2009}
+Marten Scheffer, Jordi Bascompte, William~A. Brock, Victor Brovkin, Stephen~R.
+  Carpenter, Vasilis Dakos, Hermann Held, Egbert H.~Van Nes, Max Rietkerk, and
+  George Sugihara.
+\newblock Early-warning signals for critical transitions.
+\newblock \emph{Nature}, 461:\penalty0 53--59, 9 2009.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature08227}.
+\newblock URL \url{https://doi.org/10.1038/nature08227}.
+
+\bibitem[Scheffer et~al.(2012)Scheffer, Carpenter, Lenton, Bascompte, Brock,
+  Dakos, Koppel, van~de Leemput, Levin, Nes, Pascual, and
+  Vandermeer]{Scheffer344}
+Marten Scheffer, Stephen~R. Carpenter, Timothy~M. Lenton, Jordi Bascompte,
+  William Brock, Vasilis Dakos, Johan Van~De Koppel, Ingrid~A. van~de Leemput,
+  Simon~A. Levin, Egbert H.~Van Nes, Mercedes Pascual, and John Vandermeer.
+\newblock Anticipating critical transitions.
+\newblock \emph{Science}, 338:\penalty0 344--348, 10 2012.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.1225244}.
+\newblock URL \url{https://www.science.org/doi/10.1126/science.1225244}.
+
+\bibitem[Seekell et~al.(2011)Seekell, Carpenter, and Pace]{Seekell2011}
+David~A. Seekell, Stephen~R. Carpenter, and Michael~L. Pace.
+\newblock Conditional heteroscedasticity as a leading indicator of ecological
+  regime shifts.
+\newblock \emph{American Naturalist}, 178:\penalty0 442--451, 10 2011.
+\newblock ISSN 00030147.
+\newblock \doi{10.1086/661898}.
+\newblock URL
+  \url{https://www.jstor.org/stable/23253689?seq=6#metadata_info_tab_contents}.
+
+\bibitem[Sharma et~al.(2015)Sharma, Abbott, Dutta, and Gupta]{Sharma2015}
+Yogita Sharma, Karen~C. Abbott, Partha~Sharathi Dutta, and A.~K. Gupta.
+\newblock Stochasticity and bistability in insect outbreak dynamics.
+\newblock \emph{Theoretical Ecology}, 8:\penalty0 163--174, 5 2015.
+\newblock ISSN 18741746.
+\newblock \doi{10.1007/s12080-014-0241-9}.
+\newblock URL
+  \url{https://link.springer.com/article/10.1007/s12080-014-0241-9}.
+
+\bibitem[Solli et~al.(2007)Solli, Ropers, Koonath, and Jalali]{Solli2007}
+D.~R. Solli, C.~Ropers, P.~Koonath, and B.~Jalali.
+\newblock Optical rogue waves.
+\newblock \emph{Nature}, 450:\penalty0 1054--1057, 12 2007.
+\newblock ISSN 14764687.
+\newblock \doi{10.1038/nature06402}.
+\newblock URL \url{https://doi.org/10.1038/nature06402}.
+
+\bibitem[Sornette(2002)]{Sornette2002}
+Didier Sornette.
+\newblock Predictability of catastrophic events: Material rupture, earthquakes,
+  turbulence, financial crashes, and human birth.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 99:\penalty0 2522--2529, 2 2002.
+\newblock ISSN 00278424.
+\newblock \doi{10.1073/pnas.022581999}.
+\newblock URL \url{https://www.pnas.org/doi/abs/10.1073/pnas.022581999}.
+
+\bibitem[Sornette(2009)]{Sornette2009a}
+Didier Sornette.
+\newblock Dragon-kings, black swans, and the prediction of crises.
+\newblock \emph{International Journal of Terraspace Science and Engineering},
+  2:\penalty0 1--18, 7 2009.
+\newblock ISSN 19433514.
+\newblock \doi{10.2139/ssrn.1596032}.
+\newblock URL \url{https://papers.ssrn.com/abstract=1596032}.
+
+\bibitem[Southall et~al.(2021)Southall, Brett, Tildesley, and
+  Dyson]{Southall2021}
+Emma Southall, Tobias~S. Brett, Michael~J. Tildesley, and Louise Dyson.
+\newblock Early warning signals of infectious disease transitions: A review.
+\newblock \emph{Journal of the Royal Society Interface}, 18, 9 2021.
+\newblock ISSN 17425662.
+\newblock \doi{10.1098/rsif.2021.0555}.
+\newblock URL
+  \url{https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0555}.
+
+\bibitem[Strogatz(2000)]{Strogatz2000}
+Steven~H Strogatz.
+\newblock Nonlinear dynamics and chaos: Applications to physics, biology,
+  chemistry, and engineering: With applications to physics, biology, chemistry
+  and engineering.
+\newblock \emph{SIAM Review}, 37:\penalty0 512, 2000.
+\newblock ISSN 0036-1445.
+
+\bibitem[Thompson and Sieber(2011{\natexlab{a}})]{Thompson2011}
+J.~Michael~T. Thompson and Jan Sieber.
+\newblock Predicting climate tipping as a noisy bifurcation: A review.
+\newblock \emph{International Journal of Bifurcation and Chaos}, 21:\penalty0
+  399--423, 11 2011{\natexlab{a}}.
+\newblock ISSN 02181274.
+\newblock \doi{10.1142/S0218127411028519}.
+
+\bibitem[Thompson and Sieber(2011{\natexlab{b}})]{Thompson2011a}
+J.~M.T. Thompson and Jan Sieber.
+\newblock Climate tipping as a noisy bifurcation: A predictive technique.
+\newblock \emph{IMA Journal of Applied Mathematics (Institute of Mathematics
+  and Its Applications)}, 76:\penalty0 27--46, 2 2011{\natexlab{b}}.
+\newblock ISSN 02724960.
+\newblock \doi{10.1093/imamat/hxq060}.
+\newblock URL \url{https://academic.oup.com/imamat/article/76/1/27/670984}.
+
+\bibitem[Tirabassi and Masoller(2022)]{Tirabassi2022}
+Giulio Tirabassi and Cristina Masoller.
+\newblock Correlation lags give early warning signals of approaching
+  bifurcations.
+\newblock \emph{Chaos, Solitons and Fractals}, 155:\penalty0 111720, 2 2022.
+\newblock ISSN 09600779.
+\newblock \doi{10.1016/j.chaos.2021.111720}.
+
+\bibitem[Vanselow et~al.(2019)Vanselow, Wieczorek, and Feudel]{Vanselow2019}
+Anna Vanselow, Sebastian Wieczorek, and Ulrike Feudel.
+\newblock When very slow is too fast - collapse of a predator-prey system.
+\newblock \emph{Journal of Theoretical Biology}, 479:\penalty0 64--72, 10 2019.
+\newblock ISSN 0022-5193.
+\newblock \doi{10.1016/J.JTBI.2019.07.008}.
+
+\bibitem[Westfall(2014)]{kurtosisRIP}
+Peter~H Westfall.
+\newblock Kurtosis as peakedness, 1905–2014. r.i.p.
+\newblock \emph{The American Statistician}, 68:\penalty0 191--195, 2014.
+\newblock \doi{10.1080/00031305.2014.917055}.
+\newblock URL \url{https://doi.org/10.1080/00031305.2014.917055}.
+
+\bibitem[Wilkat et~al.(2019)Wilkat, Rings, and Lehnertz]{no_cls_epileptic}
+Theresa Wilkat, Thorsten Rings, and Klaus Lehnertz.
+\newblock No evidence for critical slowing down prior to human epileptic
+  seizures.
+\newblock \emph{Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  29:\penalty0 91104, 2019.
+\newblock \doi{10.1063/1.5122759}.
+\newblock URL \url{https://doi.org/10.1063/1.5122759}.
+
+\bibitem[Wright and Herrington(2011)]{Wright2011}
+Daniel~B Wright and Joshua~A Herrington.
+\newblock Problematic standard errors and confidence intervals for skewness and
+  kurtosis.
+\newblock \emph{Behavior Research Methods}, 43:\penalty0 8, 2011.
+\newblock ISSN 1554-3528.
+\newblock \doi{10.3758/s13428-010-0044-x}.
+\newblock URL \url{https://doi.org/10.3758/s13428-010-0044-x}.
+
+\bibitem[Yang and Xia(2021)]{Yang2021}
+Xiang~I.A. Yang and Zhenhua Xia.
+\newblock Bifurcation and multiple states in plane couette flow with spanwise
+  rotation.
+\newblock \emph{Journal of Fluid Mechanics}, 913:\penalty0 A49, 2021.
+\newblock ISSN 14697645.
+\newblock \doi{10.1017/jfm.2021.45}.
+\newblock URL
+  \url{https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bifurcation-and-multiple-states-in-plane-couette-flow-with-spanwise-rotation/DA1254068D41EAD065967AF8BB3C63E3}.
+
+\bibitem[Zhang et~al.(2022)Zhang, Wang, Zhang, Havlin, and Gao]{Zhang2022}
+Huixin Zhang, Qi~Wang, Weidong Zhang, Shlomo Havlin, and Jianxi Gao.
+\newblock Estimating comparable distances to tipping points across mutualistic
+  systems by scaled recovery rates.
+\newblock \emph{Nature Ecology and Evolution}, 6:\penalty0 1524--1536, 8 2022.
+\newblock ISSN 2397334X.
+\newblock \doi{10.1038/s41559-022-01850-8}.
+\newblock URL \url{https://www.nature.com/articles/s41559-022-01850-8}.
+
+\bibitem[Érika Diz-Pita and Otero-Espinar(2021)]{Diz-Pita2021}
+Érika Diz-Pita and M.~Victoria Otero-Espinar.
+\newblock Predator–prey models: A review of some recent advances.
+\newblock \emph{Mathematics}, 9:\penalty0 1783, 7 2021.
+\newblock ISSN 22277390.
+\newblock \doi{10.3390/math9151783}.
+\newblock URL \url{https://www.mdpi.com/2227-7390/9/15/1783}.
+
+\end{thebibliography}

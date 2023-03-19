@@ -1,0 +1,2445 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.10)  19 MAR 2023 15:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./EWS_report.tex
+(EWS_report.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04>
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count197
+\c@@ppsavesec=\count198
+\c@@ppsaveapp=\count199
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen147
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks20
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks21
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks22
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccmath.sty
+Package: nccmath 2006/01/20 v1.3 Additional Math Commands (NCC)
+\NCC@fracrulewidth=\dimen156
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count278
+\float@exts=\toks24
+\float@box=\box53
+\@float@everytoks=\toks25
+\@floatcapt=\box54
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.
+ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen159
+\pgfutil@tempdimb=\dimen160
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box55
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen161
+\pgf@y=\dimen162
+\pgf@xa=\dimen163
+\pgf@ya=\dimen164
+\pgf@xb=\dimen165
+\pgf@yb=\dimen166
+\pgf@xc=\dimen167
+\pgf@yc=\dimen168
+\pgf@xd=\dimen169
+\pgf@yd=\dimen170
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count284
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count285
+\pgfsyssoftpath@bigbuffer@items=\count286
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count287
+\pgfmath@box=\box56
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count288
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count289
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen190
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen194
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen195
+\pgf@sys@shading@range@num=\count290
+\pgf@shadingcount=\count291
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box60
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box61
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen196
+\pgf@nodesepend=\dimen197
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count292
+\pgfplotmarksize=\dimen256
+)
+\tikz@lastx=\dimen257
+\tikz@lasty=\dimen258
+\tikz@lastxsaved=\dimen259
+\tikz@lastysaved=\dimen260
+\tikz@lastmovetox=\dimen261
+\tikz@lastmovetoy=\dimen262
+\tikzleveldistance=\dimen263
+\tikzsiblingdistance=\dimen264
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count293
+\tikznumberofchildren=\count294
+\tikznumberofcurrentchild=\count295
+\tikz@fig@count=\count296
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count297
+\pgfmatrixcurrentcolumn=\count298
+\pgf@matrix@numberofcolumns=\count299
+)
+\tikz@expandcount=\count300
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count301
+\calc@Bcount=\count302
+\calc@Adimen=\dimen265
+\calc@Bdimen=\dimen266
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count303
+\calc@Cskip=\skip63
+)
+\c@@todonotes@numberoftodonotes=\count304
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks40
+\footnotemargin=\dimen267
+\@outputbox@depth=\dimen268
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen269
+\ESO@tempdimb=\dimen270
+)
+\AM@pagewidth=\dimen271
+\AM@pageheight=\dimen272
+\AM@fboxrule=\dimen273
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count305
+\AM@pagebox=\box66
+\AM@global@opts=\toks41
+\AM@pagecnt=\count306
+\AM@toc@title=\toks42
+\c@AM@survey=\count307
+\AM@templatesizebox=\box67
+) (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count308
+)
+\@linkdim=\dimen274
+\Hy@linkcounter=\count309
+\Hy@pagecounter=\count310
+ (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count311
+ (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4408.
+\c@Hy@tempcnt=\count312
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4746.
+\XeTeXLinkMargin=\dimen275
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count313
+\Field@Width=\dimen276
+\Fld@charsize=\dimen277
+Package hyperref Info: Hyper figures OFF on input line 6024.
+Package hyperref Info: Link nesting OFF on input line 6029.
+Package hyperref Info: Hyper index ON on input line 6032.
+Package hyperref Info: backreferencing OFF on input line 6039.
+Package hyperref Info: Link coloring OFF on input line 6044.
+Package hyperref Info: Link coloring with OCG OFF on input line 6049.
+Package hyperref Info: PDF/A mode OFF on input line 6054.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count317
+\c@bookmark@seq@number=\count318
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip64
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks43
+\verbatim@line=\toks44
+\verbatim@in@stream=\read3
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/verbatimbox\verbatimbox
+.sty
+Package: verbatimbox 2014/03/12 v3.13 Routines for placing verbatim text into b
+oxes, useful in places where the verbatim environment is inaccessible. Secondar
+ily, for adding vertical buffer around an object.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/readarray\readarray.sty
+Package: readarray 2021/09/17\ 3.1\ Routines for inputting 2D and 3D array data
+ and recalling it on an element-by-element basis.
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/forloop\forloop.sty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/listofitems\listofitems
+.sty
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/listofitems\listofite
+ms.tex
+\loi_cnt_foreach_nest=\count319
+\loi_nestcnt=\count320
+)
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
+sep char (CT)
+)
+\c@@index=\count321
+\c@@plane=\count322
+\c@@row=\count323
+\c@@col=\count324
+\c@use@args=\count325
+\c@@record=\count326
+\c@index@count=\count327
+\Arg@toks=\toks45
+\@arrayident@toks=\toks46
+\rdar@file=\read4
+\readarrayendlinechar=\count328
+
+readarray: bounds checking OFF
+)
+\savedverbbox=\box68
+\c@VerbboxLineNo=\count329
+\boxtopsep=\dimen278
+\boxbottomsep=\dimen279
+\ps@tempdima=\dimen280
+\ps@tempboxa=\box69
+\boxtop@sep=\skip65
+\boxbottom@sep=\skip66
+) (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen281
+\ar@mcellbox=\box70
+\extrarowheight=\dimen282
+\NC@list=\toks47
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box71
+)
+\rotheadsize=\dimen283
+\c@nlinenum=\count330
+\TeXr@lab=\toks48
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box72
+\UL@hyphenbox=\box73
+\UL@skip=\skip69
+\UL@hook=\toks49
+\UL@height=\dimen284
+\UL@pe=\count331
+\UL@pixel=\dimen285
+\ULC@box=\box74
+Package: ulem 2019/11/18
+\ULdepth=\dimen286
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tabu\tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box75
+\sift@deathcycles=\count332
+\@vwid@loff=\dimen287
+\@vwid@roff=\dimen288
+)
+\c@taburow=\count333
+\tabu@nbcols=\count334
+\tabu@cnt=\count335
+\tabu@Xcol=\count336
+\tabu@alloc=\count337
+\tabu@nested=\count338
+\tabu@target=\dimen289
+\tabu@spreadtarget=\dimen290
+\tabu@naturalX=\dimen291
+\tabucolX=\dimen292
+\tabu@Xsum=\dimen293
+\extrarowdepth=\dimen294
+\abovetabulinesep=\dimen295
+\belowtabulinesep=\dimen296
+\tabustrutrule=\dimen297
+\tabu@thebody=\toks50
+\tabu@footnotes=\toks51
+\tabu@box=\box76
+\tabu@arstrutbox=\box77
+\tabu@hleads=\box78
+\tabu@vleads=\box79
+\tabu@cellskip=\skip70
+) (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tzplot\tzplot.sty
+Package: tzplot 2022/02/28 v2.0 Plot Graphs with TikZ Abbreviations
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-07-04 L3 programming layer (loader) 
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count339
+\l__pdf_internal_box=\box80
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen298
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@layerbox@background=\box81
+\pgf@layerboxsaved@background=\box82
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen299
+\pgfdecoratedremainingdistance=\dimen300
+\pgfdecoratedinputsegmentcompleteddistance=\dimen301
+\pgfdecoratedinputsegmentremainingdistance=\dimen302
+\pgf@decorate@distancetomove=\dimen303
+\pgf@decorate@repeatstate=\count340
+\pgfdecorationsegmentamplitude=\dimen304
+\pgfdecorationsegmentlength=\dimen305
+)
+\tikz@lib@dec@box=\box83
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/spath3\tikzlibrarycalli
+graphy.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/spath3\spath3.sty
+Package: spath3 2021/02/21 v2.4 Functions for manipulating PGF soft paths
+\g__spath_output_int=\count341
+\l__spath_tmpa_dim=\dimen306
+\l__spath_tmpb_dim=\dimen307
+\l__spath_tmpa_int=\count342
+\l__spath_tmpb_int=\count343
+\l__spath_move_x_dim=\dimen308
+\l__spath_move_y_dim=\dimen309
+\g__spath_anon_int=\count344
+)
+\l__cal_tmpa_int=\count345
+\l__cal_tmpb_int=\count346
+\g__cal_path_component_int=\count347
+\g__cal_label_int=\count348
+\l__cal_tmpa_dim=\dimen310
+\l__cal_tmpb_dim=\dimen311
+\l__cal_tmpc_dim=\dimen312
+\l__cal_tmpd_dim=\dimen313
+\l__cal_tmpe_dim=\dimen314
+\l__cal_tmpf_dim=\dimen315
+\l__cal_tmpg_dim=\dimen316
+\l__cal_tmph_dim=\dimen317
+\l__cal_taper_width_dim=\dimen318
+\l__cal_line_width_dim=\dimen319
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryintersections.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryintersections.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)
+\pgf@intersect@solutions=\count349
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.callouts.code.tex))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box84
+\pgfnodeparttwobox=\box85
+\pgfnodepartthreebox=\box86
+\pgfnodepartfourbox=\box87
+\pgfnodeparttwentybox=\box88
+\pgfnodepartnineteenbox=\box89
+\pgfnodeparteighteenbox=\box90
+\pgfnodepartseventeenbox=\box91
+\pgfnodepartsixteenbox=\box92
+\pgfnodepartfifteenbox=\box93
+\pgfnodepartfourteenbox=\box94
+\pgfnodepartthirteenbox=\box95
+\pgfnodeparttwelvebox=\box96
+\pgfnodepartelevenbox=\box97
+\pgfnodeparttenbox=\box98
+\pgfnodepartninebox=\box99
+\pgfnodeparteightbox=\box100
+\pgfnodepartsevenbox=\box101
+\pgfnodepartsixbox=\box102
+\pgfnodepartfivebox=\box103
+)))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen320
+\pgfarrowlength=\dimen321
+\pgfarrowwidth=\dimen322
+\pgfarrowlinewidth=\dimen323
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+bending.code.tex
+File: pgfmodulebending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+nonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgftransformnonlinearflatness=\dimen324
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@curvilinear@time@a=\dimen325
+\pgf@curvilinear@length@a=\dimen326
+\pgf@curvilinear@length@b=\dimen327
+\pgf@curvilinear@length@c=\dimen328
+\pgf@curvilinear@length@d=\dimen329
+)
+\pgf@arrows@the@rigidity=\dimen330
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.markings.code.tex))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryspy.code.tex
+File: tikzlibraryspy.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\tikz@lib@spybox=\box104
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfpu.code.tex)
+\pgf@layerbox@behind=\box105
+\pgf@layerboxsaved@behind=\box106
+\pgf@layerbox@above=\box107
+\pgf@layerboxsaved@above=\box108
+\pgf@layerbox@foreground=\box109
+\pgf@layerboxsaved@foreground=\box110
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip71
+\multirow@cntb=\count350
+\multirow@dima=\skip72
+\bigstrutjot=\dimen331
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarymath.code.tex
+\tikz@math@for@depth=\count351
+\tikz@math@dimen=\dimen332
+\tikz@math@toks=\toks52
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshadings.code.tex
+File: tikzlibraryshadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryshadings.code.tex
+File: pgflibraryshadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen333
+\captionmargin=\dimen334
+\caption@leftmargin=\dimen335
+\caption@rightmargin=\dimen336
+\caption@width=\dimen337
+\caption@indent=\dimen338
+\caption@parindent=\dimen339
+\caption@hangindent=\dimen340
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count352
+\c@continuedfloat=\count353
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+\c@KVtest=\count354
+\sf@farskip=\skip73
+\sf@captopadj=\dimen341
+\sf@capskip=\skip74
+\sf@nearskip=\skip75
+\c@subfigure=\count355
+\c@subfigure@save=\count356
+\c@lofdepth=\count357
+\c@subtable=\count358
+\c@subtable@save=\count359
+\c@lotdepth=\count360
+\sf@top=\skip76
+\sf@bottom=\skip77
+) (C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip78
+\bibsep=\skip79
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count361
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/cite\chapterbib.sty
+\c@inputfile=\count362
+Package: chapterbib 2010/09/18  v 1.17
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\empheq.sty
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+\g_MT_multlinerow_int=\count363
+\l_MT_multwidth_dim=\dimen342
+\origjot=\skip80
+\l_MT_shortvdotswithinadjustabove_dim=\dimen343
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen344
+\l_MT_above_intertext_sep=\dimen345
+\l_MT_below_intertext_sep=\dimen346
+\l_MT_above_shortintertext_sep=\dimen347
+\l_MT_below_shortintertext_sep=\dimen348
+\xmathstrut@box=\box111
+\xmathstrut@dim=\dimen349
+)
+\l_EQ_equationtype_int=\count364
+\l_EQ_alignmentmode_int=\count365
+\l_EQ_totalwidth_dim=\dimen350
+\l_EQ_displaywidth_dim=\dimen351
+\l_EQ_temp_linewidth_dim=\dimen352
+\l_EQ_linewidth_dim=\dimen353
+\EmphEqdelimitershortfall=\dimen354
+\EmphEqdelimiterfactor=\count366
+\g_EQ_toptag_height_dim=\dimen355
+\g_EQ_bottomtag_depth_dim=\dimen356
+\g_EQ_toprow_height_dim=\dimen357
+\g_EQ_bottomrow_depth_dim=\dimen358
+\g_EQ_widesttag_dim=\dimen359
+\EQ_mathdisplay_box=\box112
+\EQ_tag_box=\box113
+\g_EQ_temprow_int=\count367
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count368
+)
+\tcb@titlebox=\box114
+\tcb@upperbox=\box115
+\tcb@lowerbox=\box116
+\tcb@phantombox=\box117
+\c@tcbbreakpart=\count369
+\c@tcblayer=\count370
+\c@tcolorbox@number=\count371
+\tcb@temp=\box118
+\tcb@temp=\box119
+\tcb@temp=\box120
+\tcb@temp=\box121
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '5.1.1'
+\c@tcbrastercolumn=\count372
+\c@tcbrasterrow=\count373
+\c@tcbrasternum=\count374
+\c@tcbraster=\count375
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
+\tcb@waterbox=\box122
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.1.1'
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box123
+\tcb@totalupperbox=\box124
+\tcb@totallowerbox=\box125
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '5.1.1'
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '5.1.1'
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '5.1.1'
+\tcbfitdim=\dimen360
+\tcb@lowerfitdim=\dimen361
+\tcb@upperfitdim=\dimen362
+\tcb@cur@hbadness=\count376
+))
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen363
+\lightrulewidth=\dimen364
+\cmidrulewidth=\dimen365
+\belowrulesep=\dimen366
+\belowbottomsep=\dimen367
+\aboverulesep=\dimen368
+\abovetopsep=\dimen369
+\cmidrulesep=\dimen370
+\cmidrulekern=\dimen371
+\defaultaddspace=\dimen372
+\@cmidla=\count377
+\@cmidlb=\count378
+\@aboverulesep=\dimen373
+\@belowrulesep=\dimen374
+\@thisruleclass=\count379
+\@lastruleclass=\count380
+\@thisrulewidth=\dimen375
+)
+(EWS_report.aux
+
+LaTeX Warning: Label `fig:bifurcationadditive' multiply defined.
+
+
+LaTeX Warning: Label `fig:bifurcationadditive@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:detrendadditive' multiply defined.
+
+
+LaTeX Warning: Label `fig:detrendadditive@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:gdetadditive' multiply defined.
+
+
+LaTeX Warning: Label `fig:gdetadditive@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:nodetadditive' multiply defined.
+
+
+LaTeX Warning: Label `fig:nodetadditive@cref' multiply defined.
+
+)
+\openout1 = `EWS_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=673.04391pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-33.4738pt
+* \headheight=13.6pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=53.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count381
+\scratchdimen=\dimen376
+\scratchbox=\box126
+\nofMPsegments=\count382
+\nofMParguments=\count383
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count384
+\MPscratchDim=\dimen377
+\MPnumerator=\count385
+\makeMPintoPDFobject=\count386
+\everyMPtoPDFconversion=\toks54
+)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 70.
+
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package hyperref Info: Link coloring OFF on input line 70.
+
+(EWS_report.out) (EWS_report.out)
+\@outlinefile=\write4
+\openout4 = `EWS_report.out'.
+
+LaTeX Info: Redefining \celsius on input line 70.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 70.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 70.
+Package gensymb Info: Using \Omega for \ohm on input line 70.
+
+Package gensymb Warning: Not defining \micro.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 88
+.
+
+(C:\Users\gomel\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+{C:/Users/gomel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(EWS_report.toc
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 ....1}Pitchfork toy model}{43}{section.a.A.1}
+                                                  % [1
+
+
+])
+\tf@toc=\write5
+\openout5 = `EWS_report.toc'.
+
+ [2]
+(Chapters/EWS_introduction.tex
+Chapter 1.
+[1
+
+
+] [2]) [3] (Chapters/EWS.tex
+Chapter 2.
+(Chapters/EWS_metrics_intro.tex [4
+
+
+]
+<Images/Metrics/sahel_multistable.jpeg, id=400, 62.634pt x 69.25874pt>
+File: Images/Metrics/sahel_multistable.jpeg Graphic file (type jpg)
+<use Images/Metrics/sahel_multistable.jpeg>
+Package pdftex.def Info: Images/Metrics/sahel_multistable.jpeg  used on input l
+ine 60.
+(pdftex.def)             Requested size: 166.7306pt x 184.39076pt.
+) (Chapters/EWS_metrics_bif_and_tips.tex
+[5 <./Images/Metrics/sahel_multistable.jpeg>] [6] [7]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.264 	\hline
+             
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+<Images/Metrics/tippings.png, id=465, 1159.9335pt x 484.209pt>
+File: Images/Metrics/tippings.png Graphic file (type png)
+<use Images/Metrics/tippings.png>
+Package pdftex.def Info: Images/Metrics/tippings.png  used on input line 265.
+(pdftex.def)             Requested size: 416.83289pt x 174.00479pt.
+[8] [9 <./Images/Metrics/tippings.png>] [10]
+<Images/Metrics/overshoot2.png, id=523, 867.24pt x 433.62pt>
+File: Images/Metrics/overshoot2.png Graphic file (type png)
+<use Images/Metrics/overshoot2.png>
+Package pdftex.def Info: Images/Metrics/overshoot2.png  used on input line 381.
+
+(pdftex.def)             Requested size: 375.14705pt x 187.57115pt.
+
+Overfull \hbox (23.19214pt too wide) in paragraph at lines 455--478
+ [][] 
+ []
+
+[11 <./Images/Metrics/overshoot2.png>] [12]
+<Images/Metrics/acceleration/slow.png, id=576, 860.7357pt x 293.77756pt>
+File: Images/Metrics/acceleration/slow.png Graphic file (type png)
+<use Images/Metrics/acceleration/slow.png>
+Package pdftex.def Info: Images/Metrics/acceleration/slow.png  used on input li
+ne 650.
+(pdftex.def)             Requested size: 416.83289pt x 142.27124pt.
+<Images/Metrics/acceleration/fast.png, id=577, 860.7357pt x 293.77756pt>
+File: Images/Metrics/acceleration/fast.png Graphic file (type png)
+<use Images/Metrics/acceleration/fast.png>
+Package pdftex.def Info: Images/Metrics/acceleration/fast.png  used on input li
+ne 651.
+(pdftex.def)             Requested size: 416.83289pt x 142.27124pt.
+ [13])
+(Chapters/EWS_metrics_categ.tex [14 <./Images/Metrics/acceleration/slow.png> <.
+/Images/Metrics/acceleration/fast.png>]
+
+Package natbib Warning: Citation `PhysRevE.100.013102' on page 15 undefined on 
+input line 19.
+
+[15]
+Overfull \hbox (7.05434pt too wide) in paragraph at lines 56--57
+[][]\OT1/cmr/m/n/10.95 Laitinen et al.[] ([]2021[]) pro-poses other au-tore-gre
+s-sive mod-els for evolv-ing stochas-
+ []
+
+[16] [17] [18]) (Chapters/EWS_metrics_connection.tex [19]
+<Images/Metrics/pareto_shift_explanation.png, id=861, 1025.8325pt x 310.15875pt
+>
+File: Images/Metrics/pareto_shift_explanation.png Graphic file (type png)
+<use Images/Metrics/pareto_shift_explanation.png>
+Package pdftex.def Info: Images/Metrics/pareto_shift_explanation.png  used on i
+nput line 56.
+(pdftex.def)             Requested size: 416.83289pt x 126.03008pt.
+ [20 <./Images/Metrics/pareto_shift_explanation.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21]
+<Images/Metrics/boot_rayleigh_convergence.png, id=923, 1193.9004pt x 943.3644pt
+>
+File: Images/Metrics/boot_rayleigh_convergence.png Graphic file (type png)
+<use Images/Metrics/boot_rayleigh_convergence.png>
+Package pdftex.def Info: Images/Metrics/boot_rayleigh_convergence.png  used on 
+input line 248.
+(pdftex.def)             Requested size: 416.83289pt x 329.362pt.
+
+Overfull \hbox (12.07277pt too wide) in paragraph at lines 256--262
+\OT1/cmr/m/n/10.95 Each statis-tic is cal-cu-lated ev-ery 200 sam-ples, i.e for
+ sam-ple sizes $[]$,
+ []
+
+[22] [23 <./Images/Metrics/boot_rayleigh_convergence.png>]
+<Images/Metrics/boot_histograms_rayleigh_2000_400.png, id=946, 1141.866pt x 914
+.4564pt>
+File: Images/Metrics/boot_histograms_rayleigh_2000_400.png Graphic file (type p
+ng)
+<use Images/Metrics/boot_histograms_rayleigh_2000_400.png>
+Package pdftex.def Info: Images/Metrics/boot_histograms_rayleigh_2000_400.png  
+used on input line 294.
+(pdftex.def)             Requested size: 416.83289pt x 333.82265pt.
+ [24 <./Images/Metrics/boot_histograms_rayleigh_2000_400.png>]) (Chapters/EWS_m
+etrics_tests.tex)
+(Chapters/EWS_metrics_sde.tex
+
+Package natbib Warning: Citation `bibid' on page 25 undefined on input line 28.
+
+
+[25]
+Missing character: There is no e in font msbm10!
+
+Package natbib Warning: Citation `..' on page 26 undefined on input line 107.
+
+
+Package natbib Warning: Citation `..' on page 26 undefined on input line 113.
+
+[26]
+Overfull \hbox (1.21431pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/n/10.95 Now our full non-autonomous sys-tem can be writ-ten as an au
+g-mented sys-tem of eq.[]: 
+ []
+
+! Argument of \caption@ydblarg has an extra }.
+<inserted text> 
+                \par 
+l.170 ...oodness of the CSD theroy application.}.}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\@caption \@captype }{\@xfootnote }\def \reserved@b {\stepcounter \@mpfn \ETC.
+! Paragraph ended before \caption@ydblarg was complete.
+<to be read again> 
+                   \par 
+l.170 ...oodness of the CSD theroy application.}.}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+[27]
+
+LaTeX Warning: Reference `label' on page 1 undefined on input line 194.
+
+<Images/Metrics/spectrum_cases/slanted_subpitch_fast.png, id=1025, 867.24pt x 4
+33.62pt>
+File: Images/Metrics/spectrum_cases/slanted_subpitch_fast.png Graphic file (typ
+e png)
+<use Images/Metrics/spectrum_cases/slanted_subpitch_fast.png>
+Package pdftex.def Info: Images/Metrics/spectrum_cases/slanted_subpitch_fast.pn
+g  used on input line 252.
+(pdftex.def)             Requested size: 204.2504pt x 102.11905pt.
+<Images/Metrics/spectrum_cases/slanted_subpitch_fastnoise.png, id=1026, 867.24p
+t x 433.62pt>
+File: Images/Metrics/spectrum_cases/slanted_subpitch_fastnoise.png Graphic file
+ (type png)
+<use Images/Metrics/spectrum_cases/slanted_subpitch_fastnoise.png>
+Package pdftex.def Info: Images/Metrics/spectrum_cases/slanted_subpitch_fastnoi
+se.png  used on input line 253.
+(pdftex.def)             Requested size: 204.2504pt x 102.11905pt.
+<Images/Metrics/spectrum_cases/slanted_subpitch_adiab.png, id=1027, 867.24pt x 
+433.62pt>
+File: Images/Metrics/spectrum_cases/slanted_subpitch_adiab.png Graphic file (ty
+pe png)
+<use Images/Metrics/spectrum_cases/slanted_subpitch_adiab.png>
+Package pdftex.def Info: Images/Metrics/spectrum_cases/slanted_subpitch_adiab.p
+ng  used on input line 254.
+(pdftex.def)             Requested size: 204.2504pt x 102.11905pt.
+<Images/Metrics/spectrum_cases/slanted_subpitch_noise.png, id=1028, 867.24pt x 
+433.62pt>
+File: Images/Metrics/spectrum_cases/slanted_subpitch_noise.png Graphic file (ty
+pe png)
+<use Images/Metrics/spectrum_cases/slanted_subpitch_noise.png>
+Package pdftex.def Info: Images/Metrics/spectrum_cases/slanted_subpitch_noise.p
+ng  used on input line 255.
+(pdftex.def)             Requested size: 204.2504pt x 102.11905pt.
+) (Chapters/EWS_adiabatic.tex [28] [29 <./Images/Metrics/spectrum_cases/slanted
+_subpitch_fast.png> <./Images/Metrics/spectrum_cases/slanted_subpitch_fastnoise
+.png> <./Images/Metrics/spectrum_cases/slanted_subpitch_adiab.png> <./Images/Me
+trics/spectrum_cases/slanted_subpitch_noise.png>]
+
+Package natbib Warning: Citation `...' on page 30 undefined on input line 55.
+
+
+Package natbib Warning: Citation `the other one' on page 30 undefined on input 
+line 96.
+
+<Images/Metrics/diff_init2.png, id=1069, 838.332pt x 396.5214pt>
+File: Images/Metrics/diff_init2.png Graphic file (type png)
+<use Images/Metrics/diff_init2.png>
+Package pdftex.def Info: Images/Metrics/diff_init2.png  used on input line 104.
+
+(pdftex.def)             Requested size: 375.14705pt x 177.4407pt.
+[30]
+
+! LaTeX Error: File `"../Programing Proyects/EE indicators/Simulations with pdf
+s to test/Stochastic equations/SDE tests jupyter/image_variance_speed/Good_test
+/toghether/000_variance_test_speed_toghether"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 ...ether/000_variance_test_speed_toghether"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `"../Programing Proyects/EE indicators/Simulations with pdf
+s to test/Stochastic equations/SDE tests jupyter/image_variance_speed/Good_test
+/toghether/014_variance_test_speed_toghether"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 ...ether/014_variance_test_speed_toghether"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[31 <./Images/Metrics/diff_init2.png>]
+
+! LaTeX Error: File `"../Programing Proyects/EE indicators/Simulations with pdf
+s to test/Stochastic equations/SDE tests jupyter/image_variance_speed/skipping/
+stats"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ...ter/image_variance_speed/skipping/stats"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[32]
+<Images/Metrics/nonnormality/transcr.png, id=1126, 867.24pt x 433.62pt>
+File: Images/Metrics/nonnormality/transcr.png Graphic file (type png)
+<use Images/Metrics/nonnormality/transcr.png>
+Package pdftex.def Info: Images/Metrics/nonnormality/transcr.png  used on input
+ line 188.
+(pdftex.def)             Requested size: 416.83289pt x 208.41974pt.
+<Images/Metrics/nonnormality/transcr_sla.png, id=1132, 867.24pt x 433.62pt>
+File: Images/Metrics/nonnormality/transcr_sla.png Graphic file (type png)
+<use Images/Metrics/nonnormality/transcr_sla.png>
+Package pdftex.def Info: Images/Metrics/nonnormality/transcr_sla.png  used on i
+nput line 197.
+(pdftex.def)             Requested size: 416.83289pt x 208.41974pt.
+
+
+LaTeX Warning: Reference `apx:simetrictranscrit' on page 33 undefined on input 
+line 209.
+
+<Images/Metrics/nonnormality/deviation_trancr.png, id=1139, 867.24pt x 433.62pt
+>
+File: Images/Metrics/nonnormality/deviation_trancr.png Graphic file (type png)
+<use Images/Metrics/nonnormality/deviation_trancr.png>
+Package pdftex.def Info: Images/Metrics/nonnormality/deviation_trancr.png  used
+ on input line 215.
+(pdftex.def)             Requested size: 416.83289pt x 208.41974pt.
+[33 <./Images/Metrics/nonnormality/transcr.png>] [34 <./Images/Metrics/nonnorma
+lity/transcr_sla.png>]
+<Images/Metrics/traking/adiab_rtip_def010.png, id=1170, 750.8853pt x 1061.6463p
+t>
+File: Images/Metrics/traking/adiab_rtip_def010.png Graphic file (type png)
+<use Images/Metrics/traking/adiab_rtip_def010.png>
+Package pdftex.def Info: Images/Metrics/traking/adiab_rtip_def010.png  used on 
+input line 252.
+(pdftex.def)             Requested size: 375.14705pt x 530.40067pt.
+<Images/Metrics/traking/adiab_rtip_def039.png, id=1172, 747.9945pt x 1061.6463p
+t>
+File: Images/Metrics/traking/adiab_rtip_def039.png Graphic file (type png)
+<use Images/Metrics/traking/adiab_rtip_def039.png>
+Package pdftex.def Info: Images/Metrics/traking/adiab_rtip_def039.png  used on 
+input line 261.
+(pdftex.def)             Requested size: 375.14705pt x 532.458pt.
+) (Chapters/EWS_adiab_num.tex [35 <./Images/Metrics/nonnormality/deviation_tran
+cr.png>]
+
+! LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 		\k
+         =0;
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 		\node[below] (a) at (0,0) [center,below]
+                                               {$t_i$};
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 		\node[below] (b) at (1.1,0) [center,below]
+                                                 {$t_{i}+t_i^*$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 		\node[below] (a) at (6,0) [center,below]
+                                               {$t_i$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68  		\node[below] (b) at (8,0) [center,below]
+                                                {$t_{i}+t_i^*$};
+(That was another \errmessage.)
+
+Missing character: There is no ; in font nullfont!
+) (Chapters/EWS_analysis.tex [36]
+
+Package natbib Warning: Citation `Dutta' on page 37 undefined on input line 48.
+
+
+<Images/Metrics/custom_bifurcation/detrend_additive.png, id=1198, 1234.14923pt 
+x 652.09776pt>
+File: Images/Metrics/custom_bifurcation/detrend_additive.png Graphic file (type
+ png)
+<use Images/Metrics/custom_bifurcation/detrend_additive.png>
+Package pdftex.def Info: Images/Metrics/custom_bifurcation/detrend_additive.png
+  used on input line 71.
+(pdftex.def)             Requested size: 333.46758pt x 176.1981pt.
+<Images/Metrics/custom_bifurcation/bifurcation_additive.png, id=1199, 1220.8070
+8pt x 635.976pt>
+File: Images/Metrics/custom_bifurcation/bifurcation_additive.png Graphic file (
+type png)
+<use Images/Metrics/custom_bifurcation/bifurcation_additive.png>
+Package pdftex.def Info: Images/Metrics/custom_bifurcation/bifurcation_additive
+.png  used on input line 78.
+(pdftex.def)             Requested size: 333.46758pt x 173.71487pt.
+<Images/Metrics/custom_bifurcation/No_det_additive.png, id=1200, 1281.95862pt x
+ 1306.97516pt>
+File: Images/Metrics/custom_bifurcation/No_det_additive.png Graphic file (type 
+png)
+<use Images/Metrics/custom_bifurcation/No_det_additive.png>
+Package pdftex.def Info: Images/Metrics/custom_bifurcation/No_det_additive.png 
+ used on input line 86.
+(pdftex.def)             Requested size: 333.46758pt x 339.96507pt.
+<Images/Metrics/custom_bifurcation/Gdet_additive.png, id=1201, 1310.86662pt x 1
+306.97516pt>
+File: Images/Metrics/custom_bifurcation/Gdet_additive.png Graphic file (type pn
+g)
+<use Images/Metrics/custom_bifurcation/Gdet_additive.png>
+Package pdftex.def Info: Images/Metrics/custom_bifurcation/Gdet_additive.png  u
+sed on input line 92.
+(pdftex.def)             Requested size: 333.46758pt x 332.46657pt.
+[37]
+<Images/Metrics/sharp transition/bifurcation_additive.png, id=1211, 1254.71838p
+t x 652.09776pt>
+File: Images/Metrics/sharp transition/bifurcation_additive.png Graphic file (ty
+pe png)
+<use Images/Metrics/sharp transition/bifurcation_additive.png>
+Package pdftex.def Info: Images/Metrics/sharp transition/bifurcation_additive.p
+ng  used on input line 187.
+(pdftex.def)             Requested size: 291.78174pt x 151.641pt.
+<Images/Metrics/sharp transition/detrend_additive.png, id=1212, 1204.6853pt x 6
+22.63385pt>
+File: Images/Metrics/sharp transition/detrend_additive.png Graphic file (type p
+ng)
+<use Images/Metrics/sharp transition/detrend_additive.png>
+Package pdftex.def Info: Images/Metrics/sharp transition/detrend_additive.png  
+used on input line 193.
+(pdftex.def)             Requested size: 291.78174pt x 150.80325pt.
+<Images/Metrics/sharp transition/Gdet_additive.png, id=1213, 1280.29085pt x 126
+6.94868pt>
+File: Images/Metrics/sharp transition/Gdet_additive.png Graphic file (type png)
+
+<use Images/Metrics/sharp transition/Gdet_additive.png>
+Package pdftex.def Info: Images/Metrics/sharp transition/Gdet_additive.png  use
+d on input line 199.
+(pdftex.def)             Requested size: 291.78174pt x 288.72424pt.
+<Images/Metrics/sharp transition/No_det_additive.png, id=1214, 1268.61646pt x 1
+266.94868pt>
+File: Images/Metrics/sharp transition/No_det_additive.png Graphic file (type pn
+g)
+<use Images/Metrics/sharp transition/No_det_additive.png>
+Package pdftex.def Info: Images/Metrics/sharp transition/No_det_additive.png  u
+sed on input line 205.
+(pdftex.def)             Requested size: 291.78174pt x 291.39207pt.
+) (Chapters/EWS_conclusion.tex) (Chapters/EWS_outlook.tex [38] [39]
+[40]) (Chapters/EWS_symbols.tex
+Overfull \hbox (6.22163pt too wide) in paragraph at lines 3--11
+[] 
+ []
+
+) [41]) [42 <./Images/Metrics/traking/adiab_rtip_def010.png>] [43 <./Images/Met
+rics/traking/adiab_rtip_def039.png>] [44 <./Images/Metrics/custom_bifurcation/d
+etrend_additive.png> <./Images/Metrics/custom_bifurcation/bifurcation_additive.
+png>] [45 <./Images/Metrics/custom_bifurcation/No_det_additive.png>] [46 <./Ima
+ges/Metrics/custom_bifurcation/Gdet_additive.png> <./Images/Metrics/sharp trans
+ition/bifurcation_additive.png>] [47 <./Images/Metrics/sharp transition/detrend
+_additive.png> <./Images/Metrics/sharp transition/Gdet_additive.png>] [48 <./Im
+ages/Metrics/sharp transition/No_det_additive.png>] [49
+
+
+
+] (Chapters/EWS_apx.tex
+Appendix A.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5.
+
+
+Package natbib Warning: Citation `...' on page 50 undefined on input line 34.
+
+
+Package natbib Warning: Citation `..' on page 50 undefined on input line 34.
+
+[50
+
+]
+<Images/Metrics/pitchfork_explanation.png, id=1342, 867.24pt x 358.4592pt>
+File: Images/Metrics/pitchfork_explanation.png Graphic file (type png)
+<use Images/Metrics/pitchfork_explanation.png>
+Package pdftex.def Info: Images/Metrics/pitchfork_explanation.png  used on inpu
+t line 89.
+(pdftex.def)             Requested size: 416.83289pt x 172.29364pt.
+ [51]
+<Images/Metrics/t_30.png, id=1354, 722.7pt x 718.3638pt>
+File: Images/Metrics/t_30.png Graphic file (type png)
+<use Images/Metrics/t_30.png>
+Package pdftex.def Info: Images/Metrics/t_30.png  used on input line 101.
+(pdftex.def)             Requested size: 125.05113pt x 124.29057pt.
+<Images/Metrics/t_60.png, id=1355, 722.7pt x 718.3638pt>
+File: Images/Metrics/t_60.png Graphic file (type png)
+<use Images/Metrics/t_60.png>
+Package pdftex.def Info: Images/Metrics/t_60.png  used on input line 102.
+(pdftex.def)             Requested size: 125.05113pt x 124.29057pt.
+<Images/Metrics/t_100.png, id=1356, 722.7pt x 718.3638pt>
+File: Images/Metrics/t_100.png Graphic file (type png)
+<use Images/Metrics/t_100.png>
+Package pdftex.def Info: Images/Metrics/t_100.png  used on input line 103.
+(pdftex.def)             Requested size: 125.05113pt x 124.29057pt.
+<Images/Metrics/Parameters.png, id=1358, 722.7pt x 718.3638pt>
+File: Images/Metrics/Parameters.png Graphic file (type png)
+<use Images/Metrics/Parameters.png>
+Package pdftex.def Info: Images/Metrics/Parameters.png  used on input line 117.
+
+(pdftex.def)             Requested size: 166.7306pt x 165.72441pt.
+ [52 <./Images/Metrics/pitchfork_explanation.png> <./Images/Metrics/t_30.png> <
+./Images/Metrics/t_60.png> <./Images/Metrics/t_100.png>]
+<Images/Metrics/same_init2.png, id=1371, 838.332pt x 396.5214pt>
+File: Images/Metrics/same_init2.png Graphic file (type png)
+<use Images/Metrics/same_init2.png>
+Package pdftex.def Info: Images/Metrics/same_init2.png  used on input line 139.
+
+(pdftex.def)             Requested size: 375.14705pt x 177.4407pt.
+
+
+! LaTeX Error: File `"../Programing Proyects/EE indicators/Simulations with pdf
+s to test/Stochastic equations/SDE tests jupyter/image_variance_speed/x0_0_test
+s/toghether/000_variance_test_speed_toghether"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ...ether/000_variance_test_speed_toghether"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `"../Programing Proyects/EE indicators/Simulations with pdf
+s to test/Stochastic equations/SDE tests jupyter/image_variance_speed/x0_0_test
+s/toghether/016_variance_test_speed_toghether"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ...ether/016_variance_test_speed_toghether"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[53 <./Images/Metrics/Parameters.png> <./Images/Metrics/same_init2.png>]
+
+Package natbib Warning: Citation `..' on page 54 undefined on input line 170.
+
+
+Package natbib Warning: Citation `bibid' on page 54 undefined on input line 170
+.
+
+
+Package natbib Warning: Citation `bibid' on page 54 undefined on input line 170
+.
+
+
+Package natbib Warning: Citation `..' on page 54 undefined on input line 170.
+
+
+Package natbib Warning: Citation `bibid' on page 54 undefined on input line 170
+.
+
+
+Package natbib Warning: Citation `bibid' on page 54 undefined on input line 170
+.
+
+
+Package natbib Warning: Citation `bibid' on page 54 undefined on input line 170
+.
+
+
+Package natbib Warning: Citation `..' on page 54 undefined on input line 174.
+
+
+Package natbib Warning: Citation `..' on page 54 undefined on input line 174.
+
+
+Package natbib Warning: Citation `..' on page 54 undefined on input line 174.
+
+
+Package natbib Warning: Citation `..' on page 54 undefined on input line 174.
+
+
+Package natbib Warning: Citation `some book' on page 54 undefined on input line
+ 208.
+
+[54]
+<Images/Metrics/boot_exponential_convergence.png, id=1399, 1193.9004pt x 943.36
+44pt>
+File: Images/Metrics/boot_exponential_convergence.png Graphic file (type png)
+<use Images/Metrics/boot_exponential_convergence.png>
+Package pdftex.def Info: Images/Metrics/boot_exponential_convergence.png  used 
+on input line 250.
+(pdftex.def)             Requested size: 416.83289pt x 329.362pt.
+ [55 <./Images/Metrics/boot_exponential_convergence.png>]
+<Images/Metrics/boot_histograms_exponential.png, id=1411, 1134.639pt x 914.4564
+pt>
+File: Images/Metrics/boot_histograms_exponential.png Graphic file (type png)
+<use Images/Metrics/boot_histograms_exponential.png>
+Package pdftex.def Info: Images/Metrics/boot_histograms_exponential.png  used o
+n input line 261.
+(pdftex.def)             Requested size: 416.83289pt x 335.94357pt.
+ [56 <./Images/Metrics/boot_histograms_exponential.png>]
+<Images/Metrics/sym_thresh_rayl.png, id=1419, 1387.584pt x 656.2116pt>
+File: Images/Metrics/sym_thresh_rayl.png Graphic file (type png)
+<use Images/Metrics/sym_thresh_rayl.png>
+Package pdftex.def Info: Images/Metrics/sym_thresh_rayl.png  used on input line
+ 287.
+(pdftex.def)             Requested size: 333.46758pt x 157.70427pt.
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 			\node[below] (a) at (0,0) [center,below]
+                                                 {$t_i$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 			\node[below] (b) at (2,0) [center,below]
+                                                 {$t_{i+1}$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 			\node[below] (b) at (4,0) [center,below]
+                                                 {$t_{i+2}$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 			\node[below] (b) at (10,0) [center,below]
+                                                  {$t_{n}$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340 			\node[below] (a) at (0,0) [center,below]
+                                                 {$t_i$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.341 			\node[below] (b) at (1,0) [center,below]
+                                                 {$t_{i+1}$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 			\node[below] (b) at (2,0) [center,below]
+                                                 {$t_{i+2}$};
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/center' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 			\node[below] (b) at (10,0) [center,below]
+                                                  {$t_{n}$};		
+(That was another \errmessage.)
+
+[57 <./Images/Metrics/sym_thresh_rayl.png>] [58]
+<Images/Metrics/erf_example.png, id=1440, 462.528pt x 346.896pt>
+File: Images/Metrics/erf_example.png Graphic file (type png)
+<use Images/Metrics/erf_example.png>
+Package pdftex.def Info: Images/Metrics/erf_example.png  used on input line 399
+.
+(pdftex.def)             Requested size: 291.78174pt x 218.84734pt.
+<Images/Metrics/erf_example_transition_stats_3da.png, id=1443, 722.7pt x 719.80
+92pt>
+File: Images/Metrics/erf_example_transition_stats_3da.png Graphic file (type pn
+g)
+<use Images/Metrics/erf_example_transition_stats_3da.png>
+Package pdftex.def Info: Images/Metrics/erf_example_transition_stats_3da.png  u
+sed on input line 432.
+(pdftex.def)             Requested size: 187.57352pt x 186.81647pt.
+<Images/Metrics/erf_example_transition_stats_3db.png, id=1444, 722.7pt x 719.80
+92pt>
+File: Images/Metrics/erf_example_transition_stats_3db.png Graphic file (type pn
+g)
+<use Images/Metrics/erf_example_transition_stats_3db.png>
+Package pdftex.def Info: Images/Metrics/erf_example_transition_stats_3db.png  u
+sed on input line 433.
+(pdftex.def)             Requested size: 187.57352pt x 186.81647pt.
+<Images/Metrics/erf_example_transition_stats_3dc.png, id=1445, 722.7pt x 719.80
+92pt>
+File: Images/Metrics/erf_example_transition_stats_3dc.png Graphic file (type pn
+g)
+<use Images/Metrics/erf_example_transition_stats_3dc.png>
+Package pdftex.def Info: Images/Metrics/erf_example_transition_stats_3dc.png  u
+sed on input line 434.
+(pdftex.def)             Requested size: 187.57352pt x 186.81647pt.
+<Images/Metrics/erf_example_transition_stats_3dd.png, id=1446, 722.7pt x 719.80
+92pt>
+File: Images/Metrics/erf_example_transition_stats_3dd.png Graphic file (type pn
+g)
+<use Images/Metrics/erf_example_transition_stats_3dd.png>
+Package pdftex.def Info: Images/Metrics/erf_example_transition_stats_3dd.png  u
+sed on input line 435.
+(pdftex.def)             Requested size: 187.57352pt x 186.81647pt.
+ [59 <./Images/Metrics/erf_example.png>] [60 <./Images/Metrics/erf_example_tran
+sition_stats_3da.png> <./Images/Metrics/erf_example_transition_stats_3db.png> <
+./Images/Metrics/erf_example_transition_stats_3dc.png> <./Images/Metrics/erf_ex
+ample_transition_stats_3dd.png>]
+
+LaTeX Warning: Reference `fig:overshoot2' on page 1 undefined on input line 467
+.
+
+
+LaTeX Warning: Reference `fig:overshootnoise4,fig:overshootnoise2,fig:overshoot
+noise3' on page 61 undefined on input line 469.
+
+
+LaTeX Warning: Reference `fig:overshoot2' on page 1 undefined on input line 469
+.
+
+<Images/Metrics/overshoot_noise4.png, id=1464, 867.24pt x 433.62pt>
+File: Images/Metrics/overshoot_noise4.png Graphic file (type png)
+<use Images/Metrics/overshoot_noise4.png>
+Package pdftex.def Info: Images/Metrics/overshoot_noise4.png  used on input lin
+e 474.
+(pdftex.def)             Requested size: 375.14705pt x 187.57115pt.
+<Images/Metrics/overshoot_noise2.png, id=1465, 867.24pt x 433.62pt>
+File: Images/Metrics/overshoot_noise2.png Graphic file (type png)
+<use Images/Metrics/overshoot_noise2.png>
+Package pdftex.def Info: Images/Metrics/overshoot_noise2.png  used on input lin
+e 481.
+(pdftex.def)             Requested size: 375.14705pt x 187.57115pt.
+<Images/Metrics/overshoot_noise3.png, id=1466, 867.24pt x 433.62pt>
+File: Images/Metrics/overshoot_noise3.png Graphic file (type png)
+<use Images/Metrics/overshoot_noise3.png>
+Package pdftex.def Info: Images/Metrics/overshoot_noise3.png  used on input lin
+e 488.
+(pdftex.def)             Requested size: 375.14705pt x 187.57115pt.
+[61 <./Images/Metrics/overshoot_noise4.png> <./Images/Metrics/overshoot_noise2.
+png>]) [62 <./Images/Metrics/overshoot_noise3.png>] (EWS_report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 46--55
+[]$\OT1/cmtt/m/n/10.95 https : / / doi . org / 10 . 1088 / 1361-[]6544 / aa675b
+https : / / iopscience . iop . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--55
+\OT1/cmtt/m/n/10.95 article / 10 . 1088 / 1361-[]6544 / aa675bhttps : / / iopsc
+ience . iop . org / article / 10 .
+ []
+
+[63]
+Underfull \hbox (badness 1360) in paragraph at lines 116--125
+\OT1/cmr/m/n/10.95 ing for crit-i-cal tran-si-tions.  \OT1/cmr/m/it/10.95 Jour-
+nal of the Royal So-ci-ety In-ter-face\OT1/cmr/m/n/10.95 , 9:2527--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--210
+\OT1/cmtt/m/n/10.95 1890 / 11-[]0716 . 1https : / / onlinelibrary . wiley . com
+ / doi / abs / 10 . 1890 / 11-[]0716 .
+ []
+
+[64] [65]
+Underfull \hbox (badness 10000) in paragraph at lines 325--334
+\OT1/cmtt/m/n/10.95 com / doi / full / 10 . 1111 / oik . 05172https : / / onlin
+elibrary . wiley . com / doi / abs /
+ []
+
+[66]
+Underfull \hbox (badness 5403) in paragraph at lines 433--439
+\OT1/cmr/m/n/10.95 plex net-works.  \OT1/cmr/m/it/10.95 Sci-en-tific Re-ports\O
+T1/cmr/m/n/10.95 , 10:1--13, 7 2020.  ISSN 20452322.
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 433--439
+\OT1/cmr/m/n/10.95 doi: $10 . 1038 / s41598-[]020-[]68805-[]6$.  URL []$\OT1/cm
+tt/m/n/10.95 https : / / www . nature . com / articles /
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 458--463
+[]\OT1/cmr/m/n/10.95 J. C. Hoadley.  A tilt-ing wa-ter me-ter for pur-poses of 
+ex-per-i-ment.  \OT1/cmr/m/it/10.95 Jour-
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 458--463
+\OT1/cmr/m/it/10.95 nal of The Franklin In-sti-tute\OT1/cmr/m/n/10.95 , pages 2
+73--278, 1883.  URL []$\OT1/cmtt/m/n/10.95 moz-[]extension :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--463
+\OT1/cmtt/m/n/10.95 / / fe91d4c7-[]a2d3-[]4069-[]a7c4-[]8efe15e99ba5 / enhanced
+-[]reader . html ? openApp &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--463
+\OT1/cmtt/m/n/10.95 pdf = https % 3A % 2F % 2Fia800708 . us . archive . org % 2
+Fview _ archive . php %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--463
+\OT1/cmtt/m/n/10.95 3Farchive % 3D % 2F22 % 2Fitems % 2Fcrossref-[]pre-[]1909-[
+]scholarly-[]works % 2F10 .
+ []
+
+[67] [68]
+Underfull \hbox (badness 3803) in paragraph at lines 610--620
+[]\OT1/cmr/m/n/10.95 V. N. Liv-ina and T. M. Lenton.  A mod-i-fied method for d
+e-tect-ing in-
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 610--620
+\OT1/cmr/m/n/10.95 cip-i-ent bi-fur-ca-tions in a dy-nam-i-cal sys-tem.  \OT1/c
+mr/m/it/10.95 Geo-phys-i-cal Re-search Let-
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 610--620
+\OT1/cmr/m/it/10.95 ters\OT1/cmr/m/n/10.95 , 34, 2 2007.  ISSN 00948276.  doi: 
+$10 . 1029 / 2006GL028672$.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--620
+[]$\OT1/cmtt/m/n/10.95 https : / / onlinelibrary . wiley . com / doi / full / 1
+0 . 1029 / 2006GL028672https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--620
+\OT1/cmtt/m/n/10.95 / / onlinelibrary . wiley . com / doi / abs / 10 . 1029 / 2
+006GL028672https : / / agupubs .
+ []
+
+[69] [70]
+Underfull \hbox (badness 1418) in paragraph at lines 875--884
+\OT1/cmr/m/n/10.95 Partha Sharathi Dutta.  An-tic-i-pat-ing crit-i-cal tran-si-
+tions in epithelial-hybrid-
+ []
+
+[71] [72]
+Underfull \hbox (badness 1142) in paragraph at lines 1037--1045
+[]\OT1/cmr/m/n/10.95 Xiang I.A. Yang and Zhen-hua Xia.  Bi-fur-ca-tion and mul-
+ti-ple states in plane
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 1037--1045
+\OT1/cmr/m/n/10.95 cou-ette flow with span-wise ro-ta-tion.  \OT1/cmr/m/it/10.9
+5 Jour-nal of Fluid Me-chan-ics\OT1/cmr/m/n/10.95 , 913:
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 1037--1045
+\OT1/cmr/m/n/10.95 A49, 2021.  ISSN 14697645.  doi: $10 . 1017 / jfm . 2021 . 4
+5$.  URL []$\OT1/cmtt/m/n/10.95 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1045
+\OT1/cmtt/m/n/10.95 / / www . cambridge . org / core / journals / journal-[]of-
+[]fluid-[]mechanics / article /
+ []
+
+
+Overfull \hbox (41.7661pt too wide) in paragraph at lines 1037--1045
+\OT1/cmtt/m/n/10.95 bifurcation-[]and-[]multiple-[]states-[]in-[]plane-[]couett
+e-[]flow-[]with-[]spanwise-[]rotation /
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[73] (EWS_report.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `EWS_report.out' has not changed.
+(rerunfilecheck)             Checksum: 89DD86298FA4493C487B77D8E25DC97F;9382.
+ ) 
+Here is how much of TeX's memory you used:
+ 46536 strings out of 478338
+ 1010624 string characters out of 2836700
+ 1329893 words of memory out of 3000000
+ 63719 multiletter control sequences out of 15000+600000
+ 483150 words of font info for 83 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,16n,133p,841b,1020s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.26} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.22} has been referenced but does not exis
+t, replaced by a fixed one
+
+{C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super
+-ts1.enc}<C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gomel/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/gomel/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users
+/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi5.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi9.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gomel/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/gomel/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/gomel/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/gomel/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users
+/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9
+.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsl10.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy6.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/gomel/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/gomel/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/gomel/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/gome
+l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Us
+ers/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/li
+ne10.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/symbols/msbm10.pfb><C:/Users/gomel/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/cm-super/sfrm1095.pfb>
+Output written on EWS_report.pdf (76 pages, 8349378 bytes).
+PDF statistics:
+ 1902 PDF objects out of 2073 (max. 8388607)
+ 434 named destinations out of 1000 (max. 500000)
+ 642 words of extra memory for PDF output out of 10000 (max. 10000000)
+

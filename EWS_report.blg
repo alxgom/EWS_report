@@ -1,0 +1,1464 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: EWS_report.aux
+White space in argument---line 280 of file EWS_report.aux
+ : \citation{Ashwin,the
+ :                      other one}
+I'm skipping whatever remains of this command
+White space in argument---line 444 of file EWS_report.aux
+ : \citation{some
+ :                book}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Database file #1: Bibliography/Thesis_bib.bib
+Warning--entry type for "" isn't style-file defined
+--line 182 of file Bibliography/Thesis_bib.bib
+Repeated entry---line 249 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 250 of file Bibliography/Thesis_bib.bib
+ :    title = {DBD1F8CCADAE78085A87A9A91B7B140E @ doi.org
+ :                                                       },
+I'm skipping whatever remains of this entry
+Warning--entry type for "burnley1871" isn't style-file defined
+--line 818 of file Bibliography/Thesis_bib.bib
+Warning--entry type for "Pavithran2021" isn't style-file defined
+--line 1011 of file Bibliography/Thesis_bib.bib
+Warning--entry type for "Kopp2016" isn't style-file defined
+--line 1911 of file Bibliography/Thesis_bib.bib
+Warning--entry type for "Jackson2001" isn't style-file defined
+--line 2081 of file Bibliography/Thesis_bib.bib
+Warning--entry type for "Boettiger2013a" isn't style-file defined
+--line 2202 of file Bibliography/Thesis_bib.bib
+Warning--entry type for "Ritchie2021" isn't style-file defined
+--line 2231 of file Bibliography/Thesis_bib.bib
+Warning--entry type for "Ritchie2016" isn't style-file defined
+--line 3053 of file Bibliography/Thesis_bib.bib
+Repeated entry---line 3141 of file Bibliography/Thesis_bib.bib
+ : @article{Gomel2019
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3306 of file Bibliography/Thesis_bib.bib
+ : @article{Scheffer2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3513 of file Bibliography/Thesis_bib.bib
+ : @web_page{
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3686 of file Bibliography/Thesis_bib.bib
+ : @web_page{
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5784 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5812 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5818 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7188 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7736 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8008 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8028 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8049 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+You're missing an entry type---line 8050 of file Bibliography/Thesis_bib.bib
+ :    title = {9 h prqGqts u ¨ h p ¨ pwvyx ¨ V ( BE  Se  IRD  BE `  HP  5HSI ` H i X  ( WCe  q  eg @
+ :                                                                                                                                   ( ` T ( xi  S  ( x   ExCdSegfPehs  iSeb  5HPI ` H ( x  5HSI ` @ CQSTPj k  lhm nPo ¤ pCn5q ofr  m ( sStvuCl rws ( x ¤ x  y \{ z ¤| \} y \{ |},
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 8050 of file Bibliography/Thesis_bib.bib
+ :    title = {9 h prqGqts u ¨ h p ¨ pwvyx ¨ V ( BE  Se  IRD  BE `  HP  5HSI ` H i X  ( WCe  q  eg @( ` T ( xi  S  ( x   ExCdSegfPehs  iSeb  5HPI ` H ( x  5HSI ` @ cqstpj 
+ :                                                                                                                                                                                                                                          k  lhm nPo ¤ pCn5q ofr  m ( sStvuCl rws ( x ¤ x  y \{ z ¤| \} y \{ |},
+I'm skipping whatever remains of this entry
+Repeated entry---line 8097 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8109 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8278 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8504 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8507 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8518 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8521 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8524 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8527 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8544 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8547 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8565 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8580 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8616 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8619 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8622 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8669 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8729 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8845 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8855 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8858 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8861 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8864 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8867 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8870 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8873 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8876 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8879 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8882 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8885 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8888 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8891 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8894 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8897 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8900 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8905 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8965 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8968 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8971 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8974 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9019 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9031 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9037 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9043 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9097 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9103 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9133 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9136 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9142 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9166 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9172 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9199 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9220 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9223 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9235 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9241 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9256 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9262 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9265 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9271 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9274 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9298 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9317 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9337 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9340 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9343 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9346 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9349 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9352 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9355 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9358 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9365 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9368 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9371 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9374 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9391 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9394 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9410 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9503 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9540 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9579 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9582 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9595 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9598 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9602 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9615 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9619 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9623 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9636 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9640 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9651 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9658 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9688 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9707 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9755 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9807 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9885 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9965 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9974 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10013 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10019 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10049 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10064 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10076 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10103 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10106 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10109 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10148 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10166 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10208 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10223 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10238 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10253 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10259 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10265 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10283 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10307 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10310 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10393 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10411 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10435 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10598 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10622 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10625 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10637 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10751 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10769 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10772 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10865 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10899 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10938 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10941 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10962 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10995 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11004 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11013 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11016 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11019 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11037 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11076 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11079 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11124 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11202 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11205 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11223 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11232 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11250 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11491 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11656 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11668 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11679 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11739 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11748 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11770 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11815 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11918 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11936 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11957 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11963 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11969 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11984 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12016 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12019 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12103 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12139 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12145 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12172 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12190 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12196 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12223 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12244 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12247 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12331 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12340 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12361 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12465 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12635 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12680 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12689 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12782 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12841 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12899 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12920 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12956 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12964 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13002 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13005 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13174 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13190 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13231 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13299 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13326 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13338 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13344 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13368 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13398 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13434 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13479 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13482 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13500 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13509 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13512 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13536 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13539 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13566 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13590 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13596 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13611 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13620 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13626 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13659 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13665 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13671 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13677 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13743 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13890 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13893 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13897 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13919 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13956 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14028 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14064 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14139 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14142 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14163 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14169 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14172 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14205 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14263 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14268 of file Bibliography/Thesis_bib.bib
+ : @article{Lucarini2014
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14446 of file Bibliography/Thesis_bib.bib
+ : @article{Solli2007
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14755 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14800 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14864 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14890 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14893 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14941 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14993 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15071 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15147 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15171 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15270 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15284 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15452 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15457 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15460 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15463 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15479 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15482 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15487 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15504 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15507 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15536 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15539 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15542 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15558 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15562 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15567 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15573 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15578 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15602 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15607 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15612 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15627 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15697 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15867 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15872 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15954 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15967 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15980 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15989 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16012 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16016 of file Bibliography/Thesis_bib.bib
+ : @book{
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16070 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16073 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16246 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16252 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16288 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16327 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16330 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16360 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16402 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16408 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16438 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16456 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16477 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16483 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16501 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16567 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16612 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16633 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16684 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16744 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16750 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16768 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16786 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16792 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16853 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16890 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16912 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16926 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16933 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16960 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16971 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16980 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17002 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17044 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17077 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17088 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17118 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17121 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17184 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17208 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17211 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17280 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17370 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17379 of file Bibliography/Thesis_bib.bib
+ : @article{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17809 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17836 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17863 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17887 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17965 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17968 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17974 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18025 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18052 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18097 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18124 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18151 of file Bibliography/Thesis_bib.bib
+ : @generic{
+ :          ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "PhysRevE.100.013102"
+Warning--I didn't find a database entry for "bibid"
+Warning--I didn't find a database entry for ".."
+Warning--I didn't find a database entry for "..."
+Warning--I didn't find a database entry for "Dutta"
+Warning--to sort, need author or key in 
+Warning--empty year in 
+Warning--empty booktitle in Burrage
+Warning--empty journal in Maletic2016
+Warning--empty journal in Parry2022
+Warning--empty publisher in SCHEFFER2020a
+You've used 115 entries,
+            2773 wiz_defined-function locations,
+            1613 strings with 35597 characters,
+and the built_in function-call counts, 62775 in all, are:
+= -- 5807
+> -- 4248
+< -- 44
++ -- 1428
+- -- 1308
+* -- 5761
+:= -- 10120
+add.period$ -- 627
+call.type$ -- 115
+change.case$ -- 778
+chr.to.int$ -- 110
+cite$ -- 237
+duplicate$ -- 2340
+empty$ -- 4336
+format.name$ -- 1486
+if$ -- 12990
+int.to.chr$ -- 6
+int.to.str$ -- 1
+missing$ -- 110
+newline$ -- 865
+num.names$ -- 456
+pop$ -- 1136
+preamble$ -- 1
+purify$ -- 666
+quote$ -- 0
+skip$ -- 1824
+stack$ -- 0
+substring$ -- 2006
+swap$ -- 226
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1250
+warning$ -- 6
+while$ -- 435
+width$ -- 0
+write$ -- 2049
+(There were 347 error messages)

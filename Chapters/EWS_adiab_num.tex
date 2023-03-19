@@ -1,0 +1,87 @@
+	\section{adiabatic number}
+
+A natural way to say that a parameter is being sweept slowly when  the system is close to a stable attractor would be to say that, if the control parameter at $t_i$ is $\lambda_i$, then after a relaxation time $t^*_i=-1/M(\la_i)$ the system moves to a state given by  $\lambda_i+\delta \la$ on which the relaxation time has not change significantly. 
+
+Thus we want $\Delta M=M_f-M_i$ to be small, with $M_f=M(\lambda_i+\delta \la)$, and $M_i= M(\lambda_i) $.
+
+To quantify this we choose wither of the follow adimensional quantities:
+
+\begin{equation}
+	\begin{aligned}
+		\xi_i&=\frac{\Delta M}{M_i}=\frac{M_f}{M_i}-1 \\
+		\xi_f&=\frac{\Delta M}{M_f}=1-\frac{M_i}{M_f}
+	\end{aligned}
+	\label{eq:xi}
+\end{equation}
+
+We will call this quantities the adiabatic number of the augmented system. 
+
+And they have the following properties:
+\begin{itemize}
+	\item They are positive if the system becomes locally more stable, since the relaxation times decreases. 
+	\item They are zero if the system does not change stability. Thus, the are zero if the system is not being swiped.
+	\item They are negative if the system losses stability.
+\end{itemize}
+
+In particular they take values in given intervals $\xi_f  \in (-\inf,1)$, $\xi_i  \in (-1,\inf)$.
+
+
+
+
+
+\tikzmath{ int \k ; }
+\begin{figure}
+	\centering
+%	\begin{tikzpicture}
+%		\node (time) at (11,0)  [right]{$t$};
+%		\draw [->,very thick,black](0,0) -- (11,0);
+%		\node[above,left] at (0,3) {a)};
+%		\foreach \i in {0,...,4}
+%		{ \draw (2*\i,0) node[rectangle, thin,left color=col2, right color=white!,shading angle=180,anchor=south west, minimum height=3cm,minimum width=2cm,opacity=0.2+\i*(1-0.2)/9] () {}; }
+%		\foreach \i in {0,...,5}
+%		{ \filldraw (2*\i,0) circle [circle,black,fill=black,align=center,radius=0.05cm] ; }
+%		\node[below] (a) at (0,0) [center,below]{$t_i$};
+%		\node[below] (b) at (2,0) [center,below]{$t_{i+1}$};
+%		\node[below] (b) at (4,0) [center,below]{$t_{i+2}$};
+%		\draw [dotted , thick , black,right](6,-0.3) -- (8,-0.3);
+%		\node[below] (b) at (10,0) [center,below]{$t_{n}$};
+%		\tzfn[->,col1,ultra thick]{3.5*exp(-1.3*\x)}[0.1:1.5]{}[al]		
+%	\end{tikzpicture}
+	
+	\begin{tikzpicture}
+		
+		\k=0;
+	
+		\draw (0,0) node[rectangle,  thin,left color=col2, right color=white!,shading angle=180,anchor=south west ,anchor=south west, minimum height=3cm,minimum width=1.1 cm,opacity=1] () {};
+		\draw (1.1,0) node[rectangle,  thin,left color=col2, right color=white!,shading angle=180,anchor=south west ,anchor=south west, minimum height=3cm,minimum width=1.2 cm,opacity=0.9] () {};
+		\node[below] (a) at (0,0) [center,below]{$t_i$};
+		\node[below] (b) at (1.1,0) [center,below]{$t_{i}+t_i^*$};
+%		\node[below] (b) at (2,0) [center,below]{$t_{i+2}$};
+		\draw [dotted , thick , black,right](3.3,-0.3) -- (5,-0.3);
+
+		\tzfn[->,col1,ultra thick]{3.5*exp(ln(.1/3.5)*\x)}[0.:1.1]{}[ar]
+		\tzfn[->,col1,ultra thick]{3.5*exp(ln(.1/3.5)/1.1*(\x-1.1))}[1.1:2.3]{}[ar]		
+%		
+		\draw (6,0) node[rectangle,  thin,left color=col2, right color=white!,shading angle=180,anchor=south west ,anchor=south west, minimum height=3cm,minimum width=2cm,opacity=0.5] () {};
+		\draw (8,0) node[rectangle,  thin,left color=col2, right color=white!,shading angle=180,anchor=south west ,anchor=south west, minimum height=3cm,minimum width=4cm,opacity=0.3] () {};
+		\node[below] (a) at (6,0) [center,below]{$t_i$};
+ 		\node[below] (b) at (8,0) [center,below]{$t_{i}+t_i^*$};
+
+		\tzfn[->,col1,ultra thick]{3.5*exp(ln(.1/3.5)/2*(\x-6))}[6:8]{}[ar]
+		\tzfn[->,col1,ultra thick]{3.5*exp(ln(.1/3.5)/4*(\x-8))}[8:12]{}[ar]
+		\node[above,left] at (0,3) {b)};	
+		
+		\node (time) at (13,0)  [right]{$t$};
+		\draw [->,very thick,black](0,0) -- (13,0);
+		\foreach \i in {0,1.1,2.3}
+		{\filldraw (\i,0) circle [circle,black,fill=black,align=center,radius=0.05cm] ; 
+		};
+		\foreach \i in {6,8,12}
+		{			\filldraw (\i,0) circle [circle,black,fill=black,align=center,radius=0.05cm] ; 
+		}
+	\end{tikzpicture}
+	\caption{Scheme for the definition of slow sweeping. We consider a slow sweeping if the relaxation time does not change significantly after one relaxation time $t^*$}.
+	\label{fig: velocity_param3}
+\end{figure}
+
+

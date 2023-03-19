@@ -1,0 +1,4780 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.10)  5 OCT 2022 02:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./EWS_adiabatic.tex
+(EWS_adiabatic.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04>
+! Undefined control sequence.
+l.1 \section
+            {Defining an adiabatic sweeping}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{D
+              efining an adiabatic sweeping}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 i
+     f $c_\lambda\neq 0 \quad \forall t$ then the $\lambda(t)$ is monotonic ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[]
+ []
+
+
+Overfull \hbox (20.12614pt too wide) in paragraph at lines 4--5
+\OML/cmm/m/it/10 c[] \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (14.1667pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/10 0 \OMS/cmsy/m/n/10 8\OML/cmm/m/it/10 t$
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 4--5
+\OML/cmm/m/it/10 ^^U\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{equation}
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--6
+[] 
+ []
+
+
+Overfull \hbox (72.43819pt too wide) detected at line 8
+\OML/cmm/m/it/10 t \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 t[] \OT1/cmr/m/n/10 = 
+[][] []
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 S
+      o we can write the variance as
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--11
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \begin{equation}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--12
+[] 
+ []
+
+
+Overfull \hbox (199.49678pt too wide) detected at line 15
+\OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ] = [](1
+ \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 )[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 W
+      hich makes explicit the dependence of the variance on the swiping spee...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
+[]
+ []
+
+
+Overfull \hbox (5.83336pt too wide) in paragraph at lines 19--20
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 W
+      e call the eq\eqref{eq: ST_variancelim} the equilibrium variance. With...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+! Undefined control sequence.
+l.21 We call the eq\eqref
+                         {eq: ST_variancelim} the equilibrium variance. With...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 We call the eq\eqref{eq: ST_
+                                 variancelim} the equilibrium variance. With...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.21 We call the eq\eqref{eq: ST_variancelim}
+                                              the equilibrium variance. With...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
+[]
+ []
+
+
+Overfull \hbox (896.6165pt too wide) in paragraph at lines 21--22
+[]\OML/cmm/m/it/10 ariancelimtheequilibriumvariance:Withthiswecanhaveafirstdefi
+nitionofparametermovingadiabatically; whichisfortherealizationensemblestatistic
+stofollowthedependenceoftheequilibriumvariance:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 F
+      rom eq.\eqref{eq: ST_variance_swip} we can see that this happens when
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.23 From eq.\eqref
+                   {eq: ST_variance_swip} we can see that this happens when
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.23 From eq.\eqref{eq: ST_
+                           variance_swip} we can see that this happens when
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.23 From eq.\eqref{eq: ST_variance_swip}
+                                          we can see that this happens when
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
+[]
+ []
+
+
+Overfull \hbox (196.5025pt too wide) in paragraph at lines 23--24
+[]\OML/cmm/m/it/10 ariance[]wipwecanseethatthishappenswhen$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \begin{equation}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--25
+[] 
+ []
+
+
+Overfull \hbox (96.86864pt too wide) detected at line 28
+\OML/cmm/m/it/10 e[] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 0[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 S
+      ince all this development assumes there is an equilibrium $x^*$, if th...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--32
+[]
+ []
+
+
+Overfull \hbox (10.3125pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 x[]$
+ []
+
+
+Overfull \hbox (9.9071pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 ^^U[]$
+ []
+
+
+Overfull \hbox (21.57295pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 ^^U[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (9.9071pt too wide) in paragraph at lines 31--32
+\OML/cmm/m/it/10 ^^U[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 A
+      t the bifurcation, if the eigenvalues of the Jacobian matrix are real,...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+<argument> the equilibrium variance \eqref 
+                                           {eq: ST_variancelim} diverges at ...
+l.33 ...rge but even vanish at the bifurcation.  }
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.33 ...rge but even vanish at the bifurcation.  }
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<argument> ...variance \eqref {eq: ST_variancelim}
+                                                   diverges at $\lambda _c$,...
+l.33 ...rge but even vanish at the bifurcation.  }
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.33 ...rge but even vanish at the bifurcation.  }
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
+[]
+ []
+
+
+Overfull \hbox (53.78899pt too wide) in paragraph at lines 33--34
+\OML/cmm/m/it/10 M\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; ^^U[]\OT1/cmr/m/n/10 )
+ =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 0$
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (24.75682pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 equi-
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 lib-
+ []
+
+
+Overfull \hbox (23.90266pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 rium
+ []
+
+
+Overfull \hbox (22.78459pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 vari-
+ []
+
+
+Overfull \hbox (22.36098pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 ance
+ []
+
+
+Overfull \hbox (14.53465pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 eq:
+ []
+
+
+Overfull \hbox (128.11069pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 ST$[]\OML/cmm/m/it/10 ariancelimdivergesat$$^^U[]$\OT1/cmr/bx/
+n/10 ,
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 but
+ []
+
+
+Overfull \hbox (24.91653pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 look-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 at
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 out
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (24.75682pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 equi-
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 lib-
+ []
+
+
+Overfull \hbox (23.90266pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 rium
+ []
+
+
+Overfull \hbox (18.0485pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 fac-
+ []
+
+
+Overfull \hbox (18.1527pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 tor,
+ []
+
+
+Overfull \hbox (7.66663pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 it
+ []
+
+
+Overfull \hbox (21.62627pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 goes
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (8.19444pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 0$\OT1/cmr/bx/n/10 ,
+ []
+
+
+Overfull \hbox (10.28604pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 so
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (22.78459pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 vari-
+ []
+
+
+Overfull \hbox (22.36098pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 ance
+ []
+
+
+Overfull \hbox (29.06929pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 might
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 not
+ []
+
+
+Overfull \hbox (21.40266pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 only
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 not
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 di-
+ []
+
+
+Overfull \hbox (26.77766pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 verge
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 but
+ []
+
+
+Overfull \hbox (22.68045pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 even
+ []
+
+
+Overfull \hbox (21.24292pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 van-
+ []
+
+
+Overfull \hbox (14.11935pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 ish
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 at
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (18.47214pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 fur-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 tion.
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \begin{equation}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 36--36
+[] 
+ []
+
+
+Overfull \hbox (253.05357pt too wide) detected at line 39
+[] \OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ] = [
+](1 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 ) = [][]
+ []
+
+! Undefined control sequence.
+l.42 \subsubsection
+                   {example}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \subsubsection{e
+                     xample}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (61.36783pt too wide) in paragraph at lines 42--44
+[]\OT1/cmr/bx/n/10 example
+ []
+
+
+Overfull \hbox (16.20131pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 We
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 can
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 con-
+ []
+
+
+Overfull \hbox (24.12627pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 sider
+ []
+
+
+Overfull \hbox (17.40964pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 one
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (21.1471pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 sim-
+ []
+
+
+Overfull \hbox (23.86237pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 plest
+ []
+
+
+Overfull \hbox (25.04427pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 cases
+ []
+
+
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (16.29158pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 dy-
+ []
+
+
+Overfull \hbox (25.39568pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 nam-
+ []
+
+
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 i-
+ []
+
+
+Overfull \hbox (13.89574pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 cal
+ []
+
+
+Overfull \hbox (18.97487pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 sys-
+ []
+
+
+Overfull \hbox (19.3263pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 tem 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \begin{equation}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 45--45
+[] 
+ []
+
+
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 	\begin{aligned}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.47 		d x&
+           =\lambda x\,dt+\sigma\, dW,\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.48 		d \la
+             &= c_\lambda\, dt > 0.\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.48 		d \la &
+              = c_\lambda\, dt > 0.\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \la 
+                    
+l.49 		\la
+          _0 < 0.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{equation} on input line 45 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 	\end{aligned}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (165.91737pt too wide) detected at line 51
+\OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^Ux dt \OT1/cmr/m/n/10 
++ \OML/cmm/m/it/10 ^^[ dW; [] d \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 c[] dt > \OT
+1/cmr/m/n/10 0\OML/cmm/m/it/10 :[] [] < \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 I
+      n this case there is only one stable equilibrium, $x^*=0 \forall \la <...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.53 ...one stable equilibrium, $x^*=0 \forall \la
+                                                   <0 $, and all other quant...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.53 ...uantities are trivial to calculate, $M=\la
+                                                  $.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (30.74994pt too wide) in paragraph at lines 53--56
+[]\OT1/cmr/bx/n/10 In
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 this
+ []
+
+
+Overfull \hbox (20.5082pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 case
+ []
+
+
+Overfull \hbox (26.13878pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 there
+ []
+
+
+Overfull \hbox (7.7305pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 is
+ []
+
+
+Overfull \hbox (21.40266pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 only
+ []
+
+
+Overfull \hbox (17.40964pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 one
+ []
+
+
+Overfull \hbox (18.43181pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 sta-
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ble
+ []
+
+
+Overfull \hbox (24.75682pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 equi-
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 lib-
+ []
+
+
+Overfull \hbox (27.09709pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 rium,
+ []
+
+
+Overfull \hbox (20.86801pt too wide) in paragraph at lines 53--56
+\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (21.1111pt too wide) in paragraph at lines 53--56
+\OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 8 \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (8.19444pt too wide) in paragraph at lines 53--56
+\OT1/cmr/m/n/10 0$\OT1/cmr/bx/n/10 ,
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 all
+ []
+
+
+Overfull \hbox (26.61794pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 other
+ []
+
+
+Overfull \hbox (28.27066pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 quan-
+ []
+
+
+Overfull \hbox (11.49994pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ti-
+ []
+
+
+Overfull \hbox (17.47351pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ties
+ []
+
+
+Overfull \hbox (15.59714pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (22.30545pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 triv-
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ial
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (17.72905pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 cal-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 cu-
+ []
+
+
+Overfull \hbox (21.72209pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 late,
+ []
+
+
+Overfull \hbox (24.5416pt too wide) in paragraph at lines 53--56
+\OML/cmm/m/it/10 M \OT1/cmr/m/n/10 =$\OT1/cmr/bx/n/10 .
+ []
+
+
+Overfull \hbox (10.74994pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 In
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 this
+ []
+
+
+Overfull \hbox (20.5082pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 case
+ []
+
+
+Overfull \hbox (23.86237pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 close
+ []
+
+
+Overfull \hbox (29.49289pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 track-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (7.7305pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 is
+ []
+
+
+Overfull \hbox (22.30545pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 triv-
+ []
+
+
+Overfull \hbox (21.24292pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ially
+ []
+
+
+Overfull \hbox (18.43181pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 sat-
+ []
+
+
+Overfull \hbox (11.56381pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 is-
+ []
+
+
+Overfull \hbox (18.04852pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 fied
+ []
+
+
+Overfull \hbox (24.50125pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 since
+ []
+
+
+Overfull \hbox (25.8337pt too wide) in paragraph at lines 53--56
+[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (8.19444pt too wide) in paragraph at lines 53--56
+\OT1/cmr/m/n/10 0$\OT1/cmr/bx/n/10 .
+ []
+
+
+Overfull \hbox (15.17354pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ex-
+ []
+
+
+Overfull \hbox (19.00682pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 am-
+ []
+
+
+Overfull \hbox (18.04852pt too wide) in paragraph at lines 53--56
+\OT1/cmr/bx/n/10 ple: 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \begin{equation}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/gomel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+! Undefined control sequence.
+<write> ...bel{eq: ST_variance_swip}{{2}{\thepage 
+                                                  }}
+l.56 \begin{equation}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq: ST_variance_swip}{{2}{}}
+! Undefined control sequence.
+<write> ...q: ST_adabatic_condition}{{3}{\thepage 
+                                                  }}
+l.56 \begin{equation}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq: ST_adabatic_condition}{{3}{}}
+! Undefined control sequence.
+<write> \newlabel{eq: ST_lamblim}{{4}{\thepage 
+                                               }}
+l.56 \begin{equation}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq: ST_lamblim}{{4}{}}
+]
+
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 	\begin{aligned}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.58 		dx&
+          =-\lambda xdt + \sigma dW,\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.59 		\dot \lambda&
+                    = c_\lambda <0,\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.60 		\lambda_0 &
+                  > 0.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{equation} on input line 56 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 	\end{aligned}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (168.0078pt too wide) detected at line 62
+\OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 ^^Ux
+dt \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^[dW; [] [] \OT1/cmr/m/n/10 = \OML/cmm/m
+/it/10 c[] < \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; [] ^^U[] > \OT1/cmr/m/n/10 0\O
+ML/cmm/m/it/10 :
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 $
+      \lambda=c_\lambda t+\lambda_0$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (36.38887pt too wide) in paragraph at lines 65--66
+[]$\OML/cmm/m/it/10 ^^U \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (20.95955pt too wide) in paragraph at lines 65--66
+\OML/cmm/m/it/10 c[]t \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (10.31949pt too wide) in paragraph at lines 65--66
+\OML/cmm/m/it/10 ^^U[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 t
+      hen $M=-\lambda$, $\int_{\lambda_0}^{\lambda(t)} \frac{d\lambda}{\dot ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (42.52072pt too wide) in paragraph at lines 67--68
+[]\OT1/cmr/bx/n/10 then
+ []
+
+
+Overfull \hbox (21.34717pt too wide) in paragraph at lines 67--68
+\OML/cmm/m/it/10 M \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (16.80559pt too wide) in paragraph at lines 67--68
+\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 ^^U$\OT1/cmr/bx/n/10 ,
+ []
+
+
+Overfull \hbox (44.7087pt too wide) in paragraph at lines 67--68
+[][] [] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (10.67517pt too wide) in paragraph at lines 67--68
+[]$
+ []
+
+
+Overfull \hbox (10.28604pt too wide) in paragraph at lines 67--68
+\OT1/cmr/bx/n/10 so 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \begin{equation}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--69
+[] 
+ []
+
+
+Overfull \hbox (328.67311pt too wide) detected at line 72
+[] \OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ] = [
+](1 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 ) = [](2[] \OMS/cm
+sy/m/n/10 ^^@ [] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ::\
+OT1/cmr/m/n/10 ) = 0[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 A
+      nother way to look at this result is that there is no 'moving slow' ne...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\citation{slow is too fast}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.75 ... some bifurcations \cite{slow is too fast}
+                                                  . In this case, for a para...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `slow is too fast' on page  undefined on input line 75.
+
+
+\citation{Ashwin}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.75 ...tipping theory\cite{Ashwin, the other one}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Ashwin' on page  undefined on input line 75.
+
+\citation{the other one}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.75 ...tipping theory\cite{Ashwin, the other one}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `the other one' on page  undefined on input line 75.
+
+
+Overfull \hbox (61.70119pt too wide) in paragraph at lines 75--76
+[]\OT1/cmr/bx/n/10 Another
+ []
+
+
+Overfull \hbox (19.32626pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 way
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 look
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 at
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 this
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 sult
+ []
+
+
+Overfull \hbox (7.7305pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 is
+ []
+
+
+Overfull \hbox (20.92348pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 that
+ []
+
+
+Overfull \hbox (26.13878pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 there
+ []
+
+
+Overfull \hbox (7.7305pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 is
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 no
+ []
+
+
+Overfull \hbox (28.11096pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 'mov-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (24.66096pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 slow'
+ []
+
+
+Overfull \hbox (21.986pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 near
+ []
+
+
+Overfull \hbox (25.14014pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 some
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (18.47214pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 fur-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (15.01381pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 [[]].
+ []
+
+
+Overfull \hbox (10.74994pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 In
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 this
+ []
+
+
+Overfull \hbox (23.70262pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 case,
+ []
+
+
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 pa-
+ []
+
+
+Overfull \hbox (23.74292pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ram-
+ []
+
+
+Overfull \hbox (9.10413pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 e-
+ []
+
+
+Overfull \hbox (14.47911pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ter
+ []
+
+
+Overfull \hbox (22.361pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 with
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 con-
+ []
+
+
+Overfull \hbox (25.1401pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 stant
+ []
+
+
+Overfull \hbox (28.17485pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 speed
+ []
+
+
+Overfull \hbox (18.51503pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ($\OML/cmm/m/it/10 c[]$\OT1/cmr/bx/n/10 )
+ []
+
+
+Overfull \hbox (26.13878pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 there
+ []
+
+
+Overfull \hbox (7.7305pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 is
+ []
+
+
+Overfull \hbox (12.61797pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 al-
+ []
+
+
+Overfull \hbox (23.86234pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ways
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 an
+ []
+
+
+Overfull \hbox (24.11794pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 open
+ []
+
+
+Overfull \hbox (14.27908pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 set
+ []
+
+
+Overfull \hbox (20.92348pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 that
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 con-
+ []
+
+
+Overfull \hbox (24.18178pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 tains
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (18.43181pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 sta-
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ble
+ []
+
+
+Overfull \hbox (37.47896pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 branch,
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (35.24286pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 around
+ []
+
+
+Overfull \hbox (24.75682pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 equi-
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 lib-
+ []
+
+
+Overfull \hbox (23.90266pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 rium
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (23.12762pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 sults
+ []
+
+
+Overfull \hbox (15.59714pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 no
+ []
+
+
+Overfull \hbox (31.09013pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 longer
+ []
+
+
+Overfull \hbox (26.99289pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 valid.
+ []
+
+
+Overfull \hbox (16.20131pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 We
+ []
+
+
+Overfull \hbox (15.59714pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 go-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (25.71515pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 come
+ []
+
+
+Overfull \hbox (22.84013pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 back
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 this
+ []
+
+
+Overfull \hbox (20.44432pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 idea
+ []
+
+
+Overfull \hbox (12.93741pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 af-
+ []
+
+
+Overfull \hbox (14.47911pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 ter
+ []
+
+
+Overfull \hbox (13.25688pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 we
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 call
+ []
+
+
+Overfull \hbox (25.14014pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 some
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (23.12762pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 sults
+ []
+
+
+Overfull \hbox (23.58322pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 from
+ []
+
+
+Overfull \hbox (12.45827pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 R-
+ []
+
+
+Overfull \hbox (35.77759pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 tipping
+ []
+
+
+Overfull \hbox (44.50673pt too wide) in paragraph at lines 75--76
+\OT1/cmr/bx/n/10 theory[[],
+ []
+
+
+Overfull \hbox (11.81938pt too wide) in paragraph at lines 75--76
+[]\OT1/cmr/bx/n/10 ]. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 H
+      owever this does give us a possible definition of adiabatic shift for ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (63.44424pt too wide) in paragraph at lines 77--78
+[]\OT1/cmr/bx/n/10 However
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 this
+ []
+
+
+Overfull \hbox (22.26515pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 does
+ []
+
+
+Overfull \hbox (19.96518pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 give
+ []
+
+
+Overfull \hbox (10.92493pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 us
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (20.82765pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 pos-
+ []
+
+
+Overfull \hbox (11.56381pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 si-
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 ble
+ []
+
+
+Overfull \hbox (19.00685pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 def-
+ []
+
+
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 i-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 ni-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (19.00682pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 adi-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (24.75679pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 batic
+ []
+
+
+Overfull \hbox (22.10542pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 shift
+ []
+
+
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (25.14014pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 some
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 gion
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 pa-
+ []
+
+
+Overfull \hbox (23.74292pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 ram-
+ []
+
+
+Overfull \hbox (9.10413pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 e-
+ []
+
+
+Overfull \hbox (19.01518pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 ters
+ []
+
+
+Overfull \hbox (20.92348pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 that
+ []
+
+
+Overfull \hbox (17.8888pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 will
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (24.75682pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 pend
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (26.25818pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 swip-
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 77--78
+\OT1/cmr/bx/n/10 ing. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 W
+      e will define an adiabatic sweep as one where
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (36.20131pt too wide) in paragraph at lines 79--80
+[]\OT1/cmr/bx/n/10 We
+ []
+
+
+Overfull \hbox (17.8888pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 will
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (18.04852pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 fine
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 an
+ []
+
+
+Overfull \hbox (19.00682pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 adi-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (24.75679pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 batic
+ []
+
+
+Overfull \hbox (29.45262pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 sweep
+ []
+
+
+Overfull \hbox (10.1263pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 as
+ []
+
+
+Overfull \hbox (17.40964pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 one
+ []
+
+
+Overfull \hbox (29.97209pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/10 where 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \begin{equation}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 81--81
+[] 
+ []
+
+
+Overfull \hbox (96.86864pt too wide) detected at line 83
+\OML/cmm/m/it/10 e[] < \OT1/cmr/m/n/10 1
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 f
+      or which we ask
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (33.99994pt too wide) in paragraph at lines 85--86
+[]\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (29.06929pt too wide) in paragraph at lines 85--86
+\OT1/cmr/bx/n/10 which
+ []
+
+
+Overfull \hbox (13.25688pt too wide) in paragraph at lines 85--86
+\OT1/cmr/bx/n/10 we
+ []
+
+
+Overfull \hbox (16.19571pt too wide) in paragraph at lines 85--86
+\OT1/cmr/bx/n/10 ask 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 \begin{equation}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 87--87
+[] 
+ []
+
+
+Overfull \hbox (111.55621pt too wide) detected at line 89
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 M\OT1/cmr/m/n/10 (\OML/cm
+m/m/it/10 x[]; ^^U\OT1/cmr/m/n/10 ) [][] [] \OML/cmm/m/it/10 < \OT1/cmr/m/n/10 
+1
+ []
+
+! Undefined control sequence.
+l.90 \textcolor
+               {red}{Am i missing some absolute value }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.91 \textcolor
+               {red}{i have not look into detail at the deduction for the va...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (34.67345pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 redAm
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 i
+ []
+
+
+Overfull \hbox (25.68317pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 miss-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (25.14014pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 some
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 ab-
+ []
+
+
+Overfull \hbox (14.11935pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 so-
+ []
+
+
+Overfull \hbox (19.3263pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 lute
+ []
+
+
+Overfull \hbox (25.87485pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 value
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 redi
+ []
+
+
+Overfull \hbox (22.68042pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 have
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 not
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 look
+ []
+
+
+Overfull \hbox (19.48601pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 into
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (16.45128pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 tail
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 at
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 duc-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (22.78459pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 vari-
+ []
+
+
+Overfull \hbox (25.5554pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 ance,
+ []
+
+
+Overfull \hbox (10.28604pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 so
+ []
+
+
+Overfull \hbox (26.13878pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 there
+ []
+
+
+Overfull \hbox (29.06929pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 might
+ []
+
+
+Overfull \hbox (11.97911pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 be
+ []
+
+
+Overfull \hbox (28.97345pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 some-
+ []
+
+
+Overfull \hbox (26.1943pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 thing
+ []
+
+
+Overfull \hbox (30.9304pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 wrong
+ []
+
+
+Overfull \hbox (29.3332pt too wide) in paragraph at lines 89--92
+\OT1/cmr/bx/n/10 there.
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 r
+      ewritten as
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (66.84702pt too wide) in paragraph at lines 93--94
+[]\OT1/cmr/bx/n/10 rewritten
+ []
+
+
+Overfull \hbox (10.1263pt too wide) in paragraph at lines 93--94
+\OT1/cmr/bx/n/10 as 
+ []
+
+
+Overfull \hbox (144.84229pt too wide) detected at line 96
+[][] [] \OML/cmm/m/it/10 < \OMS/cmsy/m/n/10 ^^@[] \OT1/cmr/m/n/10 = []
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 T
+      herefor the adiabatic swiping happens when a timescale of the swiping ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (63.66647pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/bx/n/10 Therefor
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (19.00682pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 adi-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (24.75679pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 batic
+ []
+
+
+Overfull \hbox (26.25818pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 swip-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (22.20125pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 hap-
+ []
+
+
+Overfull \hbox (22.90404pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 pens
+ []
+
+
+Overfull \hbox (26.35403pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 when
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (46.22334pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 timescale
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (26.25818pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 swip-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (37.40636pt too wide) in paragraph at lines 98--99
+[][] \OML/cmm/m/it/10 d^^U=[]$
+ []
+
+
+Overfull \hbox (7.7305pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 is
+ []
+
+
+Overfull \hbox (36.10535pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 smaller
+ []
+
+
+Overfull \hbox (22.84013pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 than
+ []
+
+
+Overfull \hbox (18.68738pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 half
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (18.68738pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 lax-
+ []
+
+
+Overfull \hbox (25.39568pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 ation
+ []
+
+
+Overfull \hbox (25.71515pt too wide) in paragraph at lines 98--99
+\OT1/cmr/bx/n/10 time. 
+ []
+
+! Undefined control sequence.
+l.102 \subsection
+                 {EWS performance}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \subsection{E
+                   WS performance}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (45.83319pt too wide) in paragraph at lines 102--103
+[]\OT1/cmr/bx/n/10 EWS
+ []
+
+
+Overfull \hbox (20.54852pt too wide) in paragraph at lines 102--103
+\OT1/cmr/bx/n/10 per-
+ []
+
+
+Overfull \hbox (17.83325pt too wide) in paragraph at lines 102--103
+\OT1/cmr/bx/n/10 for-
+ []
+
+
+Overfull \hbox (31.94426pt too wide) in paragraph at lines 102--103
+\OT1/cmr/bx/n/10 mance 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 T
+       here are several things that can affect the performance of an early w...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (49.66653pt too wide) in paragraph at lines 104--105
+[]\OT1/cmr/bx/n/10 There
+ []
+
+
+Overfull \hbox (15.59714pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (19.70961pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 sev-
+ []
+
+
+Overfull \hbox (18.79156pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 eral
+ []
+
+
+Overfull \hbox (30.73038pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 things
+ []
+
+
+Overfull \hbox (20.92348pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 that
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 can
+ []
+
+
+Overfull \hbox (12.93741pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 af-
+ []
+
+
+Overfull \hbox (18.36797pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 fect
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (20.54852pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 per-
+ []
+
+
+Overfull \hbox (17.83325pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 for-
+ []
+
+
+Overfull \hbox (31.94426pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 mance
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 an
+ []
+
+
+Overfull \hbox (24.86098pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 early
+ []
+
+
+Overfull \hbox (28.53456pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 warn-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (17.31378pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 sig-
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 nal.
+ []
+
+
+Overfull \hbox (19.22212pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 Not
+ []
+
+
+Overfull \hbox (21.40266pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 only
+ []
+
+
+Overfull \hbox (26.13878pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 there
+ []
+
+
+Overfull \hbox (15.59714pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 con-
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 sid-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 in-
+ []
+
+
+Overfull \hbox (20.22908pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 her-
+ []
+
+
+Overfull \hbox (15.81242pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ent
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (16.29158pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 dy-
+ []
+
+
+Overfull \hbox (25.39568pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 nam-
+ []
+
+
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 i-
+ []
+
+
+Overfull \hbox (13.89574pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 cal
+ []
+
+
+Overfull \hbox (18.97487pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 sys-
+ []
+
+
+Overfull \hbox (22.52072pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 tem,
+ []
+
+
+Overfull \hbox (17.40964pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 like
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (22.20128pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 type
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (18.47214pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 fur-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 tion,
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (31.7929pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 source
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (28.33456pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 noise,
+ []
+
+
+Overfull \hbox (10.48607pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 or
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (28.17485pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 speed
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (18.47214pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 fur-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 pa-
+ []
+
+
+Overfull \hbox (23.74292pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ram-
+ []
+
+
+Overfull \hbox (9.10413pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 e-
+ []
+
+
+Overfull \hbox (17.67354pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ter;
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 but
+ []
+
+
+Overfull \hbox (26.13878pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 there
+ []
+
+
+Overfull \hbox (15.59714pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (19.0707pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 also
+ []
+
+
+Overfull \hbox (22.0415pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 data
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ac-
+ []
+
+
+Overfull \hbox (19.48601pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 qui-
+ []
+
+
+Overfull \hbox (11.56381pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 si-
+ []
+
+
+Overfull \hbox (58.84132pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 tion(sample
+ []
+
+
+Overfull \hbox (17.3541pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 fre-
+ []
+
+
+Overfull \hbox (37.53453pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 quency,
+ []
+
+
+Overfull \hbox (23.5429pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 sam-
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ple
+ []
+
+
+Overfull \hbox (25.45955pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 spac-
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ing,
+ []
+
+
+Overfull \hbox (26.5137pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 avail-
+ []
+
+
+Overfull \hbox (20.44432pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 able
+ []
+
+
+Overfull \hbox (22.78459pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 vari-
+ []
+
+
+Overfull \hbox (29.45259pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ables)
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (22.0415pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 data
+ []
+
+
+Overfull \hbox (28.37485pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 treat-
+ []
+
+
+Overfull \hbox (52.06918pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ment(type
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (31.09013pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 trend-
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ing,
+ []
+
+
+Overfull \hbox (31.14568pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 lenght
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (22.20128pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 type
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 win-
+ []
+
+
+Overfull \hbox (20.1249pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 dow
+ []
+
+
+Overfull \hbox (12.29855pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ei-
+ []
+
+
+Overfull \hbox (20.86797pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ther
+ []
+
+
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (31.09013pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 trend-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (24.59705pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 anal-
+ []
+
+
+Overfull \hbox (9.90273pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 y-
+ []
+
+
+Overfull \hbox (16.73877pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 sis)
+ []
+
+
+Overfull \hbox (24.27765pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 com-
+ []
+
+
+Overfull \hbox (24.75682pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 plex-
+ []
+
+
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 i-
+ []
+
+
+Overfull \hbox (17.47351pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ties
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (21.0832pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 take
+ []
+
+
+Overfull \hbox (19.48601pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 into
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 ac-
+ []
+
+
+Overfull \hbox (30.98595pt too wide) in paragraph at lines 104--105
+\OT1/cmr/bx/n/10 count. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 \begin{itemize}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 106--106
+[] 
+ []
+
+
+Overfull \hbox (26.04848pt too wide) in paragraph at lines 107--108
+\OT1/cmr/bx/n/10 Time
+ []
+
+
+Overfull \hbox (13.6402pt too wide) in paragraph at lines 107--108
+\OT1/cmr/bx/n/10 se-
+ []
+
+
+Overfull \hbox (17.73741pt too wide) in paragraph at lines 107--108
+\OT1/cmr/bx/n/10 ries
+ []
+
+
+Overfull \hbox (20.54852pt too wide) in paragraph at lines 107--108
+\OT1/cmr/bx/n/10 per-
+ []
+
+
+Overfull \hbox (17.83325pt too wide) in paragraph at lines 107--108
+\OT1/cmr/bx/n/10 for-
+ []
+
+
+Overfull \hbox (31.94426pt too wide) in paragraph at lines 107--108
+\OT1/cmr/bx/n/10 mance 
+ []
+
+
+Overfull \hbox (56.68028pt too wide) in paragraph at lines 109--110
+\OT1/cmr/bx/n/10 Detrending 
+ []
+
+\citation{}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.111 			\item Window size\cite{}
+                                 : In any detrending, the choice of window s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `' on page  undefined on input line 111.
+
+
+Overfull \hbox (41.597pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 Window
+ []
+
+
+Overfull \hbox (33.1262pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 size[[]]:
+ []
+
+
+Overfull \hbox (10.74994pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 In
+ []
+
+
+Overfull \hbox (17.72905pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 any
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (31.09013pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 trend-
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ing,
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (30.50679pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 choice
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 win-
+ []
+
+
+Overfull \hbox (20.1249pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 dow
+ []
+
+
+Overfull \hbox (18.1124pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 size
+ []
+
+
+Overfull \hbox (12.93741pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 af-
+ []
+
+
+Overfull \hbox (22.90404pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 fects
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (22.42487pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 sult-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (38.91649pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 trended
+ []
+
+
+Overfull \hbox (14.11935pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 so-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 lu-
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 tion.
+ []
+
+
+Overfull \hbox (17.92352pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 De-
+ []
+
+
+Overfull \hbox (42.59007pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 trending
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (26.09843pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 small
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 win-
+ []
+
+
+Overfull \hbox (20.1249pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 dow
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 can
+ []
+
+
+Overfull \hbox (20.44432pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 lead
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (26.51376pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 keep-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (31.72902pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 higher
+ []
+
+
+Overfull \hbox (25.34016pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 more
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 fluc-
+ []
+
+
+Overfull \hbox (14.69437pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 tu-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (22.84013pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 than
+ []
+
+
+Overfull \hbox (38.972pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 wanted,
+ []
+
+
+Overfull \hbox (16.29158pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 too
+ []
+
+
+Overfull \hbox (24.54153pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 large
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 win-
+ []
+
+
+Overfull \hbox (20.1249pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 dow
+ []
+
+
+Overfull \hbox (28.74985pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 (com-
+ []
+
+
+Overfull \hbox (28.37485pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 pared
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (34.18036pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 change
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (18.47214pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 fur-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 pa-
+ []
+
+
+Overfull \hbox (23.74292pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ram-
+ []
+
+
+Overfull \hbox (9.10413pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 e-
+ []
+
+
+Overfull \hbox (18.95131pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ter)
+ []
+
+
+Overfull \hbox (31.36925pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 means
+ []
+
+
+Overfull \hbox (26.51376pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 keep-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (19.93318pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 ases
+ []
+
+
+Overfull \hbox (31.7929pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 trends
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 an-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (26.03459pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 lyzed
+ []
+
+
+Overfull \hbox (25.23593pt too wide) in paragraph at lines 111--112
+\OT1/cmr/bx/n/10 data. 
+ []
+
+\citation{..}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.112 			\item Window kernel\cite{..}
+                                     : There are several types of detrending...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `..' on page  undefined on input line 112.
+
+\citation{Bury2020}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.112 ...the detrending or a Lowess\cite{Bury2020}
+                                                   fit\footnote{Implementati...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Bury2020' on page  undefined on input line 112.
+
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.112 ...n can be found in the package ewstools .}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.112 ...n can be found in the package ewstools .}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (72.8335pt too wide) in paragraph at lines 112--112
+[][]\OT1/cmr/m/n/10 Implementations
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 this
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (26.69449pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 trend-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 al-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 go-
+ []
+
+
+Overfull \hbox (28.41673pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 rithms
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (32.08344pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 Python
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 can
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 be
+ []
+
+
+Overfull \hbox (24.7223pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 found
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (23.33337pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 pack-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 age
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 ew-
+ []
+
+
+Overfull \hbox (24.83339pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 stools
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 112--112
+\OT1/cmr/m/n/10 .| 
+ []
+
+
+Overfull \hbox (41.597pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 Window
+ []
+
+
+Overfull \hbox (45.62479pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 kernel[[]]:
+ []
+
+
+Overfull \hbox (29.66653pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 There
+ []
+
+
+Overfull \hbox (15.59714pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (19.70961pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 sev-
+ []
+
+
+Overfull \hbox (18.79156pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 eral
+ []
+
+
+Overfull \hbox (26.73735pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 types
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (31.09013pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 trend-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (14.69437pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 lit-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (24.0624pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 ture.
+ []
+
+
+Overfull \hbox (26.34709pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 From
+ []
+
+
+Overfull \hbox (15.17351pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 av-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (16.61101pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 age
+ []
+
+
+Overfull \hbox (24.91653pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 mov-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 win-
+ []
+
+
+Overfull \hbox (23.31932pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 dow,
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (14.75824pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 us-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (26.09843pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 gaus-
+ []
+
+
+Overfull \hbox (19.70958pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 sian
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 ker-
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 nel
+ []
+
+
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 for
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (31.09013pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 trend-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (10.48607pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 or
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (46.49556pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 Lowess[[]]
+ []
+
+
+Overfull \hbox (18.54161pt too wide) in paragraph at lines 112--113
+\OT1/cmr/bx/n/10 fit[]. 
+ []
+
+\citation{}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.114 		\item Sample frequency\cite{}
+                                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `' on page  undefined on input line 114.
+
+
+Overfull \hbox (36.41646pt too wide) in paragraph at lines 114--115
+\OT1/cmr/bx/n/10 Sample
+ []
+
+
+Overfull \hbox (60.6386pt too wide) in paragraph at lines 114--115
+\OT1/cmr/bx/n/10 frequency[[]] 
+ []
+
+\citation{Kaur2022}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.115 		\item Noise correlation\cite{Kaur2022}
+                                              : It has been shown that color...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Kaur2022' on page  undefined on input line 115.
+
+
+Overfull \hbox (27.75124pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 Noise
+ []
+
+
+Overfull \hbox (69.20798pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 correlation[[]]:
+ []
+
+
+Overfull \hbox (8.83328pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 It
+ []
+
+
+Overfull \hbox (16.51515pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 has
+ []
+
+
+Overfull \hbox (23.63878pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 been
+ []
+
+
+Overfull \hbox (31.04982pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 shown
+ []
+
+
+Overfull \hbox (20.92348pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 that
+ []
+
+
+Overfull \hbox (17.8888pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 col-
+ []
+
+
+Overfull \hbox (22.14574pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 ored
+ []
+
+
+Overfull \hbox (25.14014pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 noise
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 can
+ []
+
+
+Overfull \hbox (22.68042pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 have
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 a
+ []
+
+
+Overfull \hbox (21.24295pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 neg-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (18.68741pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 tive
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 im-
+ []
+
+
+Overfull \hbox (21.56236pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 pact
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (25.14014pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 some
+ []
+
+
+Overfull \hbox (29.02762pt too wide) in paragraph at lines 115--116
+\OT1/cmr/bx/n/10 EWS. 
+ []
+
+
+Overfull \hbox (42.20389pt too wide) in paragraph at lines 116--117
+\OT1/cmr/bx/n/10 Analysis
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 116--117
+\OT1/cmr/bx/n/10 win-
+ []
+
+
+Overfull \hbox (23.31932pt too wide) in paragraph at lines 116--117
+\OT1/cmr/bx/n/10 dow: 
+ []
+
+\citation{Marcucci2019}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.117 ...cation parameter speed\cite{Marcucci2019}
+                                                  :		
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Marcucci2019' on page  undefined on input line 117.
+
+
+Overfull \hbox (56.52052pt too wide) in paragraph at lines 117--118
+\OT1/cmr/bx/n/10 Bifurcation
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 117--118
+\OT1/cmr/bx/n/10 pa-
+ []
+
+
+Overfull \hbox (23.74292pt too wide) in paragraph at lines 117--118
+\OT1/cmr/bx/n/10 ram-
+ []
+
+
+Overfull \hbox (9.10413pt too wide) in paragraph at lines 117--118
+\OT1/cmr/bx/n/10 e-
+ []
+
+
+Overfull \hbox (14.47911pt too wide) in paragraph at lines 117--118
+\OT1/cmr/bx/n/10 ter
+ []
+
+
+Overfull \hbox (43.18866pt too wide) in paragraph at lines 117--118
+\OT1/cmr/bx/n/10 speed[[]]: 
+ []
+
+! Undefined control sequence.
+l.121 	\subitem
+                Location density.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (34.81921pt too wide) in paragraph at lines 120--122
+\OT1/cmr/bx/n/10 Spatial
+ []
+
+
+Overfull \hbox (22.0415pt too wide) in paragraph at lines 120--122
+\OT1/cmr/bx/n/10 data
+ []
+
+
+Overfull \hbox (16.49991pt too wide) in paragraph at lines 120--122
+\OT1/cmr/bx/n/10 Lo-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 120--122
+\OT1/cmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 120--122
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (21.88184pt too wide) in paragraph at lines 120--122
+\OT1/cmr/bx/n/10 den-
+ []
+
+
+Overfull \hbox (20.18877pt too wide) in paragraph at lines 120--122
+\OT1/cmr/bx/n/10 sity. 
+ []
+
+! Undefined control sequence.
+l.123 	\subitem
+                Different types of bootstraping and it's efficiency and vali...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (59.90245pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 Uncertainty
+ []
+
+
+Overfull \hbox (13.6402pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 es-
+ []
+
+
+Overfull \hbox (11.49994pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ti-
+ []
+
+
+Overfull \hbox (19.00682pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ma-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (19.36101pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 Dif-
+ []
+
+
+Overfull \hbox (17.3541pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 fer-
+ []
+
+
+Overfull \hbox (15.81242pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ent
+ []
+
+
+Overfull \hbox (26.73735pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 types
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (26.83319pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 boot-
+ []
+
+
+Overfull \hbox (29.55676pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 strap-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (15.39713pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 it's
+ []
+
+
+Overfull \hbox (12.618pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ef-
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 fi-
+ []
+
+
+Overfull \hbox (31.14568pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ciency
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (14.85406pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 va-
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 lid-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ity
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (24.76515pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 pres-
+ []
+
+
+Overfull \hbox (22.04156pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 ence
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (22.0415pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 data
+ []
+
+
+Overfull \hbox (22.361pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 with
+ []
+
+
+Overfull \hbox (29.06927pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 heavy
+ []
+
+
+Overfull \hbox (24.18178pt too wide) in paragraph at lines 122--124
+\OT1/cmr/bx/n/10 tails. 
+ []
+
+)
+! Emergency stop.
+<*> ./EWS_adiabatic.tex
+                       
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 34 strings out of 478338
+ 613 string characters out of 2836700
+ 318758 words of memory out of 3000000
+ 18562 multiletter control sequences out of 15000+600000
+ 469567 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,6n,23p,526b,273s stack positions out of 10000i,1000n,20000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

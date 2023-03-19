@@ -1,0 +1,181 @@
+
+
+
+\chapter{Introduction}
+
+%\fancyhf[EHC]{Introduction}
+
+
+%\fancyhead[CE]{Introduction}
+
+One of the big challenges of studying and modeling dynamical systems is their nonlinear behavior. 
+As an example on how nonlinearities might arise, we can look at a simple pendulum like the one in \cref{fig:pendulum} where a mass is linked to a fixed pivot point, by a mass-less inextensible wire.
+It is a first year physics exercise  to show that, for a small perturbation, this pendulum will oscillate around its equilibrium point with a constant amplitude, since the motion depends on the length of the wire and the gravitational constant. 
+\begin{figure}[htb]
+	\centering
+	\begin{tikzpicture}[thick,>=latex]
+		
+		\begin{scope}
+			\coordinate (l) at (-3,-3);
+			\coordinate (m) at (0,-4.24);
+			\coordinate (r) at (3,-3);
+			\coordinate (o) at (0,0);
+			% left
+			\draw[double distance=1.6mm,color=black!10] (o) -- (l);
+			\draw[draw=black!10,fill=black!10]  (l) circle (.3cm) node [] (cl) {};
+%			(l) node[circle,fill=red!20] (cl) {third node}
+			%	\draw let \p1=(l) in (\x1,-5) node {left};
+
+			% middle
+			\draw[double distance=1.6mm,color=black!30] (o) -- (m);
+			\draw [draw=black!30,fill=black!30] (m)  circle (.3cm);
+		%	\node[draw=black!30,circle,fill=black!30,inner sep=0.3] (cm) at (m) {};
+%			    \draw (p2) circle (\radius) node [] {};
+			\draw[draw=black!30] let \p1=(m) in (\x1,-5) node {\textcolor{gray}{Equilibrium}};
+			
+			% right
+			\draw[double distance=1.6mm] (o) -- (r);
+			\draw[draw=black,fill=black] (r) circle (.3cm) node [] (cr) {};
+			%	\draw let \p1=(r) in (\x1,-5) node {right};
+			\draw[-latex,color=col3] (r) -- node[right]{\textcolor{col3}{$\vec{P}$}}++(0,-1);
+			\draw[-latex,color=col3] (r) -- node[above right]{\textcolor{col3}{$\vec{T}$}}(-45:3);
+			
+%			\draw[dashed,->] (cl.east) to [bend right=45] (cr.west);
+%			\draw[dashed,->,left color=black!10, right color=black,shading angle=90,anchor=east] (l.east) to [bend right=45] (r.west);	
+			\draw[dashed,->,anchor=east] (l) to [bend right=45] (r);
+			\coordinate (lest) at ($(m.east)!0.5!(o.east)$);
+			\draw[->,color=col2] (lest) to [bend right=22.5] ($(r.west)!0.5!(o.west)$);
+			\node at (1.3,-2.1) {\textcolor{col2}{$\theta$}};   
+			
+			\draw[fill=white] (-1.2,1.0) -- (-.5,0) arc(180:360:0.5) -- (1.2,1.0) -- cycle;
+			\draw[draw=black,fill=white] (o) circle (.3cm);
+			\draw[pattern=north east lines] (-1.4,1.3) rectangle (1.4,1);
+			
+		\end{scope}
+		
+	\end{tikzpicture}
+	\caption{Scheme of a simple pendulum where a mass oscillates around a stable equilibrium due to its own weight \textcolor{col3}{$\vec{P}$}, and a constraint force given by the tension \textcolor{col3}{$\vec{T}$}. The angle \textcolor{col2}{$\theta(t)$} measure the displacement from the equilibrium.}
+	\label{fig:pendulum}
+\end{figure}
+
+This simple result allowed Christian Huygens in 1656 to make the first pendulum clock, being able to measure time  accumulating an error of something less than a minute per day. 
+However, this periodicity stems from an approximation and if the oscillations are large enough, or we want to estimate the error we are accumulating, we would have to consider a more complex approximation or the full nonlinear expression of the restoring force. 
+
+
+If we want to go further and  describe the oscillation in a as precise as possible manner,  we  need to  consider that the wire is not an ideal object and will stretch and contract due to the changes in the tension of the pendulum, a model which can display chaotic behavior \citep{Cencini2009}. 
+Moreover, the system can be complicated by including the effect of friction on the pivot point, the air resistance, or the fact that, being at a given temperature, there are radiative losses due to its black body radiation.
+%If we want to know how long and this system can continue oscillating losses due to friction in the pivot point, and if we take it to the extreme we could describe the whole system at a given temperature and therefore will have losses due to its black body radiation.
+
+In general, the degree of complexity of our model will depend on the question we want to answer. Are we interested in making a time measuring device which is accurate at the scale of minutes and only needs maintenance at the scale of months or years?  Do we need a time keeping device that can work for decades? Do we need to resolve time scales smaller than a second? Can we put our device in any environment? What happens if we include some external forcing?
+
+
+% when there is no stable equilibrium but the systems stays bounded in phase space by a strange attractor,
+	
+%\begin{figure}
+%	\centering
+%	\includegraphics[width=0.5\linewidth]{Images/Introduction/backbone_curve.png}
+%	\caption{Resonance or backbone curve or a nonlinear system as shown in \citep{Londono2015}. }
+%	\label{fig:backbone}
+%\end{figure}
+
+
+
+Lots of problems are nonlinear because the level of description we want in our model requires them to be so.
+In general, the systems of interest in the real-world can be complex and be comprised of several interacting pieces making their study too hard to be understood from first principles (biological systems, complex networks, models of disease spread), inapplicable (finance, network dynamics), or not needed (social dynamics). 
+In these cases, nonlinear models are developed to capture the dynamics of such systems to some degree of accuracy. 
+
+
+%\begin{tikzpicture}[font=\footnotesize]
+%	
+%	% Support
+%	\fill (-1.5,0) rectangle(1.5,0.1);
+%	
+%	% Bob's trajectory
+%	\draw[dashed] (-60:4) arc(-60:-120:4);
+%	
+%	% Rod + Bob
+%	\draw (0,0) -- (-60:4) node[fill,circle](m){};
+%	
+%	% Weight Force
+%	\draw[-latex] (m) -- node[right]{$\vec{P}$}++(0,-1) ;
+%	
+%	% Tension Force
+%	\draw [-latex] (m) -- node[right]{$\vec{T}$}(-60:3);
+%	
+%	% Light gray pendulum
+%	\draw[black!10] (0,0) -- (-90:4) node[fill,circle]{};
+%	\draw[black!10] (0,0) -- (-120:4) node[fill,circle]{};
+%	
+%\end{tikzpicture}
+
+
+Known nonlinear models like the physics of birdsong \citep{Mindlin2005}, or models for population dynamics, chemical reactions, light propagation, can recover global behavior like epidemics \citep{Southall2021}, population extinctions \citep{Jackson2001}, nonlinear oscillations \citep{Diz-Pita2021}, light self-focusing \citep{Bejot2011}, etc.. 
+
+While systems near equilibrium  or steady state can usually be approximated by linear equations, this approach is no longer applicable when far from the equilibrium, for example under the action of a large forcing \citep{Londono2015}. 
+Other systems are  intrinsically nonlinear, like the fluid motion described by the Navier-Stokes equation or the gravitational field described by the Einstein theory of general relativity.% even when deduced by first principles, most notably the Navier-stokes which describe the behavior of fluids, and  the Einstein field equations in general relativity.
+
+% amplitudes, or they might no even be linearizable in the first place, like chaotic systems.
+
+These non-linear systems are seldom solvable in an analytical form, and exhibit several behaviors not present in linear systems. Even simple one-dimensional continuous systems can display bifurcations, hysteresis, multi-stability, and in three or more dimensions can display chaos like the non-autonomous pendulum, with high sensitivity to initial conditions,  arbitrary close trajectories becoming exponentially different as time evolves. 
+
+
+Stanislaw Ulam, a Polish-American mathematician and physicist who participated to the Manhattan Project, reportedly once remarked:- "Using a term like nonlinear science is like referring to the bulk of zoology as the study of non-elephant animals.” -.
+This is to say, nature, more often than not,  is nonlinear.
+Given this \textbf{zoo} of behaviors it is clear that a key problem when studying nonlinear systems is the capacity to predict their behavior, in particular when they  display big fluctuations, but also when they can suddenly change their state. 
+
+There are mathematical tools, such as normal forms, that allow one to infer similarities between different nonlinear systems and understand some of their universal properties\footnote{Normal forms \citep{Strogatz2000} are a tool to rewrite the nonlinear models in terms of new variables that are more 'natural' for the dynamics. In general, if one can prove that two models of different systems have the same normal form within a range of parameters, then  there is a mathematical path to understand one system in terms of the other.}. 
+Of particular importance for this thesis is the nonlinear Schrödinger equation (NLS), which appears  in a wide variety of nonlinear systems and allows researchers in different areas to be inspired by results in other fields, as well shown in works where analogies between light intensity in fiber optics and the envelopes of surface gravity waves are made \citep{Solli2007}.
+
+%The prediction of rare and large deviations\footnote{Here, large deviations  also include extremely low values with respect to the normal.\ag{correct by maura 8/1. NOrmal refers to the expected distribution, not just the mean.}} from the normal events, or extreme events, is of particular interest for areas like finance where market crashes are big disruptive events with huge consequences on social systems. 
+But such events can be found  as well in natural systems, like in earth tectonics, ocean waves, and other processes that involve interacting structures at different scales, transitions towards critical points \citep{Sornette2002}, sudden chaotic explorations \citep{Gomel2019}, or nonlinear self amplification \citep{Onorato2021}.
+Following a definition originally coined in finance, rare events are sometimes classified as 'black swans' when they are statistically expected given a normal\footnote{In the sense of being explained by only one stochastic mechanism that results in a power law tail distribution, and are scale-invariant and self-similar.} behavior of the system and cannot be predicted, and 'dragon kings' when the extreme events need a particular deterministic mechanism to occur and thus might be predicted \citep{Sornette2009a}.
+
+For surface gravity waves, extreme events or "rogue waves'' can occur both through random linear superposition \citep{Fedele2016},  in this case being analogous to 'black swans'.
+However, some rogue waves need nonlinear mechanisms to be explained \citep{Onorato2021,2013PhR...528...47O}, where the wave modes can exchange energy between each other, in this case being analogous to 'dragon kings'. %\ag{I don't feel 100\% sure about this analogy, if some of you know Sornette's papers i'd like to have a second opinion. Here is a lighter read \url{https://en.wikipedia.org/wiki/Dragon_king_theory}. I might be cornering myself into something that is not valid just for the sake of making a fun analogy.}
+%\color{red}
+%Prediction of a sudden, big, change in behavior due to a small change is a problem of interest in many fields, from engineering, ecology, climate science, psychology, physics, finance, economics, medicine, etc..  
+%
+%This Critical transitions have received different names in different fields, in physics this are usually called 'phase transition', in climate science this are called 'tipping points', while in ecology are referred as 'regime shifts' while in economics have been described as 'economic catastrophes' \citep{Kopp2016, Feudel2018}.
+%
+%The phrase “tipping point” appears to have originated in industry, where it referred literally to the point at which an engineered system, such as a rail wagon of coal in a Yorkshire foundry \cite{burnley1871} or a cup in a tilting water meter \cite{Hoadley1883}, tipped over and emptied its contents. The earliest use of the term in academic research occurred in the social sciences. In a Scientific American article on racial segregation, the political scientist Morton Grodzins applied the phrase “tipping point” to a critical proportion of non-whites in a neighborhood, above which the fraction of whites precipitously declines to zero.
+%
+%in particular this is a high priority problem given the challenges we face due to climate change. Indeed, it has been shown that several ecological and climate systems can change drastically due to either a big perturbation that might move the system to another stable solution or due to a bifurcation by a slow change of some parameter \cite{Clements2018a, Bathiany2016, Lenton2011, McKay2022}. 
+%\color{black}
+
+In chapter \ref{ch:RW} we first explore the deterministic nonlinear mechanisms that produce freak  surface waves in the ocean and how the bathymetry can affect the lifetime of these rogue waves\footnote{Comment by Michael Hopkin during an interview with Nature \citep{Hopkin2004} about big waves and offshore oil platforms:-
+	Most current platforms are built with a
+	clearance of 15 meters, he says “The designers
+	think they did a good job, but officers on the
+	platform say ‘we get wet feet’ ''-. As an anecdotal example on how the expected frequency of large waves (compared to the typical variation of the wave height at a given location) can be underestimated.}.
+We will develop the theory on how this might be achieved by the stabilization, or "freezing'', of the self-amplification  of a wave packet over a sharp transition (over less than a wavelength) between two depths.
+We demonstrate this is feasible with experimental realizations made in a wave flume, and provide an interpretation of these results based on numerical simulations \citep{Gomel2021}. 
+Finally, we also provide a theoretical framework to stabilize the wave packet in the case of a continuous and adiabatic change in bathymetry from an initial finite depth towards infinite depth, and propose a possible configuration feasible in an experimental setup for future verification \citep{Armaroli2020}. 
+
+In chapter \ref{ch:HONLS} we will describe an extension  at fourth order in the wave steepness of the nonlinear Schrödinger equation  for surface gravity waves that is valid for arbitrary depths.
+We will compare our development with previous results from the literature by using a high order spectral method (HOSM) \citep{Clamond2006}, a numerical implementation of the wave problem that is more accurate than the NLS \citep{lunser22} but harder to interpret, and with previously published experimental results as a benchmark. 
+This development is, to our knowledge, the only available  simple fourth-order NLS equation at finite depth which converges to the verified deep-water fourth-order NLS equation, also referred as Dysthe equation \citep{Janssen1983}.
+This is achieved by explicitly keeping the contribution of the meanflow which goes from being a third-order  contribution in shallow water  to a fourth-order contribution in deep water.
+
+In chapter \ref{ch:Filaments} we move to another physical  system that can be described by the NLS, the propagation of a high intensity laser beam in air \citep{Fibich2015,Boyd2008}.
+As is the case with surface gravity waves, the nonlinear effects in the propagation of light in air can also lead to modulations of the wave group provoked by self-amplification,  referred in the optics community as the Kerr effect or self-focusing\footnote{Since this leads to higher light intensity and is understood as the beam focusing itself.}
+
+Much like surface gravity waves which break when  they become too steep, the behavior of physical systems are in general limited by the appearance of self-regulating processes that keep the energy density finite.
+In the case of a high-intensity light pulse  propagating in air, the self-focusing eventually produces ionization, creating a dynamically stable plasma channel, usually called a filament \citep{Chin2006,Braun1994}, which can extend   up to the order of hundreds of meters \citep{Rodriguez2004} but  eventually limited by the effect of losses due to ionization, lowering  the beam intensity and preventing further self-focusing.
+By introducing noise  into the propagation medium of a high intensity laser beam and perturbing the refractive index of air, we  study  the nonlinear behavior of the propagation  as the input  power is increased and the beam transitions to a dynamical behavior characterized by the presence of filaments. 
+By analyzing the statistics of the spectral intensity in the beam, we will exhibit two statistical regimes as the system transitions to filamentation, showing that this transition is complex and  difficult to characterize  by a single parameter.
+
+
+Overall, along this thesis we will investigate the behavior and similarities of surface gravity waves and high intensity light propagation. These two nonlinear systems  are physically very different, yet very similar in how their dynamics can be modeled and understood.
+
+%
+%\color{red}
+%Finally, in chapter \ref{ch: ews}  we change to explore the possibility of predicting changes in the qualitative behavior of dynamical systems. 
+%There we will give a summary on tipping point, a subject which we have started exploring, and show some preliminary explorations and results
+%\color{black}
+
+%
+%\subsubsection{resources}
+%
+%The importance of tipping point in our climate and bioms has lead to the creation of several organizations that keep track of historical data and possible tippings in many systems. 
+%Such as the fishery crisis website, \url{http://fisherycrisis.com/}, which tracks sea life abundance for several species all over the globe. 
+%\url{https://www.thetippingpoints.com/} ... 
